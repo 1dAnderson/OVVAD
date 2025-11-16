@@ -80,6 +80,8 @@ def MILAlign(x_v,x_t,logit_scale,label,seq_len,device):
 
     vFeature = vFeature / vFeature.norm(dim=-1, keepdim=True)
     tFeature = tFeature / tFeature.norm(dim=-1, keepdim=True)
+    # if torch.isnan(vFeature).any(): print("v_feat has NaN")
+    # if torch.isnan(tFeature).any(): print("t_feat_le has NaN")
     #logits = logit_scale*vFeature @ tFeature.type(vFeature.dtype).t()
     if len(tFeature.shape) == 2:
         logits = logit_scale*vFeature @ tFeature.type(vFeature.dtype).t()

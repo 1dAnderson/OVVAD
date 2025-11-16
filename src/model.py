@@ -105,7 +105,7 @@ class Model(nn.Module):
         self.TM = TemporalModule(cfg,cfg.feat_dim,cfg.head_num, cfg.dropout_gat,cfg.gamma, cfg.bias,device)
        
         ###########ablation experiment：transformer
-        # self.temporalModelling = TemporalModelling(width=512, layers=2, heads=8, dropout=0.0)
+        # self.temporalModelling = TemporalModelling(width=512, layers=2, heads=4, dropout=0.6)
         ##############################
 
         self.device = device
@@ -192,6 +192,7 @@ class Model(nn.Module):
             # x_v = self.temporalModelling(x_v).permute(0,2,1)
             ################################
         else:
+            x_v = F.normalize(x_v, dim=-1)
             x_v = x_v.permute(0,2,1)
         logits = self.classifier(x_v)
         logits = logits.permute(0, 2, 1)

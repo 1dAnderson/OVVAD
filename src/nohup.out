@@ -1,0 +1,2167 @@
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 195, in <module>
+    parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
+NameError: name 'parser' is not defined
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+[2025-10-24 14:16:04,037][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:4', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 5.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:16:11,916][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:16:11,917][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:16:11,917][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:16:11,919][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:16:27,267][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:16:43,967][main.py][line:98][INFO] save model at epoch1, AUC:0.7909
+
+[2025-10-24 14:16:43,968][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.5609 loss2:1.7687 pseloss:0.0510| AUC:0.7909 
+ top1ACC:0.5310 top5ACC:0.7310 mauc:0.8213 mauc_ab:0.8166
+[2025-10-24 14:17:01,732][main.py][line:98][INFO] save model at epoch2, AUC:0.8483
+
+[2025-10-24 14:17:01,733][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3444 loss2:0.8494 pseloss:0.0403| AUC:0.8483 
+ top1ACC:0.5724 top5ACC:0.7483 mauc:0.8392 mauc_ab:0.8314
+[2025-10-24 14:17:16,014][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2577 loss2:0.6084 pseloss:0.0369| AUC:0.8446 
+ top1ACC:0.5931 top5ACC:0.7621 mauc:0.7945 mauc_ab:0.7821
+[2025-10-24 14:17:30,408][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2025 loss2:0.4996 pseloss:0.0345| AUC:0.8358 
+ top1ACC:0.6207 top5ACC:0.7828 mauc:0.8261 mauc_ab:0.8162
+[2025-10-24 14:17:44,746][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.1876 loss2:0.4114 pseloss:0.0353| AUC:0.8417 
+ top1ACC:0.6034 top5ACC:0.8069 mauc:0.8465 mauc_ab:0.8360
+[2025-10-24 14:17:59,016][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.1737 loss2:0.3182 pseloss:0.0342| AUC:0.8421 
+ top1ACC:0.6172 top5ACC:0.7897 mauc:0.8565 mauc_ab:0.8465
+[2025-10-24 14:18:13,769][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1149 loss2:0.2582 pseloss:0.0308| AUC:0.8224 
+ top1ACC:0.6138 top5ACC:0.8138 mauc:0.8527 mauc_ab:0.8430
+[2025-10-24 14:18:27,940][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.0952 loss2:0.2207 pseloss:0.0305| AUC:0.8336 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8462 mauc_ab:0.8356
+[2025-10-24 14:18:42,841][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.0755 loss2:0.1967 pseloss:0.0288| AUC:0.8247 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8531 mauc_ab:0.8434
+[2025-10-24 14:18:58,570][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.0732 loss2:0.1629 pseloss:0.0280| AUC:0.8431 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8475 mauc_ab:0.8364
+[2025-10-24 14:19:13,874][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.0605 loss2:0.1204 pseloss:0.0263| AUC:0.8158 
+ top1ACC:0.6103 top5ACC:0.8069 mauc:0.8474 mauc_ab:0.8371
+[2025-10-24 14:19:28,455][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.0804 loss2:0.1091 pseloss:0.0289| AUC:0.8387 
+ top1ACC:0.6172 top5ACC:0.8000 mauc:0.8508 mauc_ab:0.8401
+[2025-10-24 14:19:50,341][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.0912 loss2:0.0909 pseloss:0.0282| AUC:0.8331 
+ top1ACC:0.6103 top5ACC:0.7828 mauc:0.8285 mauc_ab:0.8163
+[2025-10-24 14:20:11,855][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.0555 loss2:0.0829 pseloss:0.0255| AUC:0.8117 
+ top1ACC:0.6034 top5ACC:0.8276 mauc:0.8467 mauc_ab:0.8358
+Traceback (most recent call last):
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 220, in <module>
+    main(cfg)
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 179, in main
+    train(model, train_loader, test_loader, gt, logger,clslist)
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/main.py", line 89, in train
+    auc,top1acc,top5acc,mauc,mauc_WOnorm = test_func(test_loader, model, gt, cfg.dataset,clslist,cfg.device)
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/test.py", line 113, in test_func
+    logits,v_feat,t_feat_pre,t_feat_le = model(v_input, seq_len,cls_list)
+  File "/home/dengyunhui/.conda/envs/plovad/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/dengyunhui/.conda/envs/plovad/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/model.py", line 205, in forward
+    t_feature_le = self.encode_learnable_prompt(clslist)
+  File "/home/dengyunhui/repo/VAD/PLOVAD/src/model.py", line 166, in encode_learnable_prompt
+    text_tokens[i, self.prefix + ind + self.postfix] = word_tokens[i, ind]
+KeyboardInterrupt
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+[2025-10-24 14:21:45,140][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:6', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 7.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:21:45,207][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:2', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 10.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:21:45,327][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:4', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 5.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:21:45,377][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:0', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 8.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:21:45,397][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:1', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 9.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:21:45,398][main.py][line:127][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:5', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 6.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 50, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:21:54,768][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:21:54,769][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:21:54,769][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:21:54,776][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:21:56,990][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:21:56,991][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:21:56,991][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:21:56,996][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:21:57,103][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:21:57,104][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:21:57,104][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:21:57,108][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:21:57,384][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:21:57,384][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:21:57,384][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:21:57,386][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:21:57,505][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:21:57,506][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:21:57,506][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:21:57,508][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:21:57,607][main.py][line:170][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:21:57,607][main.py][line:174][INFO] Training Mode
+[2025-10-24 14:21:57,608][main.py][line:178][INFO] train from scratch
+[2025-10-24 14:21:57,610][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:22:06,686][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:22:06,762][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:22:07,516][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:22:07,687][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:22:11,010][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:22:11,441][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:22:18,428][main.py][line:98][INFO] save model at epoch1, AUC:0.7943
+
+[2025-10-24 14:22:18,428][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.5942 loss2:1.8955 pseloss:0.0493| AUC:0.7943 
+ top1ACC:0.5172 top5ACC:0.7379 mauc:0.7933 mauc_ab:0.7868
+[2025-10-24 14:22:18,699][main.py][line:98][INFO] save model at epoch1, AUC:0.7940
+
+[2025-10-24 14:22:18,699][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.5826 loss2:1.8214 pseloss:0.0496| AUC:0.7940 
+ top1ACC:0.5172 top5ACC:0.7414 mauc:0.7970 mauc_ab:0.7913
+[2025-10-24 14:22:19,568][main.py][line:98][INFO] save model at epoch1, AUC:0.7987
+
+[2025-10-24 14:22:19,568][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.6091 loss2:1.8806 pseloss:0.0483| AUC:0.7987 
+ top1ACC:0.5207 top5ACC:0.7379 mauc:0.8098 mauc_ab:0.8047
+[2025-10-24 14:22:23,261][main.py][line:98][INFO] save model at epoch1, AUC:0.7917
+
+[2025-10-24 14:22:23,262][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.5696 loss2:1.7921 pseloss:0.0501| AUC:0.7917 
+ top1ACC:0.5310 top5ACC:0.7276 mauc:0.8231 mauc_ab:0.8184
+[2025-10-24 14:22:27,296][main.py][line:98][INFO] save model at epoch1, AUC:0.7916
+
+[2025-10-24 14:22:27,296][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.6012 loss2:1.8364 pseloss:0.0483| AUC:0.7916 
+ top1ACC:0.5172 top5ACC:0.7310 mauc:0.7950 mauc_ab:0.7914
+[2025-10-24 14:22:27,926][main.py][line:98][INFO] save model at epoch1, AUC:0.7943
+
+[2025-10-24 14:22:27,927][main.py][line:104][INFO] [Epoch:1/50]: loss1:0.5629 loss2:1.8159 pseloss:0.0515| AUC:0.7943 
+ top1ACC:0.5241 top5ACC:0.7379 mauc:0.8027 mauc_ab:0.7967
+[2025-10-24 14:22:30,339][main.py][line:98][INFO] save model at epoch2, AUC:0.8454
+
+[2025-10-24 14:22:30,340][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3822 loss2:1.0165 pseloss:0.0387| AUC:0.8454 
+ top1ACC:0.5276 top5ACC:0.7345 mauc:0.8321 mauc_ab:0.8245
+[2025-10-24 14:22:31,797][main.py][line:98][INFO] save model at epoch2, AUC:0.8497
+
+[2025-10-24 14:22:31,861][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3695 loss2:0.8840 pseloss:0.0390| AUC:0.8497 
+ top1ACC:0.5724 top5ACC:0.7655 mauc:0.8156 mauc_ab:0.8033
+[2025-10-24 14:22:32,810][main.py][line:98][INFO] save model at epoch2, AUC:0.8432
+
+[2025-10-24 14:22:32,811][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3865 loss2:0.9459 pseloss:0.0373| AUC:0.8432 
+ top1ACC:0.5724 top5ACC:0.7103 mauc:0.8432 mauc_ab:0.8360
+[2025-10-24 14:22:38,794][main.py][line:98][INFO] save model at epoch2, AUC:0.8469
+
+[2025-10-24 14:22:38,795][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3510 loss2:0.8978 pseloss:0.0397| AUC:0.8469 
+ top1ACC:0.5345 top5ACC:0.7379 mauc:0.8315 mauc_ab:0.8238
+[2025-10-24 14:22:41,986][main.py][line:98][INFO] save model at epoch3, AUC:0.8570
+
+[2025-10-24 14:22:41,987][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2934 loss2:0.7255 pseloss:0.0354| AUC:0.8570 
+ top1ACC:0.5897 top5ACC:0.7483 mauc:0.8328 mauc_ab:0.8241
+[2025-10-24 14:22:42,457][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2770 loss2:0.5617 pseloss:0.0349| AUC:0.8489 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8528 mauc_ab:0.8423
+[2025-10-24 14:22:43,571][main.py][line:98][INFO] save model at epoch2, AUC:0.8453
+
+[2025-10-24 14:22:43,572][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3782 loss2:0.9571 pseloss:0.0382| AUC:0.8453 
+ top1ACC:0.5448 top5ACC:0.7379 mauc:0.7885 mauc_ab:0.7774
+[2025-10-24 14:22:44,383][main.py][line:98][INFO] save model at epoch2, AUC:0.8483
+
+[2025-10-24 14:22:44,384][main.py][line:104][INFO] [Epoch:2/50]: loss1:0.3563 loss2:0.8739 pseloss:0.0417| AUC:0.8483 
+ top1ACC:0.5448 top5ACC:0.7241 mauc:0.7934 mauc_ab:0.7823
+[2025-10-24 14:22:45,509][main.py][line:98][INFO] save model at epoch3, AUC:0.8580
+
+[2025-10-24 14:22:45,509][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2887 loss2:0.6848 pseloss:0.0337| AUC:0.8580 
+ top1ACC:0.6034 top5ACC:0.7310 mauc:0.8752 mauc_ab:0.8682
+[2025-10-24 14:22:54,869][main.py][line:98][INFO] save model at epoch4, AUC:0.8578
+
+[2025-10-24 14:22:54,869][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2332 loss2:0.5856 pseloss:0.0338| AUC:0.8578 
+ top1ACC:0.6034 top5ACC:0.7621 mauc:0.8065 mauc_ab:0.7955
+[2025-10-24 14:22:55,648][main.py][line:98][INFO] save model at epoch3, AUC:0.8495
+
+[2025-10-24 14:22:55,649][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2574 loss2:0.6556 pseloss:0.0362| AUC:0.8495 
+ top1ACC:0.5621 top5ACC:0.7448 mauc:0.8336 mauc_ab:0.8244
+[2025-10-24 14:22:56,015][main.py][line:98][INFO] save model at epoch4, AUC:0.8515
+
+[2025-10-24 14:22:56,015][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2164 loss2:0.4272 pseloss:0.0335| AUC:0.8515 
+ top1ACC:0.6276 top5ACC:0.7759 mauc:0.8441 mauc_ab:0.8332
+[2025-10-24 14:22:56,170][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2486 loss2:0.5101 pseloss:0.0314| AUC:0.8480 
+ top1ACC:0.6207 top5ACC:0.7724 mauc:0.8903 mauc_ab:0.8829
+[2025-10-24 14:22:59,485][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2606 loss2:0.6116 pseloss:0.0366| AUC:0.8435 
+ top1ACC:0.5966 top5ACC:0.7690 mauc:0.8656 mauc_ab:0.8572
+[2025-10-24 14:22:59,575][main.py][line:98][INFO] save model at epoch3, AUC:0.8522
+
+[2025-10-24 14:22:59,575][main.py][line:104][INFO] [Epoch:3/50]: loss1:0.2863 loss2:0.6880 pseloss:0.0334| AUC:0.8522 
+ top1ACC:0.6034 top5ACC:0.7310 mauc:0.8045 mauc_ab:0.7938
+[2025-10-24 14:23:07,063][main.py][line:98][INFO] save model at epoch5, AUC:0.8579
+
+[2025-10-24 14:23:07,063][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.2110 loss2:0.4995 pseloss:0.0330| AUC:0.8579 
+ top1ACC:0.5414 top5ACC:0.7793 mauc:0.7620 mauc_ab:0.7471
+[2025-10-24 14:23:07,345][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.2295 loss2:0.3914 pseloss:0.0317| AUC:0.8558 
+ top1ACC:0.6310 top5ACC:0.7862 mauc:0.8660 mauc_ab:0.8566
+[2025-10-24 14:23:08,629][main.py][line:98][INFO] save model at epoch5, AUC:0.8527
+
+[2025-10-24 14:23:08,630][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.2116 loss2:0.3656 pseloss:0.0345| AUC:0.8527 
+ top1ACC:0.6172 top5ACC:0.7931 mauc:0.8449 mauc_ab:0.8342
+[2025-10-24 14:23:09,331][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2084 loss2:0.5191 pseloss:0.0350| AUC:0.8388 
+ top1ACC:0.6034 top5ACC:0.7724 mauc:0.8007 mauc_ab:0.7887
+[2025-10-24 14:23:16,322][main.py][line:98][INFO] save model at epoch4, AUC:0.8498
+
+[2025-10-24 14:23:16,323][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2086 loss2:0.4546 pseloss:0.0354| AUC:0.8498 
+ top1ACC:0.6241 top5ACC:0.7966 mauc:0.8657 mauc_ab:0.8563
+[2025-10-24 14:23:16,525][main.py][line:98][INFO] save model at epoch4, AUC:0.8533
+
+[2025-10-24 14:23:16,526][main.py][line:104][INFO] [Epoch:4/50]: loss1:0.2359 loss2:0.5344 pseloss:0.0321| AUC:0.8533 
+ top1ACC:0.6207 top5ACC:0.7552 mauc:0.8153 mauc_ab:0.8040
+[2025-10-24 14:23:18,431][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.2005 loss2:0.3095 pseloss:0.0297| AUC:0.8527 
+ top1ACC:0.6207 top5ACC:0.7828 mauc:0.8742 mauc_ab:0.8652
+[2025-10-24 14:23:19,317][main.py][line:98][INFO] save model at epoch6, AUC:0.8582
+
+[2025-10-24 14:23:19,318][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.1784 loss2:0.4032 pseloss:0.0300| AUC:0.8582 
+ top1ACC:0.5862 top5ACC:0.7828 mauc:0.7277 mauc_ab:0.7102
+[2025-10-24 14:23:20,616][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.1965 loss2:0.3011 pseloss:0.0329| AUC:0.8496 
+ top1ACC:0.6276 top5ACC:0.7828 mauc:0.8442 mauc_ab:0.8334
+[2025-10-24 14:23:23,515][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.2114 loss2:0.4608 pseloss:0.0348| AUC:0.8454 
+ top1ACC:0.6138 top5ACC:0.7690 mauc:0.7861 mauc_ab:0.7719
+[2025-10-24 14:23:29,800][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1348 loss2:0.3380 pseloss:0.0283| AUC:0.8442 
+ top1ACC:0.5931 top5ACC:0.8103 mauc:0.7748 mauc_ab:0.7605
+[2025-10-24 14:23:29,813][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1439 loss2:0.2695 pseloss:0.0249| AUC:0.8437 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8618 mauc_ab:0.8522
+[2025-10-24 14:23:31,928][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.1975 loss2:0.3749 pseloss:0.0359| AUC:0.8377 
+ top1ACC:0.6207 top5ACC:0.7931 mauc:0.8574 mauc_ab:0.8470
+[2025-10-24 14:23:31,972][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1446 loss2:0.2572 pseloss:0.0287| AUC:0.8429 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8424 mauc_ab:0.8314
+[2025-10-24 14:23:33,776][main.py][line:98][INFO] save model at epoch5, AUC:0.8543
+
+[2025-10-24 14:23:33,777][main.py][line:104][INFO] [Epoch:5/50]: loss1:0.2304 loss2:0.4473 pseloss:0.0322| AUC:0.8543 
+ top1ACC:0.6276 top5ACC:0.7828 mauc:0.8229 mauc_ab:0.8105
+[2025-10-24 14:23:37,256][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.1884 loss2:0.3659 pseloss:0.0340| AUC:0.8429 
+ top1ACC:0.6241 top5ACC:0.7828 mauc:0.8110 mauc_ab:0.7981
+[2025-10-24 14:23:40,671][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.1232 loss2:0.2862 pseloss:0.0265| AUC:0.8363 
+ top1ACC:0.6172 top5ACC:0.7828 mauc:0.7967 mauc_ab:0.7829
+[2025-10-24 14:23:40,851][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.1348 loss2:0.2387 pseloss:0.0251| AUC:0.8551 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8597 mauc_ab:0.8501
+[2025-10-24 14:23:43,194][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.1189 loss2:0.2219 pseloss:0.0272| AUC:0.8443 
+ top1ACC:0.6172 top5ACC:0.8000 mauc:0.8401 mauc_ab:0.8292
+[2025-10-24 14:23:47,150][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.1789 loss2:0.2976 pseloss:0.0353| AUC:0.8464 
+ top1ACC:0.6241 top5ACC:0.8069 mauc:0.8572 mauc_ab:0.8468
+[2025-10-24 14:23:48,237][main.py][line:104][INFO] [Epoch:6/50]: loss1:0.1922 loss2:0.3403 pseloss:0.0298| AUC:0.8445 
+ top1ACC:0.6241 top5ACC:0.7862 mauc:0.8392 mauc_ab:0.8282
+[2025-10-24 14:23:52,132][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.1028 loss2:0.2445 pseloss:0.0260| AUC:0.8209 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8209 mauc_ab:0.8086
+[2025-10-24 14:23:52,157][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.1186 loss2:0.2119 pseloss:0.0233| AUC:0.8320 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8739 mauc_ab:0.8652
+[2025-10-24 14:23:54,953][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1372 loss2:0.2905 pseloss:0.0316| AUC:0.8420 
+ top1ACC:0.6207 top5ACC:0.7966 mauc:0.8542 mauc_ab:0.8440
+[2025-10-24 14:23:55,190][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.0949 loss2:0.1984 pseloss:0.0248| AUC:0.8297 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8436 mauc_ab:0.8325
+[2025-10-24 14:24:02,929][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1239 loss2:0.2638 pseloss:0.0319| AUC:0.8372 
+ top1ACC:0.6276 top5ACC:0.8138 mauc:0.8573 mauc_ab:0.8469
+[2025-10-24 14:24:03,218][main.py][line:104][INFO] [Epoch:7/50]: loss1:0.1432 loss2:0.2831 pseloss:0.0278| AUC:0.8358 
+ top1ACC:0.6207 top5ACC:0.8000 mauc:0.8466 mauc_ab:0.8359
+[2025-10-24 14:24:03,877][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.1128 loss2:0.1985 pseloss:0.0254| AUC:0.8343 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8104 mauc_ab:0.7972
+[2025-10-24 14:24:04,421][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.1311 loss2:0.1710 pseloss:0.0237| AUC:0.8505 
+ top1ACC:0.6345 top5ACC:0.8172 mauc:0.8695 mauc_ab:0.8604
+[2025-10-24 14:24:07,357][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.0846 loss2:0.1520 pseloss:0.0249| AUC:0.8460 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8397 mauc_ab:0.8281
+[2025-10-24 14:24:12,974][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.1154 loss2:0.2484 pseloss:0.0292| AUC:0.8405 
+ top1ACC:0.6207 top5ACC:0.7931 mauc:0.8496 mauc_ab:0.8394
+[2025-10-24 14:24:15,077][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.0780 loss2:0.1514 pseloss:0.0209| AUC:0.8234 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8465 mauc_ab:0.8360
+[2025-10-24 14:24:16,047][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.0998 loss2:0.1406 pseloss:0.0189| AUC:0.8386 
+ top1ACC:0.6103 top5ACC:0.8103 mauc:0.8643 mauc_ab:0.8549
+[2025-10-24 14:24:16,681][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.1337 loss2:0.2468 pseloss:0.0246| AUC:0.8405 
+ top1ACC:0.6103 top5ACC:0.7897 mauc:0.8479 mauc_ab:0.8381
+[2025-10-24 14:24:19,154][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.1126 loss2:0.1258 pseloss:0.0235| AUC:0.8408 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8352 mauc_ab:0.8231
+[2025-10-24 14:24:19,191][main.py][line:104][INFO] [Epoch:8/50]: loss1:0.1133 loss2:0.2192 pseloss:0.0294| AUC:0.8276 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8521 mauc_ab:0.8419
+[2025-10-24 14:24:26,133][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.0707 loss2:0.1329 pseloss:0.0201| AUC:0.8355 
+ top1ACC:0.6172 top5ACC:0.7897 mauc:0.8319 mauc_ab:0.8198
+[2025-10-24 14:24:27,785][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.0913 loss2:0.1195 pseloss:0.0192| AUC:0.8457 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8530 mauc_ab:0.8424
+[2025-10-24 14:24:31,016][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.0847 loss2:0.1255 pseloss:0.0246| AUC:0.8435 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8437 mauc_ab:0.8322
+[2025-10-24 14:24:31,619][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.0856 loss2:0.2039 pseloss:0.0286| AUC:0.8356 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8585 mauc_ab:0.8484
+[2025-10-24 14:24:32,431][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.0999 loss2:0.2133 pseloss:0.0236| AUC:0.8267 
+ top1ACC:0.6138 top5ACC:0.7931 mauc:0.8469 mauc_ab:0.8364
+[2025-10-24 14:24:34,694][main.py][line:104][INFO] [Epoch:9/50]: loss1:0.0985 loss2:0.1977 pseloss:0.0304| AUC:0.8256 
+ top1ACC:0.6103 top5ACC:0.8069 mauc:0.8590 mauc_ab:0.8492
+[2025-10-24 14:24:37,664][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.0635 loss2:0.1082 pseloss:0.0210| AUC:0.8093 
+ top1ACC:0.6138 top5ACC:0.8069 mauc:0.8442 mauc_ab:0.8333
+[2025-10-24 14:24:39,541][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.1079 loss2:0.0973 pseloss:0.0201| AUC:0.8093 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8576 mauc_ab:0.8476
+[2025-10-24 14:24:43,040][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.0922 loss2:0.0978 pseloss:0.0238| AUC:0.8285 
+ top1ACC:0.6103 top5ACC:0.8000 mauc:0.8452 mauc_ab:0.8339
+[2025-10-24 14:24:47,302][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.0911 loss2:0.1660 pseloss:0.0222| AUC:0.8376 
+ top1ACC:0.6172 top5ACC:0.7931 mauc:0.8397 mauc_ab:0.8284
+[2025-10-24 14:24:48,774][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.0731 loss2:0.0906 pseloss:0.0184| AUC:0.8084 
+ top1ACC:0.6241 top5ACC:0.7931 mauc:0.8301 mauc_ab:0.8179
+[2025-10-24 14:24:50,438][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.0810 loss2:0.1610 pseloss:0.0276| AUC:0.8430 
+ top1ACC:0.6172 top5ACC:0.7828 mauc:0.8396 mauc_ab:0.8285
+[2025-10-24 14:24:51,199][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.1086 loss2:0.0958 pseloss:0.0192| AUC:0.8345 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8629 mauc_ab:0.8529
+[2025-10-24 14:24:51,598][main.py][line:104][INFO] [Epoch:10/50]: loss1:0.0881 loss2:0.1576 pseloss:0.0296| AUC:0.8185 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8544 mauc_ab:0.8440
+[2025-10-24 14:24:55,130][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.0832 loss2:0.0869 pseloss:0.0214| AUC:0.8365 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8515 mauc_ab:0.8405
+[2025-10-24 14:25:00,267][main.py][line:104][INFO] [Epoch:15/50]: loss1:0.0610 loss2:0.0903 pseloss:0.0181| AUC:0.8138 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8413 mauc_ab:0.8298
+[2025-10-24 14:25:02,774][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.1087 loss2:0.1322 pseloss:0.0208| AUC:0.8248 
+ top1ACC:0.6138 top5ACC:0.8069 mauc:0.8504 mauc_ab:0.8403
+[2025-10-24 14:25:03,538][main.py][line:104][INFO] [Epoch:15/50]: loss1:0.0697 loss2:0.0905 pseloss:0.0167| AUC:0.8226 
+ top1ACC:0.6103 top5ACC:0.8069 mauc:0.8560 mauc_ab:0.8455
+[2025-10-24 14:25:06,358][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.0685 loss2:0.1256 pseloss:0.0264| AUC:0.8187 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8591 mauc_ab:0.8489
+[2025-10-24 14:25:07,320][main.py][line:104][INFO] [Epoch:15/50]: loss1:0.0779 loss2:0.0812 pseloss:0.0231| AUC:0.8453 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8392 mauc_ab:0.8273
+[2025-10-24 14:25:09,741][main.py][line:104][INFO] [Epoch:11/50]: loss1:0.0718 loss2:0.1273 pseloss:0.0244| AUC:0.8384 
+ top1ACC:0.6172 top5ACC:0.8000 mauc:0.8469 mauc_ab:0.8365
+[2025-10-24 14:25:11,529][main.py][line:104][INFO] [Epoch:16/50]: loss1:0.0694 loss2:0.0757 pseloss:0.0175| AUC:0.8223 
+ top1ACC:0.6276 top5ACC:0.8000 mauc:0.8346 mauc_ab:0.8225
+[2025-10-24 14:25:15,203][main.py][line:104][INFO] [Epoch:16/50]: loss1:0.0665 loss2:0.0689 pseloss:0.0149| AUC:0.8294 
+ top1ACC:0.6241 top5ACC:0.8138 mauc:0.8525 mauc_ab:0.8418
+[2025-10-24 14:25:17,795][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.1076 loss2:0.1174 pseloss:0.0224| AUC:0.8464 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8452 mauc_ab:0.8342
+[2025-10-24 14:25:18,756][main.py][line:104][INFO] [Epoch:16/50]: loss1:0.0615 loss2:0.0692 pseloss:0.0198| AUC:0.8285 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8457 mauc_ab:0.8343
+[2025-10-24 14:25:22,389][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.0655 loss2:0.1179 pseloss:0.0279| AUC:0.8260 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8610 mauc_ab:0.8508
+[2025-10-24 14:25:23,135][main.py][line:104][INFO] [Epoch:17/50]: loss1:0.1050 loss2:0.0654 pseloss:0.0225| AUC:0.8282 
+ top1ACC:0.6345 top5ACC:0.8310 mauc:0.8411 mauc_ab:0.8295
+[2025-10-24 14:25:27,704][main.py][line:104][INFO] [Epoch:17/50]: loss1:0.0584 loss2:0.0551 pseloss:0.0138| AUC:0.8124 
+ top1ACC:0.6310 top5ACC:0.8207 mauc:0.8526 mauc_ab:0.8419
+[2025-10-24 14:25:28,908][main.py][line:104][INFO] [Epoch:12/50]: loss1:0.0660 loss2:0.1164 pseloss:0.0254| AUC:0.8263 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8420 mauc_ab:0.8312
+[2025-10-24 14:25:30,325][main.py][line:104][INFO] [Epoch:17/50]: loss1:0.0514 loss2:0.0572 pseloss:0.0184| AUC:0.8192 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8515 mauc_ab:0.8405
+[2025-10-24 14:25:32,682][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.1225 loss2:0.1030 pseloss:0.0236| AUC:0.8298 
+ top1ACC:0.6172 top5ACC:0.7966 mauc:0.8343 mauc_ab:0.8226
+[2025-10-24 14:25:35,411][main.py][line:104][INFO] [Epoch:18/50]: loss1:0.1441 loss2:0.0775 pseloss:0.0246| AUC:0.8539 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8255 mauc_ab:0.8126
+[2025-10-24 14:25:39,926][main.py][line:104][INFO] [Epoch:18/50]: loss1:0.0656 loss2:0.0407 pseloss:0.0134| AUC:0.8079 
+ top1ACC:0.6276 top5ACC:0.8310 mauc:0.8624 mauc_ab:0.8524
+[2025-10-24 14:25:42,596][main.py][line:104][INFO] [Epoch:18/50]: loss1:0.0611 loss2:0.0421 pseloss:0.0180| AUC:0.8177 
+ top1ACC:0.6069 top5ACC:0.8069 mauc:0.8468 mauc_ab:0.8355
+[2025-10-24 14:25:44,544][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.0649 loss2:0.0940 pseloss:0.0268| AUC:0.8259 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8528 mauc_ab:0.8421
+[2025-10-24 14:25:44,671][main.py][line:104][INFO] [Epoch:13/50]: loss1:0.0873 loss2:0.0898 pseloss:0.0261| AUC:0.8263 
+ top1ACC:0.6069 top5ACC:0.8103 mauc:0.8512 mauc_ab:0.8409
+[2025-10-24 14:25:46,826][main.py][line:104][INFO] [Epoch:19/50]: loss1:0.1032 loss2:0.0672 pseloss:0.0218| AUC:0.7988 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8523 mauc_ab:0.8418
+[2025-10-24 14:25:47,562][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.0814 loss2:0.0900 pseloss:0.0191| AUC:0.8204 
+ top1ACC:0.6069 top5ACC:0.8172 mauc:0.8372 mauc_ab:0.8256
+[2025-10-24 14:25:52,677][main.py][line:104][INFO] [Epoch:19/50]: loss1:0.0946 loss2:0.0362 pseloss:0.0163| AUC:0.8308 
+ top1ACC:0.6310 top5ACC:0.8276 mauc:0.8611 mauc_ab:0.8509
+[2025-10-24 14:25:53,970][main.py][line:104][INFO] [Epoch:19/50]: loss1:0.0529 loss2:0.0359 pseloss:0.0165| AUC:0.8382 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8469 mauc_ab:0.8355
+[2025-10-24 14:25:58,460][main.py][line:104][INFO] [Epoch:20/50]: loss1:0.0790 loss2:0.0499 pseloss:0.0191| AUC:0.8198 
+ top1ACC:0.6207 top5ACC:0.8241 mauc:0.8461 mauc_ab:0.8349
+[2025-10-24 14:25:59,347][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.0799 loss2:0.0808 pseloss:0.0257| AUC:0.8213 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8524 mauc_ab:0.8420
+[2025-10-24 14:26:01,715][main.py][line:104][INFO] [Epoch:15/50]: loss1:0.0707 loss2:0.0739 pseloss:0.0185| AUC:0.8249 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8419 mauc_ab:0.8305
+[2025-10-24 14:26:05,022][main.py][line:104][INFO] [Epoch:20/50]: loss1:0.0734 loss2:0.0349 pseloss:0.0146| AUC:0.8235 
+ top1ACC:0.6276 top5ACC:0.8345 mauc:0.8557 mauc_ab:0.8453
+[2025-10-24 14:26:05,555][main.py][line:104][INFO] [Epoch:20/50]: loss1:0.0538 loss2:0.0345 pseloss:0.0169| AUC:0.8109 
+ top1ACC:0.6172 top5ACC:0.8207 mauc:0.8474 mauc_ab:0.8362
+[2025-10-24 14:26:05,966][main.py][line:104][INFO] [Epoch:14/50]: loss1:0.0522 loss2:0.0766 pseloss:0.0231| AUC:0.8045 
+ top1ACC:0.6207 top5ACC:0.8310 mauc:0.8532 mauc_ab:0.8423
+[2025-10-24 14:26:09,845][main.py][line:104][INFO] [Epoch:21/50]: loss1:0.0506 loss2:0.0448 pseloss:0.0157| AUC:0.8147 
+ top1ACC:0.6276 top5ACC:0.8276 mauc:0.8449 mauc_ab:0.8336
+[2025-10-24 14:26:14,107][main.py][line:104][INFO] [Epoch:15/50]: loss1:0.0802 loss2:0.0768 pseloss:0.0252| AUC:0.8476 
+ top1ACC:0.6310 top5ACC:0.8172 mauc:0.8430 mauc_ab:0.8315
+[2025-10-24 14:26:16,607][main.py][line:104][INFO] [Epoch:16/50]: loss1:0.0579 loss2:0.0494 pseloss:0.0158| AUC:0.8369 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8436 mauc_ab:0.8321
+[2025-10-24 14:26:17,200][main.py][line:104][INFO] [Epoch:21/50]: loss1:0.0572 loss2:0.0329 pseloss:0.0133| AUC:0.7985 
+ top1ACC:0.6345 top5ACC:0.8138 mauc:0.8513 mauc_ab:0.8405
+[2025-10-24 14:26:17,532][main.py][line:104][INFO] [Epoch:21/50]: loss1:0.0512 loss2:0.0295 pseloss:0.0168| AUC:0.8070 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8549 mauc_ab:0.8442
+[2025-10-24 14:26:21,211][main.py][line:104][INFO] [Epoch:22/50]: loss1:0.0465 loss2:0.0351 pseloss:0.0143| AUC:0.8195 
+ top1ACC:0.6069 top5ACC:0.8207 mauc:0.8460 mauc_ab:0.8347
+[2025-10-24 14:26:28,520][main.py][line:104][INFO] [Epoch:16/50]: loss1:0.0780 loss2:0.0633 pseloss:0.0242| AUC:0.8322 
+ top1ACC:0.6172 top5ACC:0.8138 mauc:0.8516 mauc_ab:0.8409
+[2025-10-24 14:26:28,726][main.py][line:104][INFO] [Epoch:15/50]: loss1:0.0446 loss2:0.0625 pseloss:0.0240| AUC:0.8154 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8510 mauc_ab:0.8400
+[2025-10-24 14:26:28,924][main.py][line:104][INFO] [Epoch:22/50]: loss1:0.0418 loss2:0.0256 pseloss:0.0152| AUC:0.8121 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8535 mauc_ab:0.8427
+[2025-10-24 14:26:29,489][main.py][line:104][INFO] [Epoch:22/50]: loss1:0.0522 loss2:0.0260 pseloss:0.0124| AUC:0.8028 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8461 mauc_ab:0.8348
+[2025-10-24 14:26:31,368][main.py][line:104][INFO] [Epoch:17/50]: loss1:0.0470 loss2:0.0444 pseloss:0.0144| AUC:0.8157 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8399 mauc_ab:0.8283
+[2025-10-24 14:26:33,334][main.py][line:104][INFO] [Epoch:23/50]: loss1:0.0410 loss2:0.0351 pseloss:0.0134| AUC:0.8131 
+ top1ACC:0.6310 top5ACC:0.8172 mauc:0.8441 mauc_ab:0.8325
+[2025-10-24 14:26:41,408][main.py][line:104][INFO] [Epoch:23/50]: loss1:0.0508 loss2:0.0257 pseloss:0.0130| AUC:0.8209 
+ top1ACC:0.6276 top5ACC:0.8379 mauc:0.8558 mauc_ab:0.8453
+[2025-10-24 14:26:41,424][main.py][line:104][INFO] [Epoch:23/50]: loss1:0.0508 loss2:0.0244 pseloss:0.0143| AUC:0.8373 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8534 mauc_ab:0.8425
+[2025-10-24 14:26:42,469][main.py][line:104][INFO] [Epoch:17/50]: loss1:0.0565 loss2:0.0487 pseloss:0.0223| AUC:0.8067 
+ top1ACC:0.6207 top5ACC:0.7966 mauc:0.8485 mauc_ab:0.8376
+[2025-10-24 14:26:44,910][main.py][line:104][INFO] [Epoch:18/50]: loss1:0.0478 loss2:0.0360 pseloss:0.0133| AUC:0.8296 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8391 mauc_ab:0.8272
+[2025-10-24 14:26:45,763][main.py][line:104][INFO] [Epoch:24/50]: loss1:0.0392 loss2:0.0291 pseloss:0.0135| AUC:0.8249 
+ top1ACC:0.6379 top5ACC:0.8345 mauc:0.8389 mauc_ab:0.8269
+[2025-10-24 14:26:49,940][main.py][line:104][INFO] [Epoch:16/50]: loss1:0.0479 loss2:0.0498 pseloss:0.0219| AUC:0.7948 
+ top1ACC:0.6138 top5ACC:0.8276 mauc:0.8497 mauc_ab:0.8386
+[2025-10-24 14:26:52,577][main.py][line:104][INFO] [Epoch:24/50]: loss1:0.0421 loss2:0.0311 pseloss:0.0165| AUC:0.8393 
+ top1ACC:0.6207 top5ACC:0.8379 mauc:0.8519 mauc_ab:0.8409
+[2025-10-24 14:26:53,284][main.py][line:104][INFO] [Epoch:24/50]: loss1:0.0676 loss2:0.0295 pseloss:0.0104| AUC:0.8132 
+ top1ACC:0.6172 top5ACC:0.8069 mauc:0.8415 mauc_ab:0.8299
+[2025-10-24 14:26:56,798][main.py][line:104][INFO] [Epoch:19/50]: loss1:0.0515 loss2:0.0343 pseloss:0.0135| AUC:0.8248 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8399 mauc_ab:0.8283
+[2025-10-24 14:26:57,048][main.py][line:104][INFO] [Epoch:25/50]: loss1:0.0446 loss2:0.0220 pseloss:0.0136| AUC:0.8204 
+ top1ACC:0.6310 top5ACC:0.8241 mauc:0.8481 mauc_ab:0.8371
+[2025-10-24 14:26:57,346][main.py][line:104][INFO] [Epoch:18/50]: loss1:0.0687 loss2:0.0395 pseloss:0.0210| AUC:0.8373 
+ top1ACC:0.6103 top5ACC:0.7966 mauc:0.8437 mauc_ab:0.8323
+[2025-10-24 14:27:03,895][main.py][line:104][INFO] [Epoch:25/50]: loss1:0.0469 loss2:0.0310 pseloss:0.0150| AUC:0.8172 
+ top1ACC:0.6172 top5ACC:0.8483 mauc:0.8490 mauc_ab:0.8377
+[2025-10-24 14:27:04,887][main.py][line:104][INFO] [Epoch:25/50]: loss1:0.0380 loss2:0.0267 pseloss:0.0116| AUC:0.7981 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8508 mauc_ab:0.8398
+[2025-10-24 14:27:09,049][main.py][line:104][INFO] [Epoch:26/50]: loss1:0.0373 loss2:0.0189 pseloss:0.0138| AUC:0.8100 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8431 mauc_ab:0.8317
+[2025-10-24 14:27:12,363][main.py][line:104][INFO] [Epoch:19/50]: loss1:0.0560 loss2:0.0441 pseloss:0.0206| AUC:0.8311 
+ top1ACC:0.6241 top5ACC:0.7931 mauc:0.8401 mauc_ab:0.8286
+[2025-10-24 14:27:12,415][main.py][line:104][INFO] [Epoch:17/50]: loss1:0.0484 loss2:0.0456 pseloss:0.0244| AUC:0.8314 
+ top1ACC:0.6207 top5ACC:0.8103 mauc:0.8496 mauc_ab:0.8385
+[2025-10-24 14:27:12,915][main.py][line:104][INFO] [Epoch:20/50]: loss1:0.0445 loss2:0.0287 pseloss:0.0125| AUC:0.8164 
+ top1ACC:0.6414 top5ACC:0.8241 mauc:0.8556 mauc_ab:0.8452
+[2025-10-24 14:27:15,376][main.py][line:104][INFO] [Epoch:26/50]: loss1:0.0442 loss2:0.0266 pseloss:0.0161| AUC:0.8105 
+ top1ACC:0.6207 top5ACC:0.8276 mauc:0.8409 mauc_ab:0.8291
+[2025-10-24 14:27:16,555][main.py][line:104][INFO] [Epoch:26/50]: loss1:0.0540 loss2:0.0235 pseloss:0.0112| AUC:0.8096 
+ top1ACC:0.6310 top5ACC:0.8207 mauc:0.8525 mauc_ab:0.8417
+[2025-10-24 14:27:20,344][main.py][line:104][INFO] [Epoch:27/50]: loss1:0.0498 loss2:0.0189 pseloss:0.0121| AUC:0.8179 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8366 mauc_ab:0.8246
+[2025-10-24 14:27:27,044][main.py][line:104][INFO] [Epoch:20/50]: loss1:0.0353 loss2:0.0297 pseloss:0.0189| AUC:0.8049 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8501 mauc_ab:0.8392
+[2025-10-24 14:27:27,332][main.py][line:104][INFO] [Epoch:27/50]: loss1:0.0524 loss2:0.0235 pseloss:0.0138| AUC:0.8159 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8376 mauc_ab:0.8256
+[2025-10-24 14:27:27,710][main.py][line:104][INFO] [Epoch:27/50]: loss1:0.0499 loss2:0.0268 pseloss:0.0115| AUC:0.8173 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8346 mauc_ab:0.8223
+[2025-10-24 14:27:27,756][main.py][line:104][INFO] [Epoch:21/50]: loss1:0.0539 loss2:0.0242 pseloss:0.0118| AUC:0.8231 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8471 mauc_ab:0.8359
+[2025-10-24 14:27:30,258][main.py][line:104][INFO] [Epoch:18/50]: loss1:0.0478 loss2:0.0331 pseloss:0.0220| AUC:0.8170 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8473 mauc_ab:0.8360
+[2025-10-24 14:27:31,792][main.py][line:104][INFO] [Epoch:28/50]: loss1:0.0305 loss2:0.0184 pseloss:0.0119| AUC:0.8100 
+ top1ACC:0.6379 top5ACC:0.8172 mauc:0.8407 mauc_ab:0.8289
+[2025-10-24 14:27:38,255][main.py][line:104][INFO] [Epoch:28/50]: loss1:0.0375 loss2:0.0237 pseloss:0.0139| AUC:0.8052 
+ top1ACC:0.6207 top5ACC:0.8241 mauc:0.8425 mauc_ab:0.8307
+[2025-10-24 14:27:39,385][main.py][line:104][INFO] [Epoch:28/50]: loss1:0.0866 loss2:0.0517 pseloss:0.0159| AUC:0.8139 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8607 mauc_ab:0.8504
+[2025-10-24 14:27:41,807][main.py][line:104][INFO] [Epoch:21/50]: loss1:0.0355 loss2:0.0257 pseloss:0.0184| AUC:0.8078 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8530 mauc_ab:0.8423
+[2025-10-24 14:27:42,301][main.py][line:104][INFO] [Epoch:22/50]: loss1:0.0657 loss2:0.0235 pseloss:0.0154| AUC:0.8157 
+ top1ACC:0.6241 top5ACC:0.8172 mauc:0.8427 mauc_ab:0.8312
+[2025-10-24 14:27:42,847][main.py][line:104][INFO] [Epoch:29/50]: loss1:0.0342 loss2:0.0162 pseloss:0.0114| AUC:0.8166 
+ top1ACC:0.6207 top5ACC:0.8310 mauc:0.8405 mauc_ab:0.8288
+[2025-10-24 14:27:45,185][main.py][line:104][INFO] [Epoch:19/50]: loss1:0.0537 loss2:0.0296 pseloss:0.0209| AUC:0.8052 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8469 mauc_ab:0.8357
+[2025-10-24 14:27:49,178][main.py][line:104][INFO] [Epoch:29/50]: loss1:0.0394 loss2:0.0188 pseloss:0.0123| AUC:0.8062 
+ top1ACC:0.6138 top5ACC:0.8414 mauc:0.8364 mauc_ab:0.8242
+[2025-10-24 14:27:51,623][main.py][line:104][INFO] [Epoch:29/50]: loss1:0.0487 loss2:0.0430 pseloss:0.0126| AUC:0.8018 
+ top1ACC:0.6276 top5ACC:0.7931 mauc:0.8454 mauc_ab:0.8338
+[2025-10-24 14:27:54,382][main.py][line:104][INFO] [Epoch:30/50]: loss1:0.0301 loss2:0.0150 pseloss:0.0101| AUC:0.8149 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8360 mauc_ab:0.8239
+[2025-10-24 14:27:55,562][main.py][line:104][INFO] [Epoch:22/50]: loss1:0.0476 loss2:0.0242 pseloss:0.0196| AUC:0.8354 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8430 mauc_ab:0.8314
+[2025-10-24 14:27:56,300][main.py][line:104][INFO] [Epoch:23/50]: loss1:0.0554 loss2:0.0333 pseloss:0.0128| AUC:0.8240 
+ top1ACC:0.6241 top5ACC:0.8310 mauc:0.8437 mauc_ab:0.8321
+[2025-10-24 14:28:00,225][main.py][line:104][INFO] [Epoch:30/50]: loss1:0.0291 loss2:0.0182 pseloss:0.0112| AUC:0.8088 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8411 mauc_ab:0.8293
+[2025-10-24 14:28:00,610][main.py][line:104][INFO] [Epoch:20/50]: loss1:0.0297 loss2:0.0254 pseloss:0.0184| AUC:0.7603 
+ top1ACC:0.6138 top5ACC:0.8310 mauc:0.8509 mauc_ab:0.8399
+[2025-10-24 14:28:03,667][main.py][line:104][INFO] [Epoch:30/50]: loss1:0.0544 loss2:0.0230 pseloss:0.0128| AUC:0.8049 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8472 mauc_ab:0.8358
+[2025-10-24 14:28:06,119][main.py][line:104][INFO] [Epoch:31/50]: loss1:0.0277 loss2:0.0132 pseloss:0.0099| AUC:0.7958 
+ top1ACC:0.6276 top5ACC:0.8138 mauc:0.8398 mauc_ab:0.8280
+[2025-10-24 14:28:09,196][main.py][line:104][INFO] [Epoch:23/50]: loss1:0.0657 loss2:0.0233 pseloss:0.0195| AUC:0.8231 
+ top1ACC:0.6069 top5ACC:0.8241 mauc:0.8423 mauc_ab:0.8307
+[2025-10-24 14:28:11,478][main.py][line:104][INFO] [Epoch:24/50]: loss1:0.0593 loss2:0.0308 pseloss:0.0141| AUC:0.8185 
+ top1ACC:0.6276 top5ACC:0.8103 mauc:0.8491 mauc_ab:0.8381
+[2025-10-24 14:28:11,655][main.py][line:104][INFO] [Epoch:31/50]: loss1:0.0351 loss2:0.0145 pseloss:0.0128| AUC:0.8052 
+ top1ACC:0.6310 top5ACC:0.8379 mauc:0.8435 mauc_ab:0.8318
+[2025-10-24 14:28:15,063][main.py][line:104][INFO] [Epoch:31/50]: loss1:0.0617 loss2:0.0218 pseloss:0.0113| AUC:0.8001 
+ top1ACC:0.6207 top5ACC:0.8103 mauc:0.8433 mauc_ab:0.8316
+[2025-10-24 14:28:15,665][main.py][line:104][INFO] [Epoch:21/50]: loss1:0.0497 loss2:0.0204 pseloss:0.0212| AUC:0.8295 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8424 mauc_ab:0.8306
+[2025-10-24 14:28:16,857][main.py][line:104][INFO] [Epoch:32/50]: loss1:0.0335 loss2:0.0111 pseloss:0.0097| AUC:0.8175 
+ top1ACC:0.6276 top5ACC:0.8000 mauc:0.8371 mauc_ab:0.8250
+[2025-10-24 14:28:22,663][main.py][line:104][INFO] [Epoch:32/50]: loss1:0.0341 loss2:0.0143 pseloss:0.0117| AUC:0.8091 
+ top1ACC:0.6241 top5ACC:0.8172 mauc:0.8343 mauc_ab:0.8220
+[2025-10-24 14:28:23,506][main.py][line:104][INFO] [Epoch:24/50]: loss1:0.0448 loss2:0.0190 pseloss:0.0187| AUC:0.8132 
+ top1ACC:0.6103 top5ACC:0.8000 mauc:0.8479 mauc_ab:0.8368
+[2025-10-24 14:28:26,419][main.py][line:104][INFO] [Epoch:25/50]: loss1:0.0465 loss2:0.0226 pseloss:0.0139| AUC:0.8120 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8454 mauc_ab:0.8342
+[2025-10-24 14:28:27,145][main.py][line:104][INFO] [Epoch:32/50]: loss1:0.0468 loss2:0.0208 pseloss:0.0106| AUC:0.8057 
+ top1ACC:0.6414 top5ACC:0.8241 mauc:0.8478 mauc_ab:0.8365
+[2025-10-24 14:28:27,998][main.py][line:104][INFO] [Epoch:33/50]: loss1:0.0299 loss2:0.0114 pseloss:0.0106| AUC:0.8028 
+ top1ACC:0.6310 top5ACC:0.8345 mauc:0.8425 mauc_ab:0.8310
+[2025-10-24 14:28:30,719][main.py][line:104][INFO] [Epoch:22/50]: loss1:0.0560 loss2:0.0246 pseloss:0.0229| AUC:0.8109 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8394 mauc_ab:0.8274
+[2025-10-24 14:28:34,290][main.py][line:104][INFO] [Epoch:33/50]: loss1:0.0289 loss2:0.0123 pseloss:0.0113| AUC:0.8012 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8417 mauc_ab:0.8299
+[2025-10-24 14:28:38,511][main.py][line:104][INFO] [Epoch:25/50]: loss1:0.0294 loss2:0.0208 pseloss:0.0170| AUC:0.8069 
+ top1ACC:0.6138 top5ACC:0.8241 mauc:0.8440 mauc_ab:0.8327
+[2025-10-24 14:28:39,117][main.py][line:104][INFO] [Epoch:34/50]: loss1:0.0306 loss2:0.0132 pseloss:0.0100| AUC:0.7989 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8369 mauc_ab:0.8249
+[2025-10-24 14:28:39,586][main.py][line:104][INFO] [Epoch:33/50]: loss1:0.0465 loss2:0.0175 pseloss:0.0097| AUC:0.7900 
+ top1ACC:0.6241 top5ACC:0.8069 mauc:0.8435 mauc_ab:0.8319
+[2025-10-24 14:28:40,591][main.py][line:104][INFO] [Epoch:26/50]: loss1:0.0559 loss2:0.0190 pseloss:0.0124| AUC:0.8249 
+ top1ACC:0.6172 top5ACC:0.7931 mauc:0.8343 mauc_ab:0.8220
+[2025-10-24 14:28:45,313][main.py][line:104][INFO] [Epoch:34/50]: loss1:0.0276 loss2:0.0132 pseloss:0.0113| AUC:0.7845 
+ top1ACC:0.6172 top5ACC:0.8414 mauc:0.8476 mauc_ab:0.8364
+[2025-10-24 14:28:45,597][main.py][line:104][INFO] [Epoch:23/50]: loss1:0.0425 loss2:0.0214 pseloss:0.0200| AUC:0.7965 
+ top1ACC:0.6207 top5ACC:0.8207 mauc:0.8472 mauc_ab:0.8359
+[2025-10-24 14:28:49,969][main.py][line:104][INFO] [Epoch:35/50]: loss1:0.0314 loss2:0.0102 pseloss:0.0094| AUC:0.8052 
+ top1ACC:0.6138 top5ACC:0.8310 mauc:0.8451 mauc_ab:0.8338
+[2025-10-24 14:28:51,146][main.py][line:104][INFO] [Epoch:34/50]: loss1:0.0333 loss2:0.0178 pseloss:0.0095| AUC:0.7896 
+ top1ACC:0.6310 top5ACC:0.8379 mauc:0.8413 mauc_ab:0.8295
+[2025-10-24 14:28:52,505][main.py][line:104][INFO] [Epoch:26/50]: loss1:0.0294 loss2:0.0220 pseloss:0.0140| AUC:0.8068 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8459 mauc_ab:0.8345
+[2025-10-24 14:28:55,572][main.py][line:104][INFO] [Epoch:27/50]: loss1:0.0723 loss2:0.0231 pseloss:0.0153| AUC:0.8135 
+ top1ACC:0.6207 top5ACC:0.7931 mauc:0.8320 mauc_ab:0.8197
+[2025-10-24 14:28:57,202][main.py][line:104][INFO] [Epoch:35/50]: loss1:0.0304 loss2:0.0108 pseloss:0.0108| AUC:0.8212 
+ top1ACC:0.6138 top5ACC:0.8069 mauc:0.8411 mauc_ab:0.8293
+[2025-10-24 14:29:00,026][main.py][line:104][INFO] [Epoch:24/50]: loss1:0.0388 loss2:0.0177 pseloss:0.0177| AUC:0.8083 
+ top1ACC:0.6103 top5ACC:0.8172 mauc:0.8465 mauc_ab:0.8352
+[2025-10-24 14:29:00,282][main.py][line:104][INFO] [Epoch:36/50]: loss1:0.0518 loss2:0.0123 pseloss:0.0115| AUC:0.7696 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8450 mauc_ab:0.8338
+[2025-10-24 14:29:02,197][main.py][line:104][INFO] [Epoch:35/50]: loss1:0.0421 loss2:0.0185 pseloss:0.0096| AUC:0.7925 
+ top1ACC:0.6345 top5ACC:0.8448 mauc:0.8331 mauc_ab:0.8206
+[2025-10-24 14:29:06,318][main.py][line:104][INFO] [Epoch:27/50]: loss1:0.0345 loss2:0.0217 pseloss:0.0150| AUC:0.8178 
+ top1ACC:0.6069 top5ACC:0.7931 mauc:0.8313 mauc_ab:0.8189
+[2025-10-24 14:29:09,009][main.py][line:104][INFO] [Epoch:36/50]: loss1:0.0355 loss2:0.0122 pseloss:0.0133| AUC:0.8286 
+ top1ACC:0.6138 top5ACC:0.8000 mauc:0.8296 mauc_ab:0.8168
+[2025-10-24 14:29:10,797][main.py][line:104][INFO] [Epoch:37/50]: loss1:0.0952 loss2:0.0405 pseloss:0.0201| AUC:0.8152 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8506 mauc_ab:0.8395
+[2025-10-24 14:29:11,094][main.py][line:104][INFO] [Epoch:28/50]: loss1:0.0676 loss2:0.0294 pseloss:0.0138| AUC:0.7951 
+ top1ACC:0.6103 top5ACC:0.7862 mauc:0.8367 mauc_ab:0.8248
+[2025-10-24 14:29:13,483][main.py][line:104][INFO] [Epoch:36/50]: loss1:0.0405 loss2:0.0150 pseloss:0.0100| AUC:0.7980 
+ top1ACC:0.6310 top5ACC:0.8276 mauc:0.8389 mauc_ab:0.8269
+[2025-10-24 14:29:15,722][main.py][line:104][INFO] [Epoch:25/50]: loss1:0.0302 loss2:0.0197 pseloss:0.0180| AUC:0.7933 
+ top1ACC:0.6103 top5ACC:0.8414 mauc:0.8435 mauc_ab:0.8320
+[2025-10-24 14:29:20,657][main.py][line:104][INFO] [Epoch:28/50]: loss1:0.0646 loss2:0.0220 pseloss:0.0189| AUC:0.8361 
+ top1ACC:0.6207 top5ACC:0.8103 mauc:0.8484 mauc_ab:0.8372
+[2025-10-24 14:29:20,842][main.py][line:104][INFO] [Epoch:37/50]: loss1:0.0563 loss2:0.0175 pseloss:0.0126| AUC:0.8196 
+ top1ACC:0.6138 top5ACC:0.8276 mauc:0.8404 mauc_ab:0.8284
+[2025-10-24 14:29:21,896][main.py][line:104][INFO] [Epoch:38/50]: loss1:0.0511 loss2:0.0271 pseloss:0.0143| AUC:0.7867 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8342 mauc_ab:0.8219
+[2025-10-24 14:29:23,288][main.py][line:104][INFO] [Epoch:29/50]: loss1:0.0488 loss2:0.0246 pseloss:0.0125| AUC:0.7701 
+ top1ACC:0.6069 top5ACC:0.8138 mauc:0.8413 mauc_ab:0.8297
+[2025-10-24 14:29:25,747][main.py][line:104][INFO] [Epoch:37/50]: loss1:0.0550 loss2:0.0153 pseloss:0.0119| AUC:0.8132 
+ top1ACC:0.6207 top5ACC:0.8241 mauc:0.8338 mauc_ab:0.8213
+[2025-10-24 14:29:30,900][main.py][line:104][INFO] [Epoch:26/50]: loss1:0.0370 loss2:0.0216 pseloss:0.0174| AUC:0.7922 
+ top1ACC:0.6207 top5ACC:0.8379 mauc:0.8421 mauc_ab:0.8304
+[2025-10-24 14:29:32,245][main.py][line:104][INFO] [Epoch:38/50]: loss1:0.0272 loss2:0.0116 pseloss:0.0120| AUC:0.7976 
+ top1ACC:0.6069 top5ACC:0.8172 mauc:0.8347 mauc_ab:0.8224
+[2025-10-24 14:29:33,421][main.py][line:104][INFO] [Epoch:39/50]: loss1:0.0657 loss2:0.0222 pseloss:0.0162| AUC:0.8329 
+ top1ACC:0.6310 top5ACC:0.8345 mauc:0.8335 mauc_ab:0.8210
+[2025-10-24 14:29:35,657][main.py][line:104][INFO] [Epoch:29/50]: loss1:0.0544 loss2:0.0257 pseloss:0.0181| AUC:0.8190 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8471 mauc_ab:0.8359
+[2025-10-24 14:29:37,466][main.py][line:104][INFO] [Epoch:38/50]: loss1:0.0485 loss2:0.0173 pseloss:0.0089| AUC:0.8038 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8373 mauc_ab:0.8251
+[2025-10-24 14:29:38,440][main.py][line:104][INFO] [Epoch:30/50]: loss1:0.0643 loss2:0.0274 pseloss:0.0142| AUC:0.7634 
+ top1ACC:0.5966 top5ACC:0.8103 mauc:0.8399 mauc_ab:0.8284
+[2025-10-24 14:29:43,824][main.py][line:104][INFO] [Epoch:39/50]: loss1:0.0256 loss2:0.0109 pseloss:0.0109| AUC:0.7876 
+ top1ACC:0.6172 top5ACC:0.8345 mauc:0.8456 mauc_ab:0.8342
+[2025-10-24 14:29:44,873][main.py][line:104][INFO] [Epoch:40/50]: loss1:0.0635 loss2:0.0294 pseloss:0.0147| AUC:0.8079 
+ top1ACC:0.6207 top5ACC:0.8207 mauc:0.8407 mauc_ab:0.8290
+[2025-10-24 14:29:46,592][main.py][line:104][INFO] [Epoch:27/50]: loss1:0.0397 loss2:0.0427 pseloss:0.0174| AUC:0.8147 
+ top1ACC:0.6103 top5ACC:0.8138 mauc:0.8433 mauc_ab:0.8317
+[2025-10-24 14:29:49,618][main.py][line:104][INFO] [Epoch:39/50]: loss1:0.0423 loss2:0.0214 pseloss:0.0101| AUC:0.8136 
+ top1ACC:0.6276 top5ACC:0.8276 mauc:0.8409 mauc_ab:0.8290
+[2025-10-24 14:29:50,199][main.py][line:104][INFO] [Epoch:30/50]: loss1:0.0281 loss2:0.0187 pseloss:0.0170| AUC:0.8025 
+ top1ACC:0.6069 top5ACC:0.7931 mauc:0.8398 mauc_ab:0.8281
+[2025-10-24 14:29:52,830][main.py][line:104][INFO] [Epoch:31/50]: loss1:0.0781 loss2:0.0363 pseloss:0.0163| AUC:0.7746 
+ top1ACC:0.6138 top5ACC:0.8069 mauc:0.8545 mauc_ab:0.8439
+[2025-10-24 14:29:56,019][main.py][line:104][INFO] [Epoch:40/50]: loss1:0.0255 loss2:0.0112 pseloss:0.0103| AUC:0.8083 
+ top1ACC:0.6241 top5ACC:0.8138 mauc:0.8439 mauc_ab:0.8323
+[2025-10-24 14:29:57,029][main.py][line:104][INFO] [Epoch:41/50]: loss1:0.0318 loss2:0.0145 pseloss:0.0110| AUC:0.8074 
+ top1ACC:0.6345 top5ACC:0.8276 mauc:0.8388 mauc_ab:0.8268
+[2025-10-24 14:30:00,919][main.py][line:104][INFO] [Epoch:40/50]: loss1:0.0344 loss2:0.0184 pseloss:0.0097| AUC:0.7875 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8470 mauc_ab:0.8356
+[2025-10-24 14:30:02,602][main.py][line:104][INFO] [Epoch:28/50]: loss1:0.0319 loss2:0.0372 pseloss:0.0173| AUC:0.7971 
+ top1ACC:0.6345 top5ACC:0.8276 mauc:0.8430 mauc_ab:0.8313
+[2025-10-24 14:30:07,336][main.py][line:104][INFO] [Epoch:32/50]: loss1:0.0854 loss2:0.0480 pseloss:0.0157| AUC:0.8021 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8492 mauc_ab:0.8382
+[2025-10-24 14:30:08,090][main.py][line:104][INFO] [Epoch:41/50]: loss1:0.0259 loss2:0.0092 pseloss:0.0092| AUC:0.8084 
+ top1ACC:0.6138 top5ACC:0.8138 mauc:0.8279 mauc_ab:0.8151
+[2025-10-24 14:30:08,508][main.py][line:104][INFO] [Epoch:42/50]: loss1:0.0265 loss2:0.0121 pseloss:0.0091| AUC:0.8113 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8215 mauc_ab:0.8082
+[2025-10-24 14:30:08,561][main.py][line:104][INFO] [Epoch:31/50]: loss1:0.0263 loss2:0.0168 pseloss:0.0139| AUC:0.7828 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8421 mauc_ab:0.8305
+[2025-10-24 14:30:12,402][main.py][line:104][INFO] [Epoch:41/50]: loss1:0.0294 loss2:0.0157 pseloss:0.0081| AUC:0.7998 
+ top1ACC:0.6207 top5ACC:0.8310 mauc:0.8439 mauc_ab:0.8323
+[2025-10-24 14:30:18,266][main.py][line:104][INFO] [Epoch:29/50]: loss1:0.0280 loss2:0.0226 pseloss:0.0162| AUC:0.7735 
+ top1ACC:0.6103 top5ACC:0.8345 mauc:0.8413 mauc_ab:0.8295
+[2025-10-24 14:30:19,522][main.py][line:104][INFO] [Epoch:42/50]: loss1:0.0184 loss2:0.0097 pseloss:0.0093| AUC:0.8009 
+ top1ACC:0.6138 top5ACC:0.8138 mauc:0.8400 mauc_ab:0.8281
+[2025-10-24 14:30:19,696][main.py][line:104][INFO] [Epoch:43/50]: loss1:0.0214 loss2:0.0091 pseloss:0.0090| AUC:0.8114 
+ top1ACC:0.6345 top5ACC:0.8138 mauc:0.8321 mauc_ab:0.8195
+[2025-10-24 14:30:22,737][main.py][line:104][INFO] [Epoch:33/50]: loss1:0.0546 loss2:0.0484 pseloss:0.0125| AUC:0.8029 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8502 mauc_ab:0.8391
+[2025-10-24 14:30:24,102][main.py][line:104][INFO] [Epoch:42/50]: loss1:0.0237 loss2:0.0098 pseloss:0.0076| AUC:0.7943 
+ top1ACC:0.6138 top5ACC:0.8276 mauc:0.8449 mauc_ab:0.8333
+[2025-10-24 14:30:27,617][main.py][line:104][INFO] [Epoch:32/50]: loss1:0.0289 loss2:0.0162 pseloss:0.0135| AUC:0.8060 
+ top1ACC:0.6241 top5ACC:0.8000 mauc:0.8380 mauc_ab:0.8262
+[2025-10-24 14:30:30,447][main.py][line:104][INFO] [Epoch:43/50]: loss1:0.0301 loss2:0.0089 pseloss:0.0102| AUC:0.8263 
+ top1ACC:0.6069 top5ACC:0.8276 mauc:0.8277 mauc_ab:0.8148
+[2025-10-24 14:30:31,601][main.py][line:104][INFO] [Epoch:44/50]: loss1:0.0245 loss2:0.0089 pseloss:0.0081| AUC:0.8145 
+ top1ACC:0.6069 top5ACC:0.8241 mauc:0.8322 mauc_ab:0.8196
+[2025-10-24 14:30:33,660][main.py][line:104][INFO] [Epoch:30/50]: loss1:0.0356 loss2:0.0193 pseloss:0.0185| AUC:0.7978 
+ top1ACC:0.6138 top5ACC:0.8345 mauc:0.8446 mauc_ab:0.8331
+[2025-10-24 14:30:36,377][main.py][line:104][INFO] [Epoch:43/50]: loss1:0.0302 loss2:0.0076 pseloss:0.0068| AUC:0.8043 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8385 mauc_ab:0.8265
+[2025-10-24 14:30:37,208][main.py][line:104][INFO] [Epoch:34/50]: loss1:0.0306 loss2:0.0285 pseloss:0.0101| AUC:0.7830 
+ top1ACC:0.6172 top5ACC:0.7966 mauc:0.8453 mauc_ab:0.8339
+[2025-10-24 14:30:41,530][main.py][line:104][INFO] [Epoch:44/50]: loss1:0.0257 loss2:0.0082 pseloss:0.0109| AUC:0.8064 
+ top1ACC:0.6138 top5ACC:0.8276 mauc:0.8398 mauc_ab:0.8279
+[2025-10-24 14:30:42,763][main.py][line:104][INFO] [Epoch:45/50]: loss1:0.0193 loss2:0.0079 pseloss:0.0093| AUC:0.7850 
+ top1ACC:0.6207 top5ACC:0.8379 mauc:0.8392 mauc_ab:0.8273
+[2025-10-24 14:30:45,445][main.py][line:104][INFO] [Epoch:33/50]: loss1:0.0287 loss2:0.0185 pseloss:0.0138| AUC:0.8097 
+ top1ACC:0.6207 top5ACC:0.8103 mauc:0.8377 mauc_ab:0.8259
+[2025-10-24 14:30:48,395][main.py][line:104][INFO] [Epoch:31/50]: loss1:0.0472 loss2:0.0169 pseloss:0.0185| AUC:0.8030 
+ top1ACC:0.6207 top5ACC:0.8241 mauc:0.8406 mauc_ab:0.8289
+[2025-10-24 14:30:48,672][main.py][line:104][INFO] [Epoch:44/50]: loss1:0.0315 loss2:0.0075 pseloss:0.0077| AUC:0.7671 
+ top1ACC:0.6241 top5ACC:0.8276 mauc:0.8451 mauc_ab:0.8337
+[2025-10-24 14:30:51,684][main.py][line:104][INFO] [Epoch:35/50]: loss1:0.0316 loss2:0.0201 pseloss:0.0100| AUC:0.7885 
+ top1ACC:0.6172 top5ACC:0.7931 mauc:0.8422 mauc_ab:0.8306
+[2025-10-24 14:30:52,484][main.py][line:104][INFO] [Epoch:45/50]: loss1:0.0367 loss2:0.0089 pseloss:0.0120| AUC:0.8189 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8424 mauc_ab:0.8307
+[2025-10-24 14:30:54,647][main.py][line:104][INFO] [Epoch:46/50]: loss1:0.0282 loss2:0.0071 pseloss:0.0089| AUC:0.7905 
+ top1ACC:0.6241 top5ACC:0.8172 mauc:0.8410 mauc_ab:0.8292
+[2025-10-24 14:31:00,945][main.py][line:104][INFO] [Epoch:45/50]: loss1:0.0327 loss2:0.0115 pseloss:0.0082| AUC:0.7971 
+ top1ACC:0.6069 top5ACC:0.8379 mauc:0.8388 mauc_ab:0.8267
+[2025-10-24 14:31:02,891][main.py][line:104][INFO] [Epoch:32/50]: loss1:0.0407 loss2:0.0157 pseloss:0.0168| AUC:0.8055 
+ top1ACC:0.6241 top5ACC:0.8172 mauc:0.8492 mauc_ab:0.8381
+[2025-10-24 14:31:03,050][main.py][line:104][INFO] [Epoch:34/50]: loss1:0.0340 loss2:0.0129 pseloss:0.0153| AUC:0.8177 
+ top1ACC:0.6138 top5ACC:0.8138 mauc:0.8355 mauc_ab:0.8235
+[2025-10-24 14:31:03,463][main.py][line:104][INFO] [Epoch:46/50]: loss1:0.0358 loss2:0.0075 pseloss:0.0119| AUC:0.8031 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8346 mauc_ab:0.8223
+[2025-10-24 14:31:06,139][main.py][line:104][INFO] [Epoch:36/50]: loss1:0.0292 loss2:0.0132 pseloss:0.0091| AUC:0.7805 
+ top1ACC:0.6207 top5ACC:0.8103 mauc:0.8441 mauc_ab:0.8325
+[2025-10-24 14:31:06,306][main.py][line:104][INFO] [Epoch:47/50]: loss1:0.0229 loss2:0.0066 pseloss:0.0080| AUC:0.8058 
+ top1ACC:0.6034 top5ACC:0.7931 mauc:0.8317 mauc_ab:0.8193
+[2025-10-24 14:31:13,111][main.py][line:104][INFO] [Epoch:46/50]: loss1:0.0355 loss2:0.0141 pseloss:0.0087| AUC:0.7920 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8427 mauc_ab:0.8309
+[2025-10-24 14:31:15,121][main.py][line:104][INFO] [Epoch:47/50]: loss1:0.0279 loss2:0.0087 pseloss:0.0097| AUC:0.7954 
+ top1ACC:0.6138 top5ACC:0.8310 mauc:0.8412 mauc_ab:0.8293
+[2025-10-24 14:31:18,322][main.py][line:104][INFO] [Epoch:48/50]: loss1:0.0197 loss2:0.0063 pseloss:0.0082| AUC:0.8058 
+ top1ACC:0.6207 top5ACC:0.8276 mauc:0.8356 mauc_ab:0.8233
+[2025-10-24 14:31:18,598][main.py][line:104][INFO] [Epoch:33/50]: loss1:0.0262 loss2:0.0138 pseloss:0.0161| AUC:0.8044 
+ top1ACC:0.6207 top5ACC:0.8276 mauc:0.8524 mauc_ab:0.8415
+[2025-10-24 14:31:21,709][main.py][line:104][INFO] [Epoch:37/50]: loss1:0.0302 loss2:0.0109 pseloss:0.0085| AUC:0.7836 
+ top1ACC:0.6034 top5ACC:0.8034 mauc:0.8378 mauc_ab:0.8259
+[2025-10-24 14:31:22,370][main.py][line:104][INFO] [Epoch:35/50]: loss1:0.0346 loss2:0.0138 pseloss:0.0146| AUC:0.7849 
+ top1ACC:0.6069 top5ACC:0.8034 mauc:0.8424 mauc_ab:0.8310
+[2025-10-24 14:31:25,311][main.py][line:104][INFO] [Epoch:47/50]: loss1:0.0252 loss2:0.0092 pseloss:0.0072| AUC:0.7725 
+ top1ACC:0.6172 top5ACC:0.8448 mauc:0.8528 mauc_ab:0.8419
+[2025-10-24 14:31:27,070][main.py][line:104][INFO] [Epoch:48/50]: loss1:0.0188 loss2:0.0088 pseloss:0.0098| AUC:0.8048 
+ top1ACC:0.6138 top5ACC:0.8276 mauc:0.8367 mauc_ab:0.8245
+[2025-10-24 14:31:30,021][main.py][line:104][INFO] [Epoch:49/50]: loss1:0.0227 loss2:0.0054 pseloss:0.0073| AUC:0.8050 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8220 mauc_ab:0.8087
+[2025-10-24 14:31:33,492][main.py][line:104][INFO] [Epoch:34/50]: loss1:0.0229 loss2:0.0126 pseloss:0.0160| AUC:0.7841 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8458 mauc_ab:0.8344
+[2025-10-24 14:31:35,931][main.py][line:104][INFO] [Epoch:38/50]: loss1:0.0435 loss2:0.0141 pseloss:0.0089| AUC:0.8009 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8392 mauc_ab:0.8273
+[2025-10-24 14:31:37,130][main.py][line:104][INFO] [Epoch:48/50]: loss1:0.0264 loss2:0.0091 pseloss:0.0077| AUC:0.7789 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8468 mauc_ab:0.8354
+[2025-10-24 14:31:38,901][main.py][line:104][INFO] [Epoch:49/50]: loss1:0.0225 loss2:0.0069 pseloss:0.0096| AUC:0.8072 
+ top1ACC:0.6000 top5ACC:0.8138 mauc:0.8381 mauc_ab:0.8261
+[2025-10-24 14:31:41,084][main.py][line:104][INFO] [Epoch:50/50]: loss1:0.0232 loss2:0.0051 pseloss:0.0076| AUC:0.8018 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8425 mauc_ab:0.8307
+[2025-10-24 14:31:41,095][main.py][line:114][INFO] Training completes in 9m 34s | best AUC:0.8582
+
+[2025-10-24 14:31:41,320][main.py][line:104][INFO] [Epoch:36/50]: loss1:0.0258 loss2:0.0109 pseloss:0.0134| AUC:0.8010 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8471 mauc_ab:0.8360
+[2025-10-24 14:31:48,542][main.py][line:104][INFO] [Epoch:49/50]: loss1:0.0287 loss2:0.0073 pseloss:0.0076| AUC:0.7878 
+ top1ACC:0.6345 top5ACC:0.8241 mauc:0.8439 mauc_ab:0.8323
+[2025-10-24 14:31:49,332][main.py][line:104][INFO] [Epoch:39/50]: loss1:0.0275 loss2:0.0127 pseloss:0.0092| AUC:0.7639 
+ top1ACC:0.6276 top5ACC:0.8103 mauc:0.8500 mauc_ab:0.8390
+[2025-10-24 14:31:50,376][main.py][line:104][INFO] [Epoch:50/50]: loss1:0.0385 loss2:0.0083 pseloss:0.0118| AUC:0.7422 
+ top1ACC:0.6069 top5ACC:0.8138 mauc:0.8457 mauc_ab:0.8345
+[2025-10-24 14:31:50,391][main.py][line:114][INFO] Training completes in 9m 44s | best AUC:0.8527
+
+[2025-10-24 14:31:53,766][main.py][line:104][INFO] [Epoch:35/50]: loss1:0.0257 loss2:0.0126 pseloss:0.0140| AUC:0.7870 
+ top1ACC:0.6207 top5ACC:0.8345 mauc:0.8478 mauc_ab:0.8365
+[2025-10-24 14:31:55,139][main.py][line:104][INFO] [Epoch:37/50]: loss1:0.0216 loss2:0.0142 pseloss:0.0117| AUC:0.7940 
+ top1ACC:0.6034 top5ACC:0.8172 mauc:0.8415 mauc_ab:0.8299
+[2025-10-24 14:31:59,334][main.py][line:104][INFO] [Epoch:50/50]: loss1:0.0279 loss2:0.0067 pseloss:0.0068| AUC:0.7952 
+ top1ACC:0.6172 top5ACC:0.8207 mauc:0.8364 mauc_ab:0.8241
+[2025-10-24 14:31:59,344][main.py][line:114][INFO] Training completes in 9m 52s | best AUC:0.8580
+
+[2025-10-24 14:32:01,891][main.py][line:104][INFO] [Epoch:40/50]: loss1:0.0311 loss2:0.0088 pseloss:0.0099| AUC:0.8111 
+ top1ACC:0.6276 top5ACC:0.7931 mauc:0.8427 mauc_ab:0.8312
+[2025-10-24 14:32:08,931][main.py][line:104][INFO] [Epoch:38/50]: loss1:0.0239 loss2:0.0126 pseloss:0.0112| AUC:0.8015 
+ top1ACC:0.6000 top5ACC:0.8069 mauc:0.8410 mauc_ab:0.8293
+[2025-10-24 14:32:15,480][main.py][line:104][INFO] [Epoch:36/50]: loss1:0.0282 loss2:0.0126 pseloss:0.0163| AUC:0.8171 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8389 mauc_ab:0.8267
+[2025-10-24 14:32:16,756][main.py][line:104][INFO] [Epoch:41/50]: loss1:0.0326 loss2:0.0086 pseloss:0.0084| AUC:0.7926 
+ top1ACC:0.6310 top5ACC:0.8069 mauc:0.8403 mauc_ab:0.8286
+[2025-10-24 14:32:22,777][main.py][line:104][INFO] [Epoch:39/50]: loss1:0.0283 loss2:0.0135 pseloss:0.0135| AUC:0.8162 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8424 mauc_ab:0.8308
+[2025-10-24 14:32:32,105][main.py][line:104][INFO] [Epoch:42/50]: loss1:0.0229 loss2:0.0072 pseloss:0.0079| AUC:0.8007 
+ top1ACC:0.6241 top5ACC:0.8034 mauc:0.8463 mauc_ab:0.8351
+[2025-10-24 14:32:36,148][main.py][line:104][INFO] [Epoch:40/50]: loss1:0.0254 loss2:0.0099 pseloss:0.0126| AUC:0.7847 
+ top1ACC:0.6103 top5ACC:0.8069 mauc:0.8419 mauc_ab:0.8303
+[2025-10-24 14:32:37,306][main.py][line:104][INFO] [Epoch:37/50]: loss1:0.0311 loss2:0.0116 pseloss:0.0143| AUC:0.8028 
+ top1ACC:0.6138 top5ACC:0.8138 mauc:0.8302 mauc_ab:0.8176
+[2025-10-24 14:32:46,472][main.py][line:104][INFO] [Epoch:43/50]: loss1:0.0283 loss2:0.0062 pseloss:0.0078| AUC:0.8003 
+ top1ACC:0.6276 top5ACC:0.8034 mauc:0.8448 mauc_ab:0.8335
+[2025-10-24 14:32:49,870][main.py][line:104][INFO] [Epoch:41/50]: loss1:0.0265 loss2:0.0130 pseloss:0.0116| AUC:0.7957 
+ top1ACC:0.6069 top5ACC:0.7897 mauc:0.8379 mauc_ab:0.8259
+[2025-10-24 14:32:59,522][main.py][line:104][INFO] [Epoch:38/50]: loss1:0.0342 loss2:0.0130 pseloss:0.0148| AUC:0.8131 
+ top1ACC:0.6241 top5ACC:0.8276 mauc:0.8385 mauc_ab:0.8263
+[2025-10-24 14:33:00,826][main.py][line:104][INFO] [Epoch:44/50]: loss1:0.0216 loss2:0.0062 pseloss:0.0074| AUC:0.7941 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8402 mauc_ab:0.8284
+[2025-10-24 14:33:03,966][main.py][line:104][INFO] [Epoch:42/50]: loss1:0.0232 loss2:0.0174 pseloss:0.0115| AUC:0.7956 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8385 mauc_ab:0.8266
+[2025-10-24 14:33:15,449][main.py][line:104][INFO] [Epoch:45/50]: loss1:0.0224 loss2:0.0076 pseloss:0.0078| AUC:0.7858 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8488 mauc_ab:0.8377
+[2025-10-24 14:33:18,209][main.py][line:104][INFO] [Epoch:43/50]: loss1:0.0237 loss2:0.0222 pseloss:0.0121| AUC:0.8051 
+ top1ACC:0.5793 top5ACC:0.8172 mauc:0.8326 mauc_ab:0.8202
+[2025-10-24 14:33:21,371][main.py][line:104][INFO] [Epoch:39/50]: loss1:0.0409 loss2:0.0178 pseloss:0.0186| AUC:0.8194 
+ top1ACC:0.6207 top5ACC:0.8345 mauc:0.8401 mauc_ab:0.8282
+[2025-10-24 14:33:29,942][main.py][line:104][INFO] [Epoch:46/50]: loss1:0.0253 loss2:0.0061 pseloss:0.0073| AUC:0.7794 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8428 mauc_ab:0.8313
+[2025-10-24 14:33:31,444][main.py][line:104][INFO] [Epoch:44/50]: loss1:0.0207 loss2:0.0256 pseloss:0.0114| AUC:0.8077 
+ top1ACC:0.6103 top5ACC:0.8138 mauc:0.8414 mauc_ab:0.8297
+[2025-10-24 14:33:36,571][main.py][line:104][INFO] [Epoch:40/50]: loss1:0.0321 loss2:0.0127 pseloss:0.0155| AUC:0.7830 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8505 mauc_ab:0.8395
+[2025-10-24 14:33:44,029][main.py][line:104][INFO] [Epoch:47/50]: loss1:0.0196 loss2:0.0058 pseloss:0.0066| AUC:0.7769 
+ top1ACC:0.6207 top5ACC:0.8276 mauc:0.8484 mauc_ab:0.8373
+[2025-10-24 14:33:44,562][main.py][line:104][INFO] [Epoch:45/50]: loss1:0.0241 loss2:0.0135 pseloss:0.0115| AUC:0.7912 
+ top1ACC:0.6103 top5ACC:0.7897 mauc:0.8329 mauc_ab:0.8205
+[2025-10-24 14:33:51,261][main.py][line:104][INFO] [Epoch:41/50]: loss1:0.0290 loss2:0.0145 pseloss:0.0141| AUC:0.7840 
+ top1ACC:0.6241 top5ACC:0.8138 mauc:0.8478 mauc_ab:0.8366
+[2025-10-24 14:33:57,686][main.py][line:104][INFO] [Epoch:48/50]: loss1:0.0190 loss2:0.0047 pseloss:0.0067| AUC:0.7859 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8461 mauc_ab:0.8348
+[2025-10-24 14:33:58,185][main.py][line:104][INFO] [Epoch:46/50]: loss1:0.0245 loss2:0.0132 pseloss:0.0112| AUC:0.7868 
+ top1ACC:0.6103 top5ACC:0.7966 mauc:0.8377 mauc_ab:0.8257
+[2025-10-24 14:34:05,219][main.py][line:104][INFO] [Epoch:42/50]: loss1:0.0347 loss2:0.0133 pseloss:0.0155| AUC:0.8215 
+ top1ACC:0.6172 top5ACC:0.8345 mauc:0.8490 mauc_ab:0.8377
+[2025-10-24 14:34:09,650][main.py][line:104][INFO] [Epoch:49/50]: loss1:0.0180 loss2:0.0044 pseloss:0.0067| AUC:0.7820 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8481 mauc_ab:0.8369
+[2025-10-24 14:34:11,324][main.py][line:104][INFO] [Epoch:47/50]: loss1:0.0172 loss2:0.0099 pseloss:0.0103| AUC:0.7794 
+ top1ACC:0.6034 top5ACC:0.8034 mauc:0.8420 mauc_ab:0.8305
+[2025-10-24 14:34:19,809][main.py][line:104][INFO] [Epoch:50/50]: loss1:0.0219 loss2:0.0042 pseloss:0.0068| AUC:0.7751 
+ top1ACC:0.6276 top5ACC:0.8172 mauc:0.8462 mauc_ab:0.8350
+[2025-10-24 14:34:19,818][main.py][line:114][INFO] Training completes in 12m 8s | best AUC:0.8543
+
+[2025-10-24 14:34:20,174][main.py][line:104][INFO] [Epoch:43/50]: loss1:0.0220 loss2:0.0166 pseloss:0.0136| AUC:0.8103 
+ top1ACC:0.6069 top5ACC:0.8103 mauc:0.8448 mauc_ab:0.8331
+[2025-10-24 14:34:24,751][main.py][line:104][INFO] [Epoch:48/50]: loss1:0.0180 loss2:0.0113 pseloss:0.0099| AUC:0.7775 
+ top1ACC:0.6138 top5ACC:0.7931 mauc:0.8415 mauc_ab:0.8299
+[2025-10-24 14:34:35,076][main.py][line:104][INFO] [Epoch:44/50]: loss1:0.0321 loss2:0.0149 pseloss:0.0139| AUC:0.8066 
+ top1ACC:0.6172 top5ACC:0.8414 mauc:0.8472 mauc_ab:0.8357
+[2025-10-24 14:34:38,261][main.py][line:104][INFO] [Epoch:49/50]: loss1:0.0153 loss2:0.0070 pseloss:0.0097| AUC:0.7969 
+ top1ACC:0.6172 top5ACC:0.7931 mauc:0.8410 mauc_ab:0.8293
+[2025-10-24 14:34:50,256][main.py][line:104][INFO] [Epoch:45/50]: loss1:0.0233 loss2:0.0148 pseloss:0.0142| AUC:0.8040 
+ top1ACC:0.6241 top5ACC:0.8276 mauc:0.8456 mauc_ab:0.8340
+[2025-10-24 14:34:51,338][main.py][line:104][INFO] [Epoch:50/50]: loss1:0.0182 loss2:0.0060 pseloss:0.0085| AUC:0.7794 
+ top1ACC:0.5966 top5ACC:0.8069 mauc:0.8494 mauc_ab:0.8384
+[2025-10-24 14:34:51,347][main.py][line:114][INFO] Training completes in 12m 44s | best AUC:0.8495
+
+[2025-10-24 14:35:05,088][main.py][line:104][INFO] [Epoch:46/50]: loss1:0.0254 loss2:0.0091 pseloss:0.0156| AUC:0.8012 
+ top1ACC:0.6172 top5ACC:0.8241 mauc:0.8418 mauc_ab:0.8299
+[2025-10-24 14:35:19,588][main.py][line:104][INFO] [Epoch:47/50]: loss1:0.0235 loss2:0.0098 pseloss:0.0123| AUC:0.7840 
+ top1ACC:0.6103 top5ACC:0.8310 mauc:0.8466 mauc_ab:0.8352
+[2025-10-24 14:35:34,619][main.py][line:104][INFO] [Epoch:48/50]: loss1:0.0164 loss2:0.0105 pseloss:0.0131| AUC:0.7796 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8407 mauc_ab:0.8288
+[2025-10-24 14:35:49,805][main.py][line:104][INFO] [Epoch:49/50]: loss1:0.0139 loss2:0.0071 pseloss:0.0108| AUC:0.7919 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8398 mauc_ab:0.8277
+[2025-10-24 14:36:04,723][main.py][line:104][INFO] [Epoch:50/50]: loss1:0.0146 loss2:0.0062 pseloss:0.0106| AUC:0.7708 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8462 mauc_ab:0.8347
+[2025-10-24 14:36:04,733][main.py][line:114][INFO] Training completes in 13m 54s | best AUC:0.8498
+
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+[2025-10-24 14:38:48,511][main.py][line:130][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:0', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 15.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:38:48,657][main.py][line:130][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:3', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 11.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:38:48,667][main.py][line:130][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:2', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 10.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:38:48,784][main.py][line:130][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:4', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 12.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:38:48,863][main.py][line:130][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:6', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 14.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:38:48,942][main.py][line:130][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:5', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 13.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:38:56,943][main.py][line:173][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:38:56,944][main.py][line:177][INFO] Training Mode
+[2025-10-24 14:38:56,944][main.py][line:181][INFO] train from scratch
+[2025-10-24 14:38:56,947][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:38:57,270][main.py][line:173][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:38:57,271][main.py][line:177][INFO] Training Mode
+[2025-10-24 14:38:57,271][main.py][line:181][INFO] train from scratch
+[2025-10-24 14:38:57,274][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:38:59,561][main.py][line:173][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:38:59,562][main.py][line:177][INFO] Training Mode
+[2025-10-24 14:38:59,562][main.py][line:181][INFO] train from scratch
+[2025-10-24 14:38:59,565][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:38:59,640][main.py][line:173][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:38:59,642][main.py][line:177][INFO] Training Mode
+[2025-10-24 14:38:59,643][main.py][line:181][INFO] train from scratch
+[2025-10-24 14:38:59,646][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:38:59,867][main.py][line:173][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:38:59,867][main.py][line:177][INFO] Training Mode
+[2025-10-24 14:38:59,867][main.py][line:181][INFO] train from scratch
+[2025-10-24 14:38:59,870][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:39:00,110][main.py][line:173][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:39:00,110][main.py][line:177][INFO] Training Mode
+[2025-10-24 14:39:00,110][main.py][line:181][INFO] train from scratch
+[2025-10-24 14:39:00,113][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:39:06,966][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:39:07,310][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:39:10,543][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:39:12,312][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:39:13,381][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:39:13,620][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:39:18,679][main.py][line:98][INFO] save model at epoch1, AUC:0.7946
+
+[2025-10-24 14:39:18,680][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6189 loss2:1.8667 pseloss:0.0487| AUC:0.7946 
+ top1ACC:0.5448 top5ACC:0.7207 mauc:0.7642 mauc_ab:0.7594
+[2025-10-24 14:39:19,536][main.py][line:98][INFO] save model at epoch1, AUC:0.8064
+
+[2025-10-24 14:39:19,536][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6485 loss2:1.8682 pseloss:0.0476| AUC:0.8064 
+ top1ACC:0.5103 top5ACC:0.7448 mauc:0.7823 mauc_ab:0.7782
+[2025-10-24 14:39:22,388][main.py][line:98][INFO] save model at epoch1, AUC:0.8002
+
+[2025-10-24 14:39:22,388][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6409 loss2:1.8460 pseloss:0.0479| AUC:0.8002 
+ top1ACC:0.5172 top5ACC:0.7345 mauc:0.7539 mauc_ab:0.7453
+[2025-10-24 14:39:27,428][main.py][line:98][INFO] save model at epoch1, AUC:0.8024
+
+[2025-10-24 14:39:27,429][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6386 loss2:2.0052 pseloss:0.0477| AUC:0.8024 
+ top1ACC:0.5138 top5ACC:0.7586 mauc:0.7246 mauc_ab:0.7200
+[2025-10-24 14:39:28,928][main.py][line:98][INFO] save model at epoch1, AUC:0.8023
+
+[2025-10-24 14:39:28,928][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6240 loss2:1.8923 pseloss:0.0478| AUC:0.8023 
+ top1ACC:0.5379 top5ACC:0.7276 mauc:0.7557 mauc_ab:0.7472
+[2025-10-24 14:39:30,338][main.py][line:98][INFO] save model at epoch1, AUC:0.7930
+
+[2025-10-24 14:39:30,339][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6209 loss2:1.8718 pseloss:0.0482| AUC:0.7930 
+ top1ACC:0.5552 top5ACC:0.7483 mauc:0.8355 mauc_ab:0.8285
+[2025-10-24 14:39:30,739][main.py][line:98][INFO] save model at epoch2, AUC:0.8418
+
+[2025-10-24 14:39:30,739][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4021 loss2:1.0167 pseloss:0.0377| AUC:0.8418 
+ top1ACC:0.5379 top5ACC:0.7103 mauc:0.7376 mauc_ab:0.7226
+[2025-10-24 14:39:31,828][main.py][line:98][INFO] save model at epoch2, AUC:0.8404
+
+[2025-10-24 14:39:31,829][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4042 loss2:0.9970 pseloss:0.0354| AUC:0.8404 
+ top1ACC:0.5586 top5ACC:0.7586 mauc:0.8055 mauc_ab:0.7962
+[2025-10-24 14:39:35,444][main.py][line:98][INFO] save model at epoch2, AUC:0.8417
+
+[2025-10-24 14:39:35,445][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4170 loss2:0.9594 pseloss:0.0359| AUC:0.8417 
+ top1ACC:0.5690 top5ACC:0.7586 mauc:0.8497 mauc_ab:0.8403
+[2025-10-24 14:39:44,422][main.py][line:98][INFO] save model at epoch3, AUC:0.8525
+
+[2025-10-24 14:39:44,422][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3032 loss2:0.7347 pseloss:0.0343| AUC:0.8525 
+ top1ACC:0.5966 top5ACC:0.7448 mauc:0.7935 mauc_ab:0.7823
+[2025-10-24 14:39:44,723][main.py][line:98][INFO] save model at epoch2, AUC:0.8413
+
+[2025-10-24 14:39:44,724][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4024 loss2:1.0733 pseloss:0.0362| AUC:0.8413 
+ top1ACC:0.5414 top5ACC:0.7448 mauc:0.7064 mauc_ab:0.6915
+[2025-10-24 14:39:45,642][main.py][line:98][INFO] save model at epoch3, AUC:0.8545
+
+[2025-10-24 14:39:45,642][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3175 loss2:0.7376 pseloss:0.0328| AUC:0.8545 
+ top1ACC:0.5931 top5ACC:0.7724 mauc:0.8158 mauc_ab:0.8062
+[2025-10-24 14:39:46,218][main.py][line:98][INFO] save model at epoch2, AUC:0.8449
+
+[2025-10-24 14:39:46,219][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4024 loss2:0.9737 pseloss:0.0367| AUC:0.8449 
+ top1ACC:0.5448 top5ACC:0.7034 mauc:0.8204 mauc_ab:0.8119
+[2025-10-24 14:39:47,612][main.py][line:98][INFO] save model at epoch2, AUC:0.8433
+
+[2025-10-24 14:39:47,613][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.3969 loss2:0.8954 pseloss:0.0371| AUC:0.8433 
+ top1ACC:0.5862 top5ACC:0.7034 mauc:0.8613 mauc_ab:0.8513
+[2025-10-24 14:39:48,740][main.py][line:98][INFO] save model at epoch3, AUC:0.8504
+
+[2025-10-24 14:39:48,741][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3142 loss2:0.6261 pseloss:0.0330| AUC:0.8504 
+ top1ACC:0.6207 top5ACC:0.7724 mauc:0.8722 mauc_ab:0.8630
+[2025-10-24 14:39:56,818][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2679 loss2:0.5849 pseloss:0.0301| AUC:0.8523 
+ top1ACC:0.6000 top5ACC:0.7793 mauc:0.8284 mauc_ab:0.8181
+[2025-10-24 14:39:57,479][main.py][line:98][INFO] save model at epoch4, AUC:0.8581
+
+[2025-10-24 14:39:57,480][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2516 loss2:0.5874 pseloss:0.0320| AUC:0.8581 
+ top1ACC:0.5931 top5ACC:0.7483 mauc:0.7682 mauc_ab:0.7550
+[2025-10-24 14:40:00,453][main.py][line:98][INFO] save model at epoch3, AUC:0.8537
+
+[2025-10-24 14:40:00,453][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3173 loss2:0.7856 pseloss:0.0339| AUC:0.8537 
+ top1ACC:0.5828 top5ACC:0.7517 mauc:0.7515 mauc_ab:0.7374
+[2025-10-24 14:40:01,263][main.py][line:98][INFO] save model at epoch4, AUC:0.8586
+
+[2025-10-24 14:40:01,263][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2775 loss2:0.4521 pseloss:0.0310| AUC:0.8586 
+ top1ACC:0.6241 top5ACC:0.7828 mauc:0.8576 mauc_ab:0.8474
+[2025-10-24 14:40:03,139][main.py][line:98][INFO] save model at epoch3, AUC:0.8559
+
+[2025-10-24 14:40:03,140][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3073 loss2:0.7085 pseloss:0.0337| AUC:0.8559 
+ top1ACC:0.5897 top5ACC:0.7310 mauc:0.8527 mauc_ab:0.8455
+[2025-10-24 14:40:04,454][main.py][line:98][INFO] save model at epoch3, AUC:0.8479
+
+[2025-10-24 14:40:04,471][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3110 loss2:0.5612 pseloss:0.0332| AUC:0.8479 
+ top1ACC:0.6241 top5ACC:0.7586 mauc:0.8786 mauc_ab:0.8696
+[2025-10-24 14:40:10,231][main.py][line:98][INFO] save model at epoch5, AUC:0.8619
+
+[2025-10-24 14:40:10,232][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2586 loss2:0.4476 pseloss:0.0302| AUC:0.8619 
+ top1ACC:0.6172 top5ACC:0.7690 mauc:0.8172 mauc_ab:0.8042
+[2025-10-24 14:40:10,281][main.py][line:98][INFO] save model at epoch5, AUC:0.8593
+
+[2025-10-24 14:40:10,281][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2318 loss2:0.5121 pseloss:0.0317| AUC:0.8593 
+ top1ACC:0.5966 top5ACC:0.7793 mauc:0.7220 mauc_ab:0.7051
+[2025-10-24 14:40:14,668][main.py][line:98][INFO] save model at epoch5, AUC:0.8629
+
+[2025-10-24 14:40:14,669][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2416 loss2:0.3738 pseloss:0.0289| AUC:0.8629 
+ top1ACC:0.6103 top5ACC:0.7966 mauc:0.8488 mauc_ab:0.8382
+[2025-10-24 14:40:17,101][main.py][line:98][INFO] save model at epoch4, AUC:0.8629
+
+[2025-10-24 14:40:17,102][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2735 loss2:0.6124 pseloss:0.0317| AUC:0.8629 
+ top1ACC:0.6000 top5ACC:0.7655 mauc:0.7590 mauc_ab:0.7424
+[2025-10-24 14:40:20,059][main.py][line:98][INFO] save model at epoch4, AUC:0.8566
+
+[2025-10-24 14:40:20,060][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2567 loss2:0.5605 pseloss:0.0313| AUC:0.8566 
+ top1ACC:0.6172 top5ACC:0.7621 mauc:0.8502 mauc_ab:0.8414
+[2025-10-24 14:40:21,540][main.py][line:98][INFO] save model at epoch4, AUC:0.8622
+
+[2025-10-24 14:40:21,541][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2644 loss2:0.4440 pseloss:0.0308| AUC:0.8622 
+ top1ACC:0.6172 top5ACC:0.7759 mauc:0.8689 mauc_ab:0.8593
+[2025-10-24 14:40:21,825][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2275 loss2:0.3500 pseloss:0.0277| AUC:0.8421 
+ top1ACC:0.6310 top5ACC:0.8000 mauc:0.8514 mauc_ab:0.8408
+[2025-10-24 14:40:22,472][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1911 loss2:0.4047 pseloss:0.0292| AUC:0.8540 
+ top1ACC:0.6000 top5ACC:0.7862 mauc:0.7228 mauc_ab:0.7052
+[2025-10-24 14:40:27,105][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1998 loss2:0.3164 pseloss:0.0270| AUC:0.8513 
+ top1ACC:0.6276 top5ACC:0.7966 mauc:0.8576 mauc_ab:0.8476
+[2025-10-24 14:40:31,175][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2334 loss2:0.4611 pseloss:0.0300| AUC:0.8596 
+ top1ACC:0.6310 top5ACC:0.7828 mauc:0.7987 mauc_ab:0.7842
+[2025-10-24 14:40:32,973][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1815 loss2:0.2903 pseloss:0.0252| AUC:0.8443 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8363 mauc_ab:0.8245
+[2025-10-24 14:40:34,459][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2309 loss2:0.4491 pseloss:0.0298| AUC:0.8552 
+ top1ACC:0.6069 top5ACC:0.7897 mauc:0.8626 mauc_ab:0.8531
+[2025-10-24 14:40:34,616][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1486 loss2:0.3420 pseloss:0.0259| AUC:0.8469 
+ top1ACC:0.5862 top5ACC:0.8000 mauc:0.7118 mauc_ab:0.6931
+[2025-10-24 14:40:37,458][main.py][line:98][INFO] save model at epoch5, AUC:0.8623
+
+[2025-10-24 14:40:37,459][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2343 loss2:0.3758 pseloss:0.0300| AUC:0.8623 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8595 mauc_ab:0.8493
+[2025-10-24 14:40:38,774][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1650 loss2:0.2852 pseloss:0.0235| AUC:0.8437 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8594 mauc_ab:0.8498
+[2025-10-24 14:40:43,776][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1968 loss2:0.3518 pseloss:0.0272| AUC:0.8443 
+ top1ACC:0.6310 top5ACC:0.7897 mauc:0.8427 mauc_ab:0.8315
+[2025-10-24 14:40:44,653][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1600 loss2:0.2431 pseloss:0.0225| AUC:0.8433 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8359 mauc_ab:0.8242
+[2025-10-24 14:40:47,121][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1304 loss2:0.2880 pseloss:0.0244| AUC:0.8405 
+ top1ACC:0.5862 top5ACC:0.7931 mauc:0.7147 mauc_ab:0.6960
+[2025-10-24 14:40:48,780][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1931 loss2:0.3392 pseloss:0.0278| AUC:0.8482 
+ top1ACC:0.6207 top5ACC:0.7931 mauc:0.8716 mauc_ab:0.8628
+[2025-10-24 14:40:51,496][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1618 loss2:0.2643 pseloss:0.0236| AUC:0.8427 
+ top1ACC:0.6172 top5ACC:0.8138 mauc:0.8569 mauc_ab:0.8467
+[2025-10-24 14:40:52,327][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1914 loss2:0.3034 pseloss:0.0276| AUC:0.8454 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8658 mauc_ab:0.8562
+[2025-10-24 14:40:55,771][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1324 loss2:0.2200 pseloss:0.0205| AUC:0.8328 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8432 mauc_ab:0.8319
+[2025-10-24 14:40:59,254][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1276 loss2:0.2668 pseloss:0.0244| AUC:0.8415 
+ top1ACC:0.5586 top5ACC:0.8034 mauc:0.6974 mauc_ab:0.6774
+[2025-10-24 14:41:00,957][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1590 loss2:0.3012 pseloss:0.0246| AUC:0.8337 
+ top1ACC:0.6207 top5ACC:0.7931 mauc:0.8341 mauc_ab:0.8223
+[2025-10-24 14:41:02,725][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1465 loss2:0.2967 pseloss:0.0244| AUC:0.8312 
+ top1ACC:0.6103 top5ACC:0.7862 mauc:0.8533 mauc_ab:0.8430
+[2025-10-24 14:41:04,456][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1592 loss2:0.2467 pseloss:0.0228| AUC:0.8437 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8573 mauc_ab:0.8469
+[2025-10-24 14:41:07,182][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1203 loss2:0.1857 pseloss:0.0192| AUC:0.8325 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8425 mauc_ab:0.8310
+[2025-10-24 14:41:07,216][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1573 loss2:0.2735 pseloss:0.0243| AUC:0.8336 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8611 mauc_ab:0.8510
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+[2025-10-24 14:45:32,874][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:2', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 17.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:33,036][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:6', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 14.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:33,083][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:5', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 13.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:33,135][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:0', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 15.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:33,319][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:1', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 16.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:33,324][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:3', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 11.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:33,399][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:4', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 12.0, 'seed': 9, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 14:45:40,482][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:40,482][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:40,482][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:40,484][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:41,949][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:41,950][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:41,950][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:41,953][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:42,092][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:42,092][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:42,092][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:42,095][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:43,039][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:43,040][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:43,041][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:43,048][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:43,316][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:43,317][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:43,317][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:43,319][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:43,624][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:43,625][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:43,625][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:43,627][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:43,879][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 14:45:43,879][main.py][line:184][INFO] Training Mode
+[2025-10-24 14:45:43,879][main.py][line:188][INFO] train from scratch
+[2025-10-24 14:45:43,881][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 14:45:50,965][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:45:52,439][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:45:52,904][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:45:57,279][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:45:57,585][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:45:57,855][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:46:00,055][main.py][line:71][INFO] Random initialize AUC:0.5789 top1ACC:0.1207 top5ACC:0.3517 mauc:0.6852 mauc_ab:0.6790
+[2025-10-24 14:46:03,452][main.py][line:98][INFO] save model at epoch1, AUC:0.8101
+
+[2025-10-24 14:46:03,452][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6594 loss2:1.8916 pseloss:0.0476| AUC:0.8101 
+ top1ACC:0.5345 top5ACC:0.7276 mauc:0.7875 mauc_ab:0.7828
+[2025-10-24 14:46:04,444][main.py][line:98][INFO] save model at epoch1, AUC:0.8064
+
+[2025-10-24 14:46:04,444][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6485 loss2:1.8682 pseloss:0.0476| AUC:0.8064 
+ top1ACC:0.5103 top5ACC:0.7448 mauc:0.7823 mauc_ab:0.7782
+[2025-10-24 14:46:05,425][main.py][line:98][INFO] save model at epoch1, AUC:0.8063
+
+[2025-10-24 14:46:05,426][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6408 loss2:1.8905 pseloss:0.0478| AUC:0.8063 
+ top1ACC:0.5138 top5ACC:0.7276 mauc:0.7937 mauc_ab:0.7887
+[2025-10-24 14:46:12,609][main.py][line:98][INFO] save model at epoch1, AUC:0.8076
+
+[2025-10-24 14:46:12,610][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6549 loss2:1.9443 pseloss:0.0474| AUC:0.8076 
+ top1ACC:0.5138 top5ACC:0.7414 mauc:0.7606 mauc_ab:0.7579
+[2025-10-24 14:46:14,337][main.py][line:98][INFO] save model at epoch1, AUC:0.7995
+
+[2025-10-24 14:46:14,338][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6350 loss2:1.9193 pseloss:0.0481| AUC:0.7995 
+ top1ACC:0.5276 top5ACC:0.7586 mauc:0.7249 mauc_ab:0.7153
+[2025-10-24 14:46:14,943][main.py][line:98][INFO] save model at epoch1, AUC:0.7956
+
+[2025-10-24 14:46:14,944][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6246 loss2:1.8853 pseloss:0.0485| AUC:0.7956 
+ top1ACC:0.5241 top5ACC:0.7276 mauc:0.7177 mauc_ab:0.7088
+[2025-10-24 14:46:16,914][main.py][line:98][INFO] save model at epoch2, AUC:0.8404
+
+[2025-10-24 14:46:16,915][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4042 loss2:0.9970 pseloss:0.0354| AUC:0.8404 
+ top1ACC:0.5586 top5ACC:0.7586 mauc:0.8055 mauc_ab:0.7962
+[2025-10-24 14:46:17,120][main.py][line:98][INFO] save model at epoch2, AUC:0.8393
+
+[2025-10-24 14:46:17,120][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4234 loss2:1.0320 pseloss:0.0353| AUC:0.8393 
+ top1ACC:0.5655 top5ACC:0.7172 mauc:0.8339 mauc_ab:0.8265
+[2025-10-24 14:46:17,765][main.py][line:98][INFO] save model at epoch2, AUC:0.8435
+
+[2025-10-24 14:46:17,765][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4111 loss2:0.9834 pseloss:0.0358| AUC:0.8435 
+ top1ACC:0.5586 top5ACC:0.7034 mauc:0.8077 mauc_ab:0.7986
+[2025-10-24 14:46:19,448][main.py][line:98][INFO] save model at epoch1, AUC:0.7980
+
+[2025-10-24 14:46:19,448][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6372 loss2:2.0340 pseloss:0.0479| AUC:0.7980 
+ top1ACC:0.5103 top5ACC:0.7414 mauc:0.6794 mauc_ab:0.6795
+[2025-10-24 14:46:28,490][main.py][line:98][INFO] save model at epoch2, AUC:0.8409
+
+[2025-10-24 14:46:28,491][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4071 loss2:1.1011 pseloss:0.0354| AUC:0.8409 
+ top1ACC:0.5483 top5ACC:0.7034 mauc:0.7386 mauc_ab:0.7243
+[2025-10-24 14:46:29,326][main.py][line:98][INFO] save model at epoch3, AUC:0.8545
+
+[2025-10-24 14:46:29,327][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3175 loss2:0.7376 pseloss:0.0328| AUC:0.8545 
+ top1ACC:0.5931 top5ACC:0.7724 mauc:0.8158 mauc_ab:0.8062
+[2025-10-24 14:46:30,603][main.py][line:98][INFO] save model at epoch3, AUC:0.8533
+
+[2025-10-24 14:46:30,604][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3194 loss2:0.7188 pseloss:0.0332| AUC:0.8533 
+ top1ACC:0.5897 top5ACC:0.7448 mauc:0.8503 mauc_ab:0.8418
+[2025-10-24 14:46:32,288][main.py][line:98][INFO] save model at epoch2, AUC:0.8362
+
+[2025-10-24 14:46:32,289][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4085 loss2:1.0458 pseloss:0.0365| AUC:0.8362 
+ top1ACC:0.5379 top5ACC:0.7241 mauc:0.8124 mauc_ab:0.8028
+[2025-10-24 14:46:32,299][main.py][line:98][INFO] save model at epoch3, AUC:0.8564
+
+[2025-10-24 14:46:32,300][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3328 loss2:0.7557 pseloss:0.0333| AUC:0.8564 
+ top1ACC:0.5966 top5ACC:0.7276 mauc:0.8343 mauc_ab:0.8262
+[2025-10-24 14:46:33,592][main.py][line:98][INFO] save model at epoch2, AUC:0.8435
+
+[2025-10-24 14:46:33,592][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4033 loss2:0.9740 pseloss:0.0374| AUC:0.8435 
+ top1ACC:0.5724 top5ACC:0.7276 mauc:0.8009 mauc_ab:0.7876
+[2025-10-24 14:46:39,809][main.py][line:98][INFO] save model at epoch2, AUC:0.8396
+
+[2025-10-24 14:46:39,811][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4055 loss2:1.1276 pseloss:0.0363| AUC:0.8396 
+ top1ACC:0.5448 top5ACC:0.7379 mauc:0.7164 mauc_ab:0.7021
+[2025-10-24 14:46:40,091][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2679 loss2:0.5849 pseloss:0.0301| AUC:0.8523 
+ top1ACC:0.6000 top5ACC:0.7793 mauc:0.8284 mauc_ab:0.8181
+[2025-10-24 14:46:42,768][main.py][line:98][INFO] save model at epoch4, AUC:0.8602
+
+[2025-10-24 14:46:42,768][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2879 loss2:0.5313 pseloss:0.0306| AUC:0.8602 
+ top1ACC:0.6276 top5ACC:0.7690 mauc:0.8628 mauc_ab:0.8532
+[2025-10-24 14:46:43,846][main.py][line:98][INFO] save model at epoch3, AUC:0.8586
+
+[2025-10-24 14:46:43,847][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3187 loss2:0.7984 pseloss:0.0321| AUC:0.8586 
+ top1ACC:0.5862 top5ACC:0.7276 mauc:0.8183 mauc_ab:0.8092
+[2025-10-24 14:46:45,835][main.py][line:98][INFO] save model at epoch4, AUC:0.8599
+
+[2025-10-24 14:46:45,836][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2918 loss2:0.5920 pseloss:0.0302| AUC:0.8599 
+ top1ACC:0.5931 top5ACC:0.7621 mauc:0.7932 mauc_ab:0.7817
+[2025-10-24 14:46:48,114][main.py][line:98][INFO] save model at epoch3, AUC:0.8495
+
+[2025-10-24 14:46:48,115][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3153 loss2:0.7161 pseloss:0.0336| AUC:0.8495 
+ top1ACC:0.5966 top5ACC:0.7379 mauc:0.8655 mauc_ab:0.8568
+[2025-10-24 14:46:49,251][main.py][line:98][INFO] save model at epoch3, AUC:0.8536
+
+[2025-10-24 14:46:49,252][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3126 loss2:0.6298 pseloss:0.0340| AUC:0.8536 
+ top1ACC:0.6172 top5ACC:0.7552 mauc:0.8677 mauc_ab:0.8583
+[2025-10-24 14:46:52,366][main.py][line:98][INFO] save model at epoch5, AUC:0.8619
+
+[2025-10-24 14:46:52,366][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2586 loss2:0.4476 pseloss:0.0302| AUC:0.8619 
+ top1ACC:0.6172 top5ACC:0.7690 mauc:0.8172 mauc_ab:0.8042
+[2025-10-24 14:46:53,549][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2377 loss2:0.4057 pseloss:0.0293| AUC:0.8562 
+ top1ACC:0.6276 top5ACC:0.7793 mauc:0.8543 mauc_ab:0.8443
+[2025-10-24 14:46:58,110][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2689 loss2:0.6390 pseloss:0.0299| AUC:0.8548 
+ top1ACC:0.6103 top5ACC:0.7690 mauc:0.8073 mauc_ab:0.7972
+[2025-10-24 14:46:59,915][main.py][line:98][INFO] save model at epoch5, AUC:0.8619
+
+[2025-10-24 14:46:59,915][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2498 loss2:0.5127 pseloss:0.0292| AUC:0.8619 
+ top1ACC:0.5931 top5ACC:0.7759 mauc:0.7624 mauc_ab:0.7496
+[2025-10-24 14:47:00,713][main.py][line:98][INFO] save model at epoch3, AUC:0.8539
+
+[2025-10-24 14:47:00,713][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3154 loss2:0.7983 pseloss:0.0338| AUC:0.8539 
+ top1ACC:0.5862 top5ACC:0.7483 mauc:0.7262 mauc_ab:0.7100
+[2025-10-24 14:47:03,121][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2275 loss2:0.3500 pseloss:0.0277| AUC:0.8421 
+ top1ACC:0.6310 top5ACC:0.8000 mauc:0.8514 mauc_ab:0.8408
+[2025-10-24 14:47:04,397][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2046 loss2:0.3117 pseloss:0.0267| AUC:0.8505 
+ top1ACC:0.6310 top5ACC:0.7862 mauc:0.8615 mauc_ab:0.8521
+[2025-10-24 14:47:04,556][main.py][line:98][INFO] save model at epoch4, AUC:0.8561
+
+[2025-10-24 14:47:04,557][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2655 loss2:0.5024 pseloss:0.0307| AUC:0.8561 
+ top1ACC:0.6207 top5ACC:0.7621 mauc:0.8668 mauc_ab:0.8575
+[2025-10-24 14:47:05,984][main.py][line:98][INFO] save model at epoch4, AUC:0.8586
+
+[2025-10-24 14:47:05,985][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2619 loss2:0.4537 pseloss:0.0317| AUC:0.8586 
+ top1ACC:0.6207 top5ACC:0.7828 mauc:0.8621 mauc_ab:0.8529
+[2025-10-24 14:47:12,433][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2148 loss2:0.4204 pseloss:0.0267| AUC:0.8505 
+ top1ACC:0.5897 top5ACC:0.7862 mauc:0.7578 mauc_ab:0.7436
+[2025-10-24 14:47:13,673][main.py][line:98][INFO] save model at epoch5, AUC:0.8603
+
+[2025-10-24 14:47:13,674][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2596 loss2:0.5386 pseloss:0.0308| AUC:0.8603 
+ top1ACC:0.6000 top5ACC:0.7793 mauc:0.8175 mauc_ab:0.8079
+[2025-10-24 14:47:14,036][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1815 loss2:0.2903 pseloss:0.0252| AUC:0.8443 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8363 mauc_ab:0.8245
+[2025-10-24 14:47:15,664][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1649 loss2:0.2835 pseloss:0.0231| AUC:0.8442 
+ top1ACC:0.6103 top5ACC:0.8138 mauc:0.8586 mauc_ab:0.8490
+[2025-10-24 14:47:21,165][main.py][line:98][INFO] save model at epoch5, AUC:0.8563
+
+[2025-10-24 14:47:21,166][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2428 loss2:0.4018 pseloss:0.0306| AUC:0.8563 
+ top1ACC:0.6241 top5ACC:0.7793 mauc:0.8604 mauc_ab:0.8503
+[2025-10-24 14:47:21,553][main.py][line:98][INFO] save model at epoch4, AUC:0.8593
+
+[2025-10-24 14:47:21,553][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2674 loss2:0.6411 pseloss:0.0310| AUC:0.8593 
+ top1ACC:0.5931 top5ACC:0.7655 mauc:0.7516 mauc_ab:0.7352
+[2025-10-24 14:47:22,245][main.py][line:98][INFO] save model at epoch5, AUC:0.8596
+
+[2025-10-24 14:47:22,246][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2275 loss2:0.3690 pseloss:0.0302| AUC:0.8596 
+ top1ACC:0.6069 top5ACC:0.7793 mauc:0.8478 mauc_ab:0.8375
+[2025-10-24 14:47:24,567][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1724 loss2:0.3603 pseloss:0.0229| AUC:0.8469 
+ top1ACC:0.5897 top5ACC:0.8034 mauc:0.7662 mauc_ab:0.7521
+[2025-10-24 14:47:25,604][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1600 loss2:0.2431 pseloss:0.0225| AUC:0.8433 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8359 mauc_ab:0.8242
+[2025-10-24 14:47:26,274][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1621 loss2:0.2625 pseloss:0.0233| AUC:0.8440 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8574 mauc_ab:0.8479
+[2025-10-24 14:47:28,244][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2452 loss2:0.4581 pseloss:0.0288| AUC:0.8519 
+ top1ACC:0.6138 top5ACC:0.8000 mauc:0.8066 mauc_ab:0.7948
+[2025-10-24 14:47:36,365][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1324 loss2:0.2200 pseloss:0.0205| AUC:0.8328 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8432 mauc_ab:0.8319
+[2025-10-24 14:47:36,895][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1572 loss2:0.3160 pseloss:0.0218| AUC:0.8408 
+ top1ACC:0.5793 top5ACC:0.7862 mauc:0.7644 mauc_ab:0.7500
+[2025-10-24 14:47:37,075][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1554 loss2:0.2399 pseloss:0.0221| AUC:0.8366 
+ top1ACC:0.6103 top5ACC:0.7931 mauc:0.8568 mauc_ab:0.8471
+[2025-10-24 14:47:38,013][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1938 loss2:0.2998 pseloss:0.0279| AUC:0.8448 
+ top1ACC:0.6310 top5ACC:0.7862 mauc:0.8556 mauc_ab:0.8453
+[2025-10-24 14:47:41,791][main.py][line:98][INFO] save model at epoch5, AUC:0.8600
+
+[2025-10-24 14:47:41,792][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2506 loss2:0.5055 pseloss:0.0308| AUC:0.8600 
+ top1ACC:0.6138 top5ACC:0.7690 mauc:0.7868 mauc_ab:0.7719
+[2025-10-24 14:47:42,798][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1875 loss2:0.3685 pseloss:0.0250| AUC:0.8495 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8394 mauc_ab:0.8286
+[2025-10-24 14:47:42,896][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2061 loss2:0.3156 pseloss:0.0290| AUC:0.8501 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8589 mauc_ab:0.8490
+[2025-10-24 14:47:48,431][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1203 loss2:0.1857 pseloss:0.0192| AUC:0.8325 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8425 mauc_ab:0.8310
+[2025-10-24 14:47:49,312][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1344 loss2:0.1938 pseloss:0.0201| AUC:0.8437 
+ top1ACC:0.6241 top5ACC:0.8034 mauc:0.8493 mauc_ab:0.8385
+[2025-10-24 14:47:49,576][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1457 loss2:0.2878 pseloss:0.0205| AUC:0.8418 
+ top1ACC:0.5690 top5ACC:0.7931 mauc:0.7477 mauc_ab:0.7319
+[2025-10-24 14:47:56,326][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1705 loss2:0.3038 pseloss:0.0230| AUC:0.8437 
+ top1ACC:0.6241 top5ACC:0.7862 mauc:0.8309 mauc_ab:0.8194
+[2025-10-24 14:47:56,752][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.2206 loss2:0.3825 pseloss:0.0280| AUC:0.8476 
+ top1ACC:0.6207 top5ACC:0.7759 mauc:0.7999 mauc_ab:0.7856
+[2025-10-24 14:47:58,957][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1518 loss2:0.2597 pseloss:0.0243| AUC:0.8439 
+ top1ACC:0.6241 top5ACC:0.8138 mauc:0.8498 mauc_ab:0.8393
+[2025-10-24 14:48:00,516][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1226 loss2:0.1538 pseloss:0.0174| AUC:0.8293 
+ top1ACC:0.6138 top5ACC:0.8000 mauc:0.8449 mauc_ab:0.8338
+[2025-10-24 14:48:00,956][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1135 loss2:0.1575 pseloss:0.0168| AUC:0.8366 
+ top1ACC:0.6103 top5ACC:0.8138 mauc:0.8508 mauc_ab:0.8401
+[2025-10-24 14:48:01,874][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1165 loss2:0.2405 pseloss:0.0196| AUC:0.8328 
+ top1ACC:0.5862 top5ACC:0.7897 mauc:0.7342 mauc_ab:0.7174
+[2025-10-24 14:48:03,953][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1680 loss2:0.2734 pseloss:0.0247| AUC:0.8336 
+ top1ACC:0.6207 top5ACC:0.7931 mauc:0.8687 mauc_ab:0.8595
+[2025-10-24 14:48:07,726][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1333 loss2:0.2609 pseloss:0.0221| AUC:0.8344 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8424 mauc_ab:0.8315
+[2025-10-24 14:48:10,921][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1659 loss2:0.3043 pseloss:0.0255| AUC:0.8426 
+ top1ACC:0.6241 top5ACC:0.8069 mauc:0.8466 mauc_ab:0.8360
+[2025-10-24 14:48:11,717][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.1123 loss2:0.1492 pseloss:0.0173| AUC:0.8230 
+ top1ACC:0.6103 top5ACC:0.8069 mauc:0.8461 mauc_ab:0.8352
+[2025-10-24 14:48:12,353][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.1017 loss2:0.1507 pseloss:0.0165| AUC:0.8351 
+ top1ACC:0.6103 top5ACC:0.8000 mauc:0.8493 mauc_ab:0.8385
+[2025-10-24 14:48:13,911][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1317 loss2:0.2102 pseloss:0.0167| AUC:0.8486 
+ top1ACC:0.5241 top5ACC:0.7690 mauc:0.6936 mauc_ab:0.6735
+[2025-10-24 14:48:19,016][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1573 loss2:0.2475 pseloss:0.0255| AUC:0.8344 
+ top1ACC:0.6241 top5ACC:0.8069 mauc:0.8437 mauc_ab:0.8330
+[2025-10-24 14:48:23,211][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1412 loss2:0.2198 pseloss:0.0195| AUC:0.8371 
+ top1ACC:0.6310 top5ACC:0.8034 mauc:0.8434 mauc_ab:0.8324
+[2025-10-24 14:48:23,395][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.1345 loss2:0.1302 pseloss:0.0186| AUC:0.8332 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8416 mauc_ab:0.8300
+[2025-10-24 14:48:24,168][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.1041 loss2:0.1146 pseloss:0.0162| AUC:0.8251 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8514 mauc_ab:0.8407
+[2025-10-24 14:48:24,646][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1475 loss2:0.2424 pseloss:0.0230| AUC:0.8390 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8579 mauc_ab:0.8477
+[2025-10-24 14:48:25,933][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1533 loss2:0.2714 pseloss:0.0229| AUC:0.8439 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8350 mauc_ab:0.8232
+[2025-10-24 14:48:26,029][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.1202 loss2:0.1979 pseloss:0.0166| AUC:0.8237 
+ top1ACC:0.5828 top5ACC:0.7931 mauc:0.7700 mauc_ab:0.7559
+[2025-10-24 14:48:34,381][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.1337 loss2:0.1058 pseloss:0.0174| AUC:0.8293 
+ top1ACC:0.6069 top5ACC:0.8138 mauc:0.8525 mauc_ab:0.8418
+[2025-10-24 14:48:36,106][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.1264 loss2:0.0959 pseloss:0.0175| AUC:0.8361 
+ top1ACC:0.6276 top5ACC:0.8034 mauc:0.8541 mauc_ab:0.8434
+[2025-10-24 14:48:38,212][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1227 loss2:0.1880 pseloss:0.0176| AUC:0.8338 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8508 mauc_ab:0.8410
+[2025-10-24 14:48:38,254][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.1153 loss2:0.1691 pseloss:0.0165| AUC:0.8364 
+ top1ACC:0.6103 top5ACC:0.8138 mauc:0.7722 mauc_ab:0.7585
+[2025-10-24 14:48:40,202][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1857 loss2:0.2259 pseloss:0.0269| AUC:0.8495 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8557 mauc_ab:0.8454
+[2025-10-24 14:48:40,889][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1524 loss2:0.2432 pseloss:0.0239| AUC:0.8395 
+ top1ACC:0.6172 top5ACC:0.7966 mauc:0.8321 mauc_ab:0.8200
+[2025-10-24 14:48:45,318][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.1128 loss2:0.0921 pseloss:0.0161| AUC:0.8256 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8418 mauc_ab:0.8302
+[2025-10-24 14:48:46,272][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1409 loss2:0.2292 pseloss:0.0217| AUC:0.8300 
+ top1ACC:0.6276 top5ACC:0.7897 mauc:0.8526 mauc_ab:0.8419
+[2025-10-24 14:48:48,002][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.0957 loss2:0.1019 pseloss:0.0154| AUC:0.8336 
+ top1ACC:0.6345 top5ACC:0.8207 mauc:0.8604 mauc_ab:0.8501
+[2025-10-24 14:48:50,349][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.1165 loss2:0.1340 pseloss:0.0154| AUC:0.8356 
+ top1ACC:0.5552 top5ACC:0.7966 mauc:0.7218 mauc_ab:0.7041
+[2025-10-24 14:48:53,024][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.0965 loss2:0.1730 pseloss:0.0160| AUC:0.8266 
+ top1ACC:0.6276 top5ACC:0.8379 mauc:0.8474 mauc_ab:0.8369
+[2025-10-24 14:48:55,702][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1209 loss2:0.1951 pseloss:0.0217| AUC:0.8386 
+ top1ACC:0.6207 top5ACC:0.8000 mauc:0.8464 mauc_ab:0.8354
+[2025-10-24 14:48:56,967][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.1079 loss2:0.0731 pseloss:0.0142| AUC:0.8292 
+ top1ACC:0.6241 top5ACC:0.8034 mauc:0.8413 mauc_ab:0.8295
+[2025-10-24 14:48:59,483][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.0941 loss2:0.0816 pseloss:0.0120| AUC:0.8434 
+ top1ACC:0.6310 top5ACC:0.8172 mauc:0.8407 mauc_ab:0.8291
+[2025-10-24 14:49:00,320][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1553 loss2:0.1841 pseloss:0.0239| AUC:0.8522 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8470 mauc_ab:0.8359
+[2025-10-24 14:49:02,773][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.1408 loss2:0.1375 pseloss:0.0191| AUC:0.8423 
+ top1ACC:0.5621 top5ACC:0.7828 mauc:0.7048 mauc_ab:0.6853
+[2025-10-24 14:49:06,168][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1298 loss2:0.1855 pseloss:0.0216| AUC:0.8387 
+ top1ACC:0.6103 top5ACC:0.8172 mauc:0.8493 mauc_ab:0.8385
+[2025-10-24 14:49:07,417][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.0931 loss2:0.1359 pseloss:0.0148| AUC:0.8310 
+ top1ACC:0.6276 top5ACC:0.8103 mauc:0.8412 mauc_ab:0.8304
+[2025-10-24 14:49:08,202][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.0873 loss2:0.0594 pseloss:0.0135| AUC:0.8200 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8388 mauc_ab:0.8270
+[2025-10-24 14:49:10,409][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1154 loss2:0.1666 pseloss:0.0183| AUC:0.8384 
+ top1ACC:0.6172 top5ACC:0.8069 mauc:0.8345 mauc_ab:0.8225
+[2025-10-24 14:49:11,341][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.1020 loss2:0.0675 pseloss:0.0160| AUC:0.8355 
+ top1ACC:0.6345 top5ACC:0.8207 mauc:0.8408 mauc_ab:0.8290
+[2025-10-24 14:49:14,908][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.1336 loss2:0.1394 pseloss:0.0163| AUC:0.8256 
+ top1ACC:0.5586 top5ACC:0.8069 mauc:0.7409 mauc_ab:0.7245
+[2025-10-24 14:49:19,244][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.0745 loss2:0.0454 pseloss:0.0111| AUC:0.8172 
+ top1ACC:0.6172 top5ACC:0.8000 mauc:0.8281 mauc_ab:0.8153
+[2025-10-24 14:49:21,238][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1306 loss2:0.1441 pseloss:0.0219| AUC:0.8374 
+ top1ACC:0.6138 top5ACC:0.7966 mauc:0.8442 mauc_ab:0.8331
+[2025-10-24 14:49:22,635][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.1161 loss2:0.0676 pseloss:0.0144| AUC:0.8328 
+ top1ACC:0.6310 top5ACC:0.8207 mauc:0.8425 mauc_ab:0.8308
+[2025-10-24 14:49:23,003][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.1091 loss2:0.1107 pseloss:0.0154| AUC:0.8412 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8386 mauc_ab:0.8270
+[2025-10-24 14:49:24,673][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.0917 loss2:0.1456 pseloss:0.0176| AUC:0.8177 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8461 mauc_ab:0.8349
+[2025-10-24 14:49:25,921][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.1008 loss2:0.1214 pseloss:0.0134| AUC:0.8199 
+ top1ACC:0.6138 top5ACC:0.8310 mauc:0.7590 mauc_ab:0.7435
+[2025-10-24 14:49:26,280][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1572 loss2:0.1576 pseloss:0.0213| AUC:0.8267 
+ top1ACC:0.6241 top5ACC:0.8000 mauc:0.8534 mauc_ab:0.8432
+[2025-10-24 14:49:30,159][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.0758 loss2:0.0466 pseloss:0.0100| AUC:0.8291 
+ top1ACC:0.6172 top5ACC:0.7897 mauc:0.8315 mauc_ab:0.8189
+[2025-10-24 14:49:33,828][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.0868 loss2:0.0606 pseloss:0.0117| AUC:0.8300 
+ top1ACC:0.6345 top5ACC:0.8207 mauc:0.8437 mauc_ab:0.8322
+[2025-10-24 14:49:37,319][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.1199 loss2:0.1047 pseloss:0.0149| AUC:0.8225 
+ top1ACC:0.6276 top5ACC:0.8276 mauc:0.8393 mauc_ab:0.8279
+[2025-10-24 14:49:37,695][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.0982 loss2:0.0974 pseloss:0.0130| AUC:0.8363 
+ top1ACC:0.5759 top5ACC:0.8207 mauc:0.7274 mauc_ab:0.7094
+[2025-10-24 14:49:40,075][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.1125 loss2:0.1378 pseloss:0.0176| AUC:0.8337 
+ top1ACC:0.6241 top5ACC:0.7931 mauc:0.8334 mauc_ab:0.8211
+[2025-10-24 14:49:41,005][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.1374 loss2:0.1575 pseloss:0.0199| AUC:0.8421 
+ top1ACC:0.6103 top5ACC:0.8207 mauc:0.8508 mauc_ab:0.8400
+[2025-10-24 14:49:42,071][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.1098 loss2:0.1412 pseloss:0.0217| AUC:0.8344 
+ top1ACC:0.6069 top5ACC:0.8103 mauc:0.8468 mauc_ab:0.8359
+[2025-10-24 14:49:42,419][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0769 loss2:0.0394 pseloss:0.0105| AUC:0.8180 
+ top1ACC:0.6172 top5ACC:0.8069 mauc:0.8365 mauc_ab:0.8244
+[2025-10-24 14:49:45,464][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0755 loss2:0.0418 pseloss:0.0108| AUC:0.8180 
+ top1ACC:0.6276 top5ACC:0.8241 mauc:0.8452 mauc_ab:0.8338
+[2025-10-24 14:49:49,737][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.0856 loss2:0.0811 pseloss:0.0108| AUC:0.8250 
+ top1ACC:0.6000 top5ACC:0.8069 mauc:0.7445 mauc_ab:0.7280
+[2025-10-24 14:49:51,851][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.0893 loss2:0.0857 pseloss:0.0128| AUC:0.8274 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8426 mauc_ab:0.8313
+[2025-10-24 14:49:53,705][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0793 loss2:0.0365 pseloss:0.0100| AUC:0.7802 
+ top1ACC:0.6276 top5ACC:0.8207 mauc:0.8510 mauc_ab:0.8400
+[2025-10-24 14:49:55,291][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.1076 loss2:0.1163 pseloss:0.0159| AUC:0.8218 
+ top1ACC:0.6103 top5ACC:0.8034 mauc:0.8264 mauc_ab:0.8136
+[2025-10-24 14:49:56,747][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.0871 loss2:0.1211 pseloss:0.0189| AUC:0.8251 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8562 mauc_ab:0.8459
+[2025-10-24 14:49:56,886][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0600 loss2:0.0392 pseloss:0.0099| AUC:0.8073 
+ top1ACC:0.6379 top5ACC:0.8103 mauc:0.8496 mauc_ab:0.8386
+[2025-10-24 14:49:58,955][main.py][line:104][INFO] [Epoch:13/30]: loss1:0.0920 loss2:0.1076 pseloss:0.0186| AUC:0.8250 
+ top1ACC:0.6172 top5ACC:0.8069 mauc:0.8473 mauc_ab:0.8364
+[2025-10-24 14:50:01,442][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0601 loss2:0.0577 pseloss:0.0096| AUC:0.8293 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.7678 mauc_ab:0.7536
+[2025-10-24 14:50:05,257][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0660 loss2:0.0371 pseloss:0.0105| AUC:0.8087 
+ top1ACC:0.6310 top5ACC:0.8241 mauc:0.8510 mauc_ab:0.8399
+[2025-10-24 14:50:06,242][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.0846 loss2:0.0785 pseloss:0.0130| AUC:0.8169 
+ top1ACC:0.6276 top5ACC:0.8207 mauc:0.8423 mauc_ab:0.8312
+[2025-10-24 14:50:08,105][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0586 loss2:0.0305 pseloss:0.0093| AUC:0.8075 
+ top1ACC:0.6379 top5ACC:0.8207 mauc:0.8507 mauc_ab:0.8397
+[2025-10-24 14:50:09,791][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.0871 loss2:0.1066 pseloss:0.0148| AUC:0.8063 
+ top1ACC:0.6414 top5ACC:0.8207 mauc:0.8425 mauc_ab:0.8308
+[2025-10-24 14:50:11,498][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.1072 loss2:0.0968 pseloss:0.0168| AUC:0.8039 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8597 mauc_ab:0.8499
+[2025-10-24 14:50:13,658][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0584 loss2:0.0469 pseloss:0.0086| AUC:0.8231 
+ top1ACC:0.6069 top5ACC:0.8069 mauc:0.7550 mauc_ab:0.7394
+[2025-10-24 14:50:14,866][main.py][line:104][INFO] [Epoch:14/30]: loss1:0.0863 loss2:0.0794 pseloss:0.0162| AUC:0.8264 
+ top1ACC:0.6138 top5ACC:0.8207 mauc:0.8392 mauc_ab:0.8275
+[2025-10-24 14:50:15,861][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0615 loss2:0.0300 pseloss:0.0091| AUC:0.8139 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8395 mauc_ab:0.8276
+[2025-10-24 14:50:18,872][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0648 loss2:0.0249 pseloss:0.0103| AUC:0.8140 
+ top1ACC:0.6310 top5ACC:0.8207 mauc:0.8495 mauc_ab:0.8384
+[2025-10-24 14:50:21,071][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.1368 loss2:0.0841 pseloss:0.0155| AUC:0.8368 
+ top1ACC:0.6207 top5ACC:0.8103 mauc:0.8239 mauc_ab:0.8112
+[2025-10-24 14:50:23,486][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.0997 loss2:0.0846 pseloss:0.0166| AUC:0.8117 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8448 mauc_ab:0.8336
+[2025-10-24 14:50:25,404][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.0852 loss2:0.0889 pseloss:0.0152| AUC:0.8347 
+ top1ACC:0.6207 top5ACC:0.8172 mauc:0.8551 mauc_ab:0.8446
+[2025-10-24 14:50:25,799][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0608 loss2:0.0385 pseloss:0.0092| AUC:0.8349 
+ top1ACC:0.5862 top5ACC:0.7966 mauc:0.7325 mauc_ab:0.7149
+[2025-10-24 14:50:26,740][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0539 loss2:0.0244 pseloss:0.0088| AUC:0.8042 
+ top1ACC:0.6345 top5ACC:0.8172 mauc:0.8303 mauc_ab:0.8177
+[2025-10-24 14:50:30,571][main.py][line:104][INFO] [Epoch:15/30]: loss1:0.0709 loss2:0.0707 pseloss:0.0151| AUC:0.8267 
+ top1ACC:0.6103 top5ACC:0.8172 mauc:0.8469 mauc_ab:0.8357
+[2025-10-24 14:50:31,248][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0875 loss2:0.0308 pseloss:0.0128| AUC:0.8399 
+ top1ACC:0.6345 top5ACC:0.8103 mauc:0.8460 mauc_ab:0.8345
+[2025-10-24 14:50:33,824][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.1050 loss2:0.0752 pseloss:0.0133| AUC:0.8183 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8376 mauc_ab:0.8259
+[2025-10-24 14:50:38,103][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.0594 loss2:0.0226 pseloss:0.0086| AUC:0.8042 
+ top1ACC:0.6241 top5ACC:0.8069 mauc:0.8345 mauc_ab:0.8222
+[2025-10-24 14:50:38,164][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0587 loss2:0.0384 pseloss:0.0084| AUC:0.8248 
+ top1ACC:0.5759 top5ACC:0.8000 mauc:0.7504 mauc_ab:0.7339
+[2025-10-24 14:50:38,319][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.1127 loss2:0.0853 pseloss:0.0150| AUC:0.8271 
+ top1ACC:0.6310 top5ACC:0.8138 mauc:0.8258 mauc_ab:0.8128
+[2025-10-24 14:50:40,185][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.0667 loss2:0.0758 pseloss:0.0133| AUC:0.8276 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8496 mauc_ab:0.8387
+[2025-10-24 14:50:42,414][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.1151 loss2:0.0323 pseloss:0.0156| AUC:0.8240 
+ top1ACC:0.6345 top5ACC:0.8103 mauc:0.8495 mauc_ab:0.8385
+[2025-10-24 14:50:45,857][main.py][line:104][INFO] [Epoch:16/30]: loss1:0.0693 loss2:0.0550 pseloss:0.0139| AUC:0.8277 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8497 mauc_ab:0.8387
+[2025-10-24 14:50:45,912][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0839 loss2:0.0610 pseloss:0.0113| AUC:0.8010 
+ top1ACC:0.6310 top5ACC:0.8138 mauc:0.8427 mauc_ab:0.8313
+[2025-10-24 14:50:49,739][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0613 loss2:0.0217 pseloss:0.0089| AUC:0.7891 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8416 mauc_ab:0.8299
+[2025-10-24 14:50:50,186][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0533 loss2:0.0312 pseloss:0.0079| AUC:0.8216 
+ top1ACC:0.5759 top5ACC:0.8172 mauc:0.7514 mauc_ab:0.7352
+[2025-10-24 14:50:53,122][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.0665 loss2:0.0645 pseloss:0.0129| AUC:0.8137 
+ top1ACC:0.6103 top5ACC:0.8138 mauc:0.8425 mauc_ab:0.8308
+[2025-10-24 14:50:53,525][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0770 loss2:0.0270 pseloss:0.0114| AUC:0.8009 
+ top1ACC:0.6310 top5ACC:0.8276 mauc:0.8542 mauc_ab:0.8436
+[2025-10-24 14:50:56,064][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.0660 loss2:0.0691 pseloss:0.0126| AUC:0.8191 
+ top1ACC:0.6241 top5ACC:0.8172 mauc:0.8526 mauc_ab:0.8420
+[2025-10-24 14:51:00,291][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0855 loss2:0.0481 pseloss:0.0112| AUC:0.8126 
+ top1ACC:0.6276 top5ACC:0.8103 mauc:0.8331 mauc_ab:0.8211
+[2025-10-24 14:51:00,331][main.py][line:104][INFO] [Epoch:17/30]: loss1:0.0776 loss2:0.0480 pseloss:0.0170| AUC:0.8057 
+ top1ACC:0.6172 top5ACC:0.8241 mauc:0.8456 mauc_ab:0.8343
+[2025-10-24 14:51:00,529][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0654 loss2:0.0256 pseloss:0.0094| AUC:0.8103 
+ top1ACC:0.6069 top5ACC:0.7862 mauc:0.8322 mauc_ab:0.8198
+[2025-10-24 14:51:02,187][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.0635 loss2:0.0332 pseloss:0.0088| AUC:0.8323 
+ top1ACC:0.6000 top5ACC:0.8241 mauc:0.7540 mauc_ab:0.7382
+[2025-10-24 14:51:05,350][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0624 loss2:0.0251 pseloss:0.0103| AUC:0.8151 
+ top1ACC:0.6069 top5ACC:0.8103 mauc:0.8456 mauc_ab:0.8343
+[2025-10-24 14:51:07,401][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.0817 loss2:0.0547 pseloss:0.0121| AUC:0.8341 
+ top1ACC:0.6345 top5ACC:0.8034 mauc:0.8315 mauc_ab:0.8189
+[2025-10-24 14:51:11,137][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.0738 loss2:0.0518 pseloss:0.0124| AUC:0.8231 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8591 mauc_ab:0.8489
+[2025-10-24 14:51:11,680][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0475 loss2:0.0231 pseloss:0.0083| AUC:0.8106 
+ top1ACC:0.6138 top5ACC:0.8103 mauc:0.8346 mauc_ab:0.8222
+[2025-10-24 14:51:13,005][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0577 loss2:0.0320 pseloss:0.0082| AUC:0.8124 
+ top1ACC:0.5828 top5ACC:0.8000 mauc:0.7563 mauc_ab:0.7405
+[2025-10-24 14:51:14,828][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0733 loss2:0.0347 pseloss:0.0094| AUC:0.8054 
+ top1ACC:0.6345 top5ACC:0.8138 mauc:0.8414 mauc_ab:0.8299
+[2025-10-24 14:51:15,001][main.py][line:104][INFO] [Epoch:18/30]: loss1:0.1370 loss2:0.0691 pseloss:0.0191| AUC:0.8466 
+ top1ACC:0.6138 top5ACC:0.8069 mauc:0.8348 mauc_ab:0.8225
+[2025-10-24 14:51:16,553][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0599 loss2:0.0245 pseloss:0.0088| AUC:0.8238 
+ top1ACC:0.6310 top5ACC:0.8310 mauc:0.8497 mauc_ab:0.8386
+[2025-10-24 14:51:21,111][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0787 loss2:0.0577 pseloss:0.0124| AUC:0.8055 
+ top1ACC:0.6379 top5ACC:0.8138 mauc:0.8377 mauc_ab:0.8256
+[2025-10-24 14:51:22,819][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0532 loss2:0.0178 pseloss:0.0074| AUC:0.8046 
+ top1ACC:0.6276 top5ACC:0.8138 mauc:0.8374 mauc_ab:0.8253
+[2025-10-24 14:51:25,123][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0623 loss2:0.0295 pseloss:0.0087| AUC:0.8267 
+ top1ACC:0.5897 top5ACC:0.7897 mauc:0.7246 mauc_ab:0.7060
+[2025-10-24 14:51:26,384][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.0851 loss2:0.0529 pseloss:0.0133| AUC:0.8490 
+ top1ACC:0.6138 top5ACC:0.8034 mauc:0.8452 mauc_ab:0.8338
+[2025-10-24 14:51:27,441][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0557 loss2:0.0225 pseloss:0.0081| AUC:0.8161 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8496 mauc_ab:0.8385
+[2025-10-24 14:51:29,697][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0693 loss2:0.0280 pseloss:0.0090| AUC:0.8117 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8339 mauc_ab:0.8218
+[2025-10-24 14:51:30,017][main.py][line:104][INFO] [Epoch:19/30]: loss1:0.1068 loss2:0.0693 pseloss:0.0174| AUC:0.8290 
+ top1ACC:0.6241 top5ACC:0.8276 mauc:0.8425 mauc_ab:0.8309
+[2025-10-24 14:51:34,661][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0484 loss2:0.0146 pseloss:0.0072| AUC:0.8068 
+ top1ACC:0.6103 top5ACC:0.8103 mauc:0.8351 mauc_ab:0.8228
+[2025-10-24 14:51:34,670][main.py][line:124][INFO] Training completes in 5m 42s | best AUC:0.8619
+
+[2025-10-24 14:51:35,105][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0531 loss2:0.0409 pseloss:0.0112| AUC:0.8080 
+ top1ACC:0.6310 top5ACC:0.8172 mauc:0.8350 mauc_ab:0.8227
+[2025-10-24 14:51:37,214][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0735 loss2:0.0260 pseloss:0.0090| AUC:0.8189 
+ top1ACC:0.5828 top5ACC:0.7966 mauc:0.7616 mauc_ab:0.7464
+[2025-10-24 14:51:38,266][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0502 loss2:0.0145 pseloss:0.0077| AUC:0.8143 
+ top1ACC:0.6276 top5ACC:0.7931 mauc:0.8443 mauc_ab:0.8329
+[2025-10-24 14:51:38,275][main.py][line:124][INFO] Training completes in 5m 45s | best AUC:0.8602
+
+[2025-10-24 14:51:40,785][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0767 loss2:0.0414 pseloss:0.0139| AUC:0.8261 
+ top1ACC:0.6138 top5ACC:0.8172 mauc:0.8562 mauc_ab:0.8458
+[2025-10-24 14:51:43,745][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0693 loss2:0.0290 pseloss:0.0107| AUC:0.8256 
+ top1ACC:0.6241 top5ACC:0.8345 mauc:0.8276 mauc_ab:0.8150
+[2025-10-24 14:51:44,960][main.py][line:104][INFO] [Epoch:20/30]: loss1:0.0723 loss2:0.0524 pseloss:0.0148| AUC:0.8129 
+ top1ACC:0.6172 top5ACC:0.8172 mauc:0.8470 mauc_ab:0.8358
+[2025-10-24 14:51:49,344][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0552 loss2:0.0267 pseloss:0.0073| AUC:0.8188 
+ top1ACC:0.6069 top5ACC:0.8138 mauc:0.7719 mauc_ab:0.7576
+[2025-10-24 14:51:50,098][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0615 loss2:0.0327 pseloss:0.0094| AUC:0.8087 
+ top1ACC:0.6345 top5ACC:0.8034 mauc:0.8365 mauc_ab:0.8243
+[2025-10-24 14:51:54,407][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0655 loss2:0.0325 pseloss:0.0110| AUC:0.8243 
+ top1ACC:0.6276 top5ACC:0.8103 mauc:0.8542 mauc_ab:0.8435
+[2025-10-24 14:51:57,185][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.0839 loss2:0.0291 pseloss:0.0110| AUC:0.8151 
+ top1ACC:0.6276 top5ACC:0.8207 mauc:0.8188 mauc_ab:0.8053
+[2025-10-24 14:52:00,342][main.py][line:104][INFO] [Epoch:21/30]: loss1:0.0750 loss2:0.0354 pseloss:0.0143| AUC:0.8263 
+ top1ACC:0.6241 top5ACC:0.8172 mauc:0.8523 mauc_ab:0.8413
+[2025-10-24 14:52:01,034][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0472 loss2:0.0194 pseloss:0.0066| AUC:0.8188 
+ top1ACC:0.6069 top5ACC:0.7966 mauc:0.7743 mauc_ab:0.7599
+[2025-10-24 14:52:01,053][main.py][line:124][INFO] Training completes in 6m 10s | best AUC:0.8619
+
+[2025-10-24 14:52:04,414][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0555 loss2:0.0334 pseloss:0.0102| AUC:0.7942 
+ top1ACC:0.6310 top5ACC:0.8172 mauc:0.8351 mauc_ab:0.8229
+[2025-10-24 14:52:08,504][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0515 loss2:0.0249 pseloss:0.0114| AUC:0.8228 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8552 mauc_ab:0.8446
+[2025-10-24 14:52:11,018][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0739 loss2:0.0307 pseloss:0.0105| AUC:0.8176 
+ top1ACC:0.6310 top5ACC:0.8241 mauc:0.8317 mauc_ab:0.8194
+[2025-10-24 14:52:15,379][main.py][line:104][INFO] [Epoch:22/30]: loss1:0.0710 loss2:0.0302 pseloss:0.0126| AUC:0.8244 
+ top1ACC:0.6172 top5ACC:0.8310 mauc:0.8481 mauc_ab:0.8369
+[2025-10-24 14:52:23,130][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0490 loss2:0.0257 pseloss:0.0091| AUC:0.8182 
+ top1ACC:0.6207 top5ACC:0.8310 mauc:0.8598 mauc_ab:0.8496
+[2025-10-24 14:52:23,145][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0829 loss2:0.0389 pseloss:0.0132| AUC:0.8190 
+ top1ACC:0.6379 top5ACC:0.8069 mauc:0.8312 mauc_ab:0.8186
+[2025-10-24 14:52:24,837][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0793 loss2:0.0260 pseloss:0.0106| AUC:0.8218 
+ top1ACC:0.6172 top5ACC:0.8000 mauc:0.8248 mauc_ab:0.8119
+[2025-10-24 14:52:31,033][main.py][line:104][INFO] [Epoch:23/30]: loss1:0.0527 loss2:0.0291 pseloss:0.0118| AUC:0.8200 
+ top1ACC:0.6207 top5ACC:0.8207 mauc:0.8433 mauc_ab:0.8317
+[2025-10-24 14:52:37,483][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0449 loss2:0.0274 pseloss:0.0098| AUC:0.8379 
+ top1ACC:0.6138 top5ACC:0.8241 mauc:0.8523 mauc_ab:0.8415
+[2025-10-24 14:52:38,683][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0773 loss2:0.0364 pseloss:0.0110| AUC:0.8113 
+ top1ACC:0.6207 top5ACC:0.7966 mauc:0.8168 mauc_ab:0.8034
+[2025-10-24 14:52:42,566][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.1023 loss2:0.0414 pseloss:0.0163| AUC:0.8447 
+ top1ACC:0.6379 top5ACC:0.8172 mauc:0.8275 mauc_ab:0.8145
+[2025-10-24 14:52:46,098][main.py][line:104][INFO] [Epoch:24/30]: loss1:0.0419 loss2:0.0203 pseloss:0.0101| AUC:0.8278 
+ top1ACC:0.6172 top5ACC:0.8138 mauc:0.8418 mauc_ab:0.8299
+[2025-10-24 14:52:51,771][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0563 loss2:0.0286 pseloss:0.0084| AUC:0.8084 
+ top1ACC:0.6138 top5ACC:0.8276 mauc:0.8255 mauc_ab:0.8127
+[2025-10-24 14:52:52,163][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.0654 loss2:0.0287 pseloss:0.0114| AUC:0.8214 
+ top1ACC:0.6069 top5ACC:0.8241 mauc:0.8516 mauc_ab:0.8406
+[2025-10-24 14:53:01,184][main.py][line:104][INFO] [Epoch:25/30]: loss1:0.0500 loss2:0.0165 pseloss:0.0101| AUC:0.8254 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8396 mauc_ab:0.8276
+[2025-10-24 14:53:01,425][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0999 loss2:0.0399 pseloss:0.0143| AUC:0.8097 
+ top1ACC:0.6345 top5ACC:0.8172 mauc:0.8371 mauc_ab:0.8251
+[2025-10-24 14:53:02,856][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0536 loss2:0.0212 pseloss:0.0073| AUC:0.8072 
+ top1ACC:0.6276 top5ACC:0.8310 mauc:0.8341 mauc_ab:0.8219
+[2025-10-24 14:53:02,869][main.py][line:124][INFO] Training completes in 7m 6s | best AUC:0.8603
+
+[2025-10-24 14:53:06,292][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0640 loss2:0.0270 pseloss:0.0116| AUC:0.8302 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8538 mauc_ab:0.8431
+[2025-10-24 14:53:15,744][main.py][line:104][INFO] [Epoch:26/30]: loss1:0.0443 loss2:0.0163 pseloss:0.0101| AUC:0.8082 
+ top1ACC:0.6310 top5ACC:0.8241 mauc:0.8373 mauc_ab:0.8252
+[2025-10-24 14:53:20,371][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0542 loss2:0.0242 pseloss:0.0092| AUC:0.8098 
+ top1ACC:0.6241 top5ACC:0.8207 mauc:0.8571 mauc_ab:0.8466
+[2025-10-24 14:53:20,420][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0675 loss2:0.0282 pseloss:0.0112| AUC:0.8061 
+ top1ACC:0.6207 top5ACC:0.8069 mauc:0.8286 mauc_ab:0.8159
+[2025-10-24 14:53:30,793][main.py][line:104][INFO] [Epoch:27/30]: loss1:0.0537 loss2:0.0147 pseloss:0.0099| AUC:0.8175 
+ top1ACC:0.6138 top5ACC:0.8138 mauc:0.8370 mauc_ab:0.8249
+[2025-10-24 14:53:34,240][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0455 loss2:0.0201 pseloss:0.0088| AUC:0.8176 
+ top1ACC:0.6310 top5ACC:0.8103 mauc:0.8514 mauc_ab:0.8404
+[2025-10-24 14:53:39,833][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0574 loss2:0.0266 pseloss:0.0097| AUC:0.8180 
+ top1ACC:0.6069 top5ACC:0.8069 mauc:0.8126 mauc_ab:0.7987
+[2025-10-24 14:53:45,200][main.py][line:104][INFO] [Epoch:28/30]: loss1:0.0516 loss2:0.0158 pseloss:0.0108| AUC:0.8253 
+ top1ACC:0.6207 top5ACC:0.8138 mauc:0.8361 mauc_ab:0.8239
+[2025-10-24 14:53:55,726][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0701 loss2:0.0198 pseloss:0.0118| AUC:0.8082 
+ top1ACC:0.6241 top5ACC:0.8241 mauc:0.8597 mauc_ab:0.8495
+[2025-10-24 14:53:58,395][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0480 loss2:0.0210 pseloss:0.0084| AUC:0.8088 
+ top1ACC:0.6207 top5ACC:0.8207 mauc:0.8260 mauc_ab:0.8130
+[2025-10-24 14:53:59,534][main.py][line:104][INFO] [Epoch:29/30]: loss1:0.0391 loss2:0.0177 pseloss:0.0089| AUC:0.8123 
+ top1ACC:0.6207 top5ACC:0.8310 mauc:0.8399 mauc_ab:0.8280
+[2025-10-24 14:54:11,732][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0480 loss2:0.0146 pseloss:0.0084| AUC:0.8302 
+ top1ACC:0.6310 top5ACC:0.8207 mauc:0.8385 mauc_ab:0.8264
+[2025-10-24 14:54:11,742][main.py][line:124][INFO] Training completes in 8m 12s | best AUC:0.8600
+
+[2025-10-24 14:54:13,378][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0401 loss2:0.0136 pseloss:0.0080| AUC:0.8172 
+ top1ACC:0.6241 top5ACC:0.8276 mauc:0.8396 mauc_ab:0.8277
+[2025-10-24 14:54:13,387][main.py][line:124][INFO] Training completes in 8m 15s | best AUC:0.8596
+
+[2025-10-24 14:54:16,289][main.py][line:104][INFO] [Epoch:30/30]: loss1:0.0828 loss2:0.0245 pseloss:0.0134| AUC:0.8259 
+ top1ACC:0.6172 top5ACC:0.8103 mauc:0.8440 mauc_ab:0.8325
+[2025-10-24 14:54:16,298][main.py][line:124][INFO] Training completes in 8m 19s | best AUC:0.8563
+
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+/home/dengyunhui/repo/VAD/PLOVAD/src/clip/clip.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import packaging
+[2025-10-24 15:23:54,038][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:4', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 19.0, 'seed': 10, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 15:23:54,266][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:3', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 18.0, 'seed': 10, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 15:23:54,344][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:6', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 21.0, 'seed': 10, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 15:23:54,373][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:5', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 20.0, 'seed': 10, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 15:23:54,409][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:0', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 22.0, 'seed': 10, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 15:24:02,231][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 15:24:02,232][main.py][line:184][INFO] Training Mode
+[2025-10-24 15:24:02,232][main.py][line:188][INFO] train from scratch
+[2025-10-24 15:24:02,234][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 15:24:02,684][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 15:24:02,684][main.py][line:184][INFO] Training Mode
+[2025-10-24 15:24:02,684][main.py][line:188][INFO] train from scratch
+[2025-10-24 15:24:02,687][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 15:24:02,912][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 15:24:02,912][main.py][line:184][INFO] Training Mode
+[2025-10-24 15:24:02,912][main.py][line:188][INFO] train from scratch
+[2025-10-24 15:24:02,914][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 15:24:03,262][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 15:24:03,262][main.py][line:184][INFO] Training Mode
+[2025-10-24 15:24:03,263][main.py][line:188][INFO] train from scratch
+[2025-10-24 15:24:03,264][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 15:24:04,041][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 15:24:04,041][main.py][line:184][INFO] Training Mode
+[2025-10-24 15:24:04,041][main.py][line:188][INFO] train from scratch
+[2025-10-24 15:24:04,043][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+loading cls info and encoder the text of cls...
+{'Normal': 0, 'Abuse': 1, 'Arrest': 2, 'Arson': 3, 'Assault': 4, 'Burglary': 5, 'Explosion': 6, 'Fighting': 7, 'RoadAccidents': 8, 'Robbery': 9, 'Shooting': 10, 'Shoplifting': 11, 'Stealing': 12, 'Vandalism': 13}
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+load pseudo label:/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy
+[2025-10-24 15:24:13,050][main.py][line:71][INFO] Random initialize AUC:0.6304 top1ACC:0.1483 top5ACC:0.4483 mauc:0.6889 mauc_ab:0.6900
+[2025-10-24 15:24:13,789][main.py][line:71][INFO] Random initialize AUC:0.6304 top1ACC:0.1483 top5ACC:0.4483 mauc:0.6889 mauc_ab:0.6900
+[2025-10-24 15:24:16,221][main.py][line:71][INFO] Random initialize AUC:0.6304 top1ACC:0.1483 top5ACC:0.4483 mauc:0.6889 mauc_ab:0.6900
+[2025-10-24 15:24:16,723][main.py][line:71][INFO] Random initialize AUC:0.6304 top1ACC:0.1483 top5ACC:0.4483 mauc:0.6889 mauc_ab:0.6900
+[2025-10-24 15:24:22,434][main.py][line:71][INFO] Random initialize AUC:0.6304 top1ACC:0.1483 top5ACC:0.4483 mauc:0.6889 mauc_ab:0.6900
+[2025-10-24 15:24:24,280][main.py][line:98][INFO] save model at epoch1, AUC:0.8073
+
+[2025-10-24 15:24:24,281][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6742 loss2:2.0843 pseloss:0.0350| AUC:0.8073 
+ top1ACC:0.4931 top5ACC:0.7345 mauc:0.7563 mauc_ab:0.7544
+[2025-10-24 15:24:25,367][main.py][line:98][INFO] save model at epoch1, AUC:0.8091
+
+[2025-10-24 15:24:25,368][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6707 loss2:2.0171 pseloss:0.0350| AUC:0.8091 
+ top1ACC:0.5172 top5ACC:0.7241 mauc:0.7807 mauc_ab:0.7764
+[2025-10-24 15:24:31,450][main.py][line:98][INFO] save model at epoch1, AUC:0.8109
+
+[2025-10-24 15:24:31,450][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6633 loss2:1.9987 pseloss:0.0349| AUC:0.8109 
+ top1ACC:0.5276 top5ACC:0.7310 mauc:0.7897 mauc_ab:0.7825
+[2025-10-24 15:24:31,782][main.py][line:98][INFO] save model at epoch1, AUC:0.8053
+
+[2025-10-24 15:24:31,782][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6495 loss2:2.0086 pseloss:0.0349| AUC:0.8053 
+ top1ACC:0.5172 top5ACC:0.7621 mauc:0.7824 mauc_ab:0.7769
+[2025-10-24 15:24:36,375][main.py][line:98][INFO] save model at epoch2, AUC:0.8435
+
+[2025-10-24 15:24:36,377][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.3970 loss2:1.0109 pseloss:0.0245| AUC:0.8435 
+ top1ACC:0.5793 top5ACC:0.7034 mauc:0.8344 mauc_ab:0.8238
+[2025-10-24 15:24:37,999][main.py][line:98][INFO] save model at epoch2, AUC:0.8447
+
+[2025-10-24 15:24:38,032][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.4011 loss2:1.0133 pseloss:0.0247| AUC:0.8447 
+ top1ACC:0.5897 top5ACC:0.7034 mauc:0.8574 mauc_ab:0.8478
+[2025-10-24 15:24:44,021][main.py][line:98][INFO] save model at epoch1, AUC:0.8094
+
+[2025-10-24 15:24:44,022][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6650 loss2:1.9656 pseloss:0.0350| AUC:0.8094 
+ top1ACC:0.5276 top5ACC:0.7276 mauc:0.7979 mauc_ab:0.7918
+[2025-10-24 15:24:46,481][main.py][line:98][INFO] save model at epoch2, AUC:0.8446
+
+[2025-10-24 15:24:46,482][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.3939 loss2:0.9522 pseloss:0.0247| AUC:0.8446 
+ top1ACC:0.6069 top5ACC:0.7310 mauc:0.8526 mauc_ab:0.8422
+[2025-10-24 15:24:47,166][main.py][line:98][INFO] save model at epoch2, AUC:0.8465
+
+[2025-10-24 15:24:47,167][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.3904 loss2:0.9409 pseloss:0.0248| AUC:0.8465 
+ top1ACC:0.6000 top5ACC:0.7034 mauc:0.8424 mauc_ab:0.8313
+[2025-10-24 15:24:49,124][main.py][line:98][INFO] save model at epoch3, AUC:0.8603
+
+[2025-10-24 15:24:49,124][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3146 loss2:0.6368 pseloss:0.0216| AUC:0.8603 
+ top1ACC:0.6103 top5ACC:0.7276 mauc:0.8584 mauc_ab:0.8480
+[2025-10-24 15:24:50,045][main.py][line:98][INFO] save model at epoch3, AUC:0.8620
+
+[2025-10-24 15:24:50,045][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3151 loss2:0.6437 pseloss:0.0218| AUC:0.8620 
+ top1ACC:0.6172 top5ACC:0.7034 mauc:0.8719 mauc_ab:0.8625
+[2025-10-24 15:24:59,671][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2662 loss2:0.4900 pseloss:0.0214| AUC:0.8542 
+ top1ACC:0.6276 top5ACC:0.7517 mauc:0.8550 mauc_ab:0.8441
+[2025-10-24 15:25:01,165][main.py][line:98][INFO] save model at epoch3, AUC:0.8632
+
+[2025-10-24 15:25:01,166][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3059 loss2:0.5984 pseloss:0.0217| AUC:0.8632 
+ top1ACC:0.6310 top5ACC:0.7310 mauc:0.8715 mauc_ab:0.8618
+[2025-10-24 15:25:01,489][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2626 loss2:0.5002 pseloss:0.0218| AUC:0.8583 
+ top1ACC:0.6276 top5ACC:0.7207 mauc:0.8728 mauc_ab:0.8632
+[2025-10-24 15:25:03,364][main.py][line:98][INFO] save model at epoch3, AUC:0.8574
+
+[2025-10-24 15:25:03,365][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3028 loss2:0.6024 pseloss:0.0222| AUC:0.8574 
+ top1ACC:0.6138 top5ACC:0.7138 mauc:0.8618 mauc_ab:0.8516
+[2025-10-24 15:25:05,335][main.py][line:98][INFO] save model at epoch2, AUC:0.8474
+
+[2025-10-24 15:25:05,336][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.3937 loss2:0.8973 pseloss:0.0248| AUC:0.8474 
+ top1ACC:0.6034 top5ACC:0.7138 mauc:0.8568 mauc_ab:0.8467
+[2025-10-24 15:25:10,419][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2476 loss2:0.3998 pseloss:0.0189| AUC:0.8520 
+ top1ACC:0.6379 top5ACC:0.7586 mauc:0.8515 mauc_ab:0.8404
+[2025-10-24 15:25:11,781][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2376 loss2:0.4077 pseloss:0.0194| AUC:0.8564 
+ top1ACC:0.6345 top5ACC:0.7793 mauc:0.8733 mauc_ab:0.8640
+[2025-10-24 15:25:15,702][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2551 loss2:0.4701 pseloss:0.0215| AUC:0.8616 
+ top1ACC:0.6414 top5ACC:0.7483 mauc:0.8707 mauc_ab:0.8608
+[2025-10-24 15:25:18,264][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2499 loss2:0.4838 pseloss:0.0215| AUC:0.8566 
+ top1ACC:0.6310 top5ACC:0.7345 mauc:0.8688 mauc_ab:0.8590
+[2025-10-24 15:25:20,406][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1950 loss2:0.3526 pseloss:0.0183| AUC:0.8477 
+ top1ACC:0.6414 top5ACC:0.7690 mauc:0.8543 mauc_ab:0.8433
+[2025-10-24 15:25:23,375][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1893 loss2:0.3560 pseloss:0.0182| AUC:0.8507 
+ top1ACC:0.6310 top5ACC:0.7793 mauc:0.8683 mauc_ab:0.8584
+[2025-10-24 15:25:24,936][main.py][line:98][INFO] save model at epoch3, AUC:0.8560
+
+[2025-10-24 15:25:24,936][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3082 loss2:0.5757 pseloss:0.0219| AUC:0.8560 
+ top1ACC:0.6241 top5ACC:0.7276 mauc:0.8603 mauc_ab:0.8498
+[2025-10-24 15:25:29,047][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2381 loss2:0.3919 pseloss:0.0189| AUC:0.8589 
+ top1ACC:0.6310 top5ACC:0.7793 mauc:0.8615 mauc_ab:0.8511
+[2025-10-24 15:25:30,422][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1720 loss2:0.3017 pseloss:0.0160| AUC:0.8415 
+ top1ACC:0.6414 top5ACC:0.8000 mauc:0.8536 mauc_ab:0.8427
+[2025-10-24 15:25:32,171][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2318 loss2:0.3982 pseloss:0.0194| AUC:0.8524 
+ top1ACC:0.6310 top5ACC:0.7828 mauc:0.8703 mauc_ab:0.8608
+[2025-10-24 15:25:34,246][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1610 loss2:0.3086 pseloss:0.0161| AUC:0.8316 
+ top1ACC:0.6345 top5ACC:0.7931 mauc:0.8650 mauc_ab:0.8550
+[2025-10-24 15:25:40,362][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1394 loss2:0.2506 pseloss:0.0143| AUC:0.8348 
+ top1ACC:0.6379 top5ACC:0.7931 mauc:0.8554 mauc_ab:0.8445
+[2025-10-24 15:25:40,395][main.py][line:98][INFO] save model at epoch4, AUC:0.8605
+
+[2025-10-24 15:25:40,396][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2505 loss2:0.4671 pseloss:0.0213| AUC:0.8605 
+ top1ACC:0.6172 top5ACC:0.7483 mauc:0.8636 mauc_ab:0.8532
+[2025-10-24 15:25:43,320][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1835 loss2:0.3465 pseloss:0.0181| AUC:0.8483 
+ top1ACC:0.6310 top5ACC:0.7931 mauc:0.8637 mauc_ab:0.8534
+[2025-10-24 15:25:44,261][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1429 loss2:0.2576 pseloss:0.0145| AUC:0.8319 
+ top1ACC:0.6379 top5ACC:0.7966 mauc:0.8678 mauc_ab:0.8580
+[2025-10-24 15:25:47,279][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1811 loss2:0.3443 pseloss:0.0188| AUC:0.8418 
+ top1ACC:0.6276 top5ACC:0.8000 mauc:0.8692 mauc_ab:0.8597
+[2025-10-24 15:25:49,958][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1357 loss2:0.2098 pseloss:0.0135| AUC:0.8429 
+ top1ACC:0.6276 top5ACC:0.7862 mauc:0.8464 mauc_ab:0.8348
+[2025-10-24 15:25:54,159][main.py][line:104][INFO] [Epoch:9/30]: loss1:0.1239 loss2:0.2173 pseloss:0.0141| AUC:0.8490 
+ top1ACC:0.6241 top5ACC:0.8103 mauc:0.8588 mauc_ab:0.8481
+[2025-10-24 15:25:54,181][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2211 loss2:0.3979 pseloss:0.0187| AUC:0.8518 
+ top1ACC:0.6448 top5ACC:0.7690 mauc:0.8619 mauc_ab:0.8515
+[2025-10-24 15:25:57,105][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1721 loss2:0.3014 pseloss:0.0166| AUC:0.8394 
+ top1ACC:0.6448 top5ACC:0.7966 mauc:0.8676 mauc_ab:0.8576
+[2025-10-24 15:25:59,832][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1215 loss2:0.2034 pseloss:0.0127| AUC:0.8053 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8500 mauc_ab:0.8389
+[2025-10-24 15:26:00,971][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1636 loss2:0.2945 pseloss:0.0168| AUC:0.8304 
+ top1ACC:0.6310 top5ACC:0.8000 mauc:0.8592 mauc_ab:0.8488
+[2025-10-24 15:26:04,290][main.py][line:104][INFO] [Epoch:10/30]: loss1:0.1250 loss2:0.2084 pseloss:0.0140| AUC:0.8188 
+ top1ACC:0.6276 top5ACC:0.7966 mauc:0.8583 mauc_ab:0.8477
+[2025-10-24 15:26:08,918][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1991 loss2:0.3421 pseloss:0.0191| AUC:0.8543 
+ top1ACC:0.6345 top5ACC:0.7793 mauc:0.8636 mauc_ab:0.8533
+[2025-10-24 15:26:09,422][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1265 loss2:0.1636 pseloss:0.0116| AUC:0.8243 
+ top1ACC:0.6241 top5ACC:0.8034 mauc:0.8417 mauc_ab:0.8298
+[2025-10-24 15:26:10,615][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1473 loss2:0.2502 pseloss:0.0157| AUC:0.8389 
+ top1ACC:0.6414 top5ACC:0.7931 mauc:0.8636 mauc_ab:0.8533
+[2025-10-24 15:26:14,482][main.py][line:104][INFO] [Epoch:11/30]: loss1:0.1349 loss2:0.1636 pseloss:0.0125| AUC:0.8055 
+ top1ACC:0.6172 top5ACC:0.8034 mauc:0.8560 mauc_ab:0.8454
+[2025-10-24 15:26:14,751][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1311 loss2:0.2523 pseloss:0.0155| AUC:0.8400 
+ top1ACC:0.6276 top5ACC:0.8069 mauc:0.8540 mauc_ab:0.8432
+[2025-10-24 15:26:19,671][main.py][line:104][INFO] [Epoch:12/30]: loss1:0.0989 loss2:0.1574 pseloss:0.0104| AUC:0.8206 
+ top1ACC:0.6207 top5ACC:0.8034 mauc:0.8374 mauc_ab:0.8253

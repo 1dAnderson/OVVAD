@@ -11,17 +11,18 @@ def build_config(dataset):
     cfg.workers = 4
     cfg.prefix = 16
     cfg.postfix = 16
-    cfg.device = "cuda:1"
+    cfg.device = "cuda:0"
     cfg.load_ckpt = False
     cfg.WANDB = False
     cfg.eval_on_cpu = False
     cfg.fixed_prompt = False
+    cfg.temporal = True
     cfg.head_num = 4
     if dataset in ['ucf', 'ucf-crime']:
         cfg.dataset = 'ucf-crime'
         cfg.model_name = 'ucf_'
         cfg.metrics = 'AUC'
-        cfg.feat_prefix = '../../Dataset/VITfeature/ucf/features/'
+        cfg.feat_prefix = '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/'
         cfg.train_list = 'list/base2novel/ucf-vit-train_base+normal.list'
         cfg.test_list = 'list/ucf/ucf-vit-test.list'
         cfg.gt = 'list/ucf/gt-ucf-vit.npy'
@@ -38,22 +39,26 @@ def build_config(dataset):
         cfg.gamma = 0.6
         cfg.bias = 0.2
         cfg.norm = True
-        cfg.temporal = True
         # training settings
         cfg.temp = 0.09
-        cfg.lamda = 1
-        cfg.seed = 11 #9
+        cfg.lamda1 = 1
+        cfg.lamda2 = 5
+        cfg.seed = 10 #9
+        #Pseudo label loss settings
+        cfg.pse_alpha = 0.25
+        cfg.pse_gamma = 2.0
+        cfg.pse_threshold = 0.4
         # test settings
         cfg.test_bs = 1
         cfg.ckpt_path = ''
-        cfg.ckpt_path = './ckpt/base2novel/ucf__8678.pkl'
+        cfg.ckpt_path = 'ucf__ckpt_best_tmp.pkl'
         # prompt
         cfg.preprompt = False
         cfg.backbone = 'ViT-B/16'
         cfg.mask_rate = 0.55
-        cfg.save_dir = './ckpt/base2novel_ucf/ovvad/'
-        cfg.logs_dir = './log_info_base2novel_ucf_tmp.log'
-        cfg.max_epoch = 50
+        cfg.save_dir = './ckpt/base2novel_ucf/'
+        cfg.logs_dir = 'log_temp.log'
+        cfg.max_epoch = 30
         cfg.max_seqlen = 200 #200
         cfg.lr = 1e-3 #1e-3
         cfg.std_init = 0.01
@@ -84,7 +89,6 @@ def build_config(dataset):
         cfg.gamma = 0.6
         cfg.bias = 0.2
         cfg.norm = True
-        cfg.temporal = True
         # training settings
         cfg.temp = 0.09
         cfg.lamda = 1
@@ -119,7 +123,6 @@ def build_config(dataset):
         cfg.gamma = 0.6
         cfg.bias = 0.2
         cfg.norm = True
-        cfg.temporal = True
         # training settings
         cfg.temp = 0.09
         cfg.lamda = 1 #1

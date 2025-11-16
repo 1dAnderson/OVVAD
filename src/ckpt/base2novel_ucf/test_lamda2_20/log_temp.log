@@ -1,0 +1,41 @@
+[2025-10-24 15:23:54,373][main.py][line:137][INFO] Config:{'feat_dim': 512, 'dropout_gat': 0.6, 'out_dim': 32, 'alpha': 0.1, 'train_bs': 128, 'workers': 4, 'prefix': 16, 'postfix': 16, 'device': 'cuda:5', 'load_ckpt': False, 'WANDB': False, 'eval_on_cpu': False, 'fixed_prompt': False, 'temporal': True, 'head_num': 4, 'dataset': 'ucf-crime', 'model_name': 'ucf_', 'metrics': 'AUC', 'feat_prefix': '/data/dengyunhui/datasets/UCF-Crime/clip/UCF-CLIP-TSA/', 'train_list': 'list/base2novel/ucf-vit-train_base+normal.list', 'test_list': 'list/ucf/ucf-vit-test.list', 'gt': 'list/ucf/gt-ucf-vit.npy', 'token_feat': 'list/ucf/ucf-prompt_1_not16_859.npy', 'clslist': './list/prompt/ucf_cls.txt', 'has_feature_input': True, 'gamma': 0.6, 'bias': 0.2, 'norm': True, 'temp': 0.09, 'lamda1': 1, 'lamda2': 20.0, 'seed': 10, 'pse_alpha': 0.25, 'pse_gamma': 2.0, 'pse_threshold': 0.4, 'test_bs': 1, 'ckpt_path': 'ucf__ckpt_best_tmp.pkl', 'preprompt': False, 'backbone': 'ViT-B/16', 'mask_rate': 0.55, 'save_dir': './ckpt/base2novel_ucf/', 'logs_dir': 'log_temp.log', 'max_epoch': 30, 'max_seqlen': 200, 'lr': 0.001, 'std_init': 0.01, 'cls_hidden': 128}
+[2025-10-24 15:24:02,684][main.py][line:180][INFO] total requires_grad params:4.0440M
+[2025-10-24 15:24:02,684][main.py][line:184][INFO] Training Mode
+[2025-10-24 15:24:02,684][main.py][line:188][INFO] train from scratch
+[2025-10-24 15:24:02,687][main.py][line:63][INFO] Optimizer:Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+)
+
+[2025-10-24 15:24:16,723][main.py][line:71][INFO] Random initialize AUC:0.6304 top1ACC:0.1483 top5ACC:0.4483 mauc:0.6889 mauc_ab:0.6900
+[2025-10-24 15:24:31,450][main.py][line:98][INFO] save model at epoch1, AUC:0.8109
+
+[2025-10-24 15:24:31,450][main.py][line:104][INFO] [Epoch:1/30]: loss1:0.6633 loss2:1.9987 pseloss:0.0349| AUC:0.8109 
+ top1ACC:0.5276 top5ACC:0.7310 mauc:0.7897 mauc_ab:0.7825
+[2025-10-24 15:24:46,481][main.py][line:98][INFO] save model at epoch2, AUC:0.8446
+
+[2025-10-24 15:24:46,482][main.py][line:104][INFO] [Epoch:2/30]: loss1:0.3939 loss2:0.9522 pseloss:0.0247| AUC:0.8446 
+ top1ACC:0.6069 top5ACC:0.7310 mauc:0.8526 mauc_ab:0.8422
+[2025-10-24 15:25:01,165][main.py][line:98][INFO] save model at epoch3, AUC:0.8632
+
+[2025-10-24 15:25:01,166][main.py][line:104][INFO] [Epoch:3/30]: loss1:0.3059 loss2:0.5984 pseloss:0.0217| AUC:0.8632 
+ top1ACC:0.6310 top5ACC:0.7310 mauc:0.8715 mauc_ab:0.8618
+[2025-10-24 15:25:15,702][main.py][line:104][INFO] [Epoch:4/30]: loss1:0.2551 loss2:0.4701 pseloss:0.0215| AUC:0.8616 
+ top1ACC:0.6414 top5ACC:0.7483 mauc:0.8707 mauc_ab:0.8608
+[2025-10-24 15:25:29,047][main.py][line:104][INFO] [Epoch:5/30]: loss1:0.2381 loss2:0.3919 pseloss:0.0189| AUC:0.8589 
+ top1ACC:0.6310 top5ACC:0.7793 mauc:0.8615 mauc_ab:0.8511
+[2025-10-24 15:25:43,320][main.py][line:104][INFO] [Epoch:6/30]: loss1:0.1835 loss2:0.3465 pseloss:0.0181| AUC:0.8483 
+ top1ACC:0.6310 top5ACC:0.7931 mauc:0.8637 mauc_ab:0.8534
+[2025-10-24 15:25:57,105][main.py][line:104][INFO] [Epoch:7/30]: loss1:0.1721 loss2:0.3014 pseloss:0.0166| AUC:0.8394 
+ top1ACC:0.6448 top5ACC:0.7966 mauc:0.8676 mauc_ab:0.8576
+[2025-10-24 15:26:10,615][main.py][line:104][INFO] [Epoch:8/30]: loss1:0.1473 loss2:0.2502 pseloss:0.0157| AUC:0.8389 
+ top1ACC:0.6414 top5ACC:0.7931 mauc:0.8636 mauc_ab:0.8533

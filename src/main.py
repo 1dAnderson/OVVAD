@@ -13,6 +13,7 @@ from utils import setup_seed
 from log import get_logger
 from model import Model
 from dataset import *
+from loss import *
 
 from train import train_func
 from test import test_func
@@ -45,18 +46,20 @@ def load_checkpoint(model, ckpt_path, logger):
 
 
 def train(model, train_loader, test_loader, gt, logger,clslist):
-    if not os.path.exists(cfg.save_dir):
-        os.makedirs(cfg.save_dir)
+    save_dir = cfg.save_dir + args.test + '/'
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
 
     criterion = torch.nn.BCELoss()
     xentropy = torch.nn.CrossEntropyLoss()
+    pseloss = PseLoss(cfg)
     optimizer = optim.Adam(model.parameters(), lr=cfg.lr) 
     #scheduler = optim.lr_scheduler.MultiStepLR(optimizer,milestones=[5,10],gamma=0.1)
 
     #seed2024 for ub weightdecaty5e-4
     #optimizer = optim.Adam(model.parameters(), lr=cfg.lr,betas = (0.9, 0.999), weight_decay = 5e-4)
     
-    logger.info('Model:{}\n'.format(model))
+    # logger.info('Model:{}\n'.format(model))
     logger.info('Optimizer:{}\n'.format(optimizer))
     if cfg.eval_on_cpu:
         torch.save(model.state_dict(), 'tmp.ckpt')
@@ -73,7 +76,8 @@ def train(model, train_loader, test_loader, gt, logger,clslist):
 
     st = time.time()
     for epoch in range(cfg.max_epoch):
-        loss1, loss2 = train_func(train_loader, model, optimizer, criterion, xentropy, clslist,cfg.device,cfg.lamda)
+        # loss1, loss2 = train_func(train_loader, model, optimizer, criterion, xentropy, clslist,cfg.device,cfg.lamda)
+        loss1, loss2, loss3= train_func(train_loader, model, optimizer, criterion, xentropy, pseloss, clslist,cfg)
         # scheduler.step() #for ucf
         if cfg.eval_on_cpu:
             torch.save(model.state_dict(), 'tmp.ckpt')
@@ -89,7 +93,7 @@ def train(model, train_loader, test_loader, gt, logger,clslist):
             best_auc = auc
            
             best_model_wts = copy.deepcopy(model.state_dict())
-            torch.save(model.state_dict(), cfg.save_dir + cfg.model_name + '_ckpt_best_tmp.pkl')
+            torch.save(model.state_dict(), save_dir + cfg.model_name + '_ckpt_best_tmp.pkl')
 
             logger.info('save model at epoch{}, {}:{:.4f}\n'.format(epoch+1, cfg.metrics,best_auc))
                 
@@ -97,25 +101,38 @@ def train(model, train_loader, test_loader, gt, logger,clslist):
         if WANDB:
             wandb.log({'auc':auc,'epoch':epoch,'loss_bin':loss1,'loss_Mul':loss2,'best_auc':best_auc,'top1acc':top1acc,'top5acc':top5acc,'mauc':mauc,'mauc_WOnorm':mauc_WOnorm})
 
-        logger.info('[Epoch:{}/{}]: loss1:{:.4f} loss2:{:.4f} | {}:{:.4f} \n top1ACC:{:.4f} top5ACC:{:.4f} mauc:{:.4f} mauc_ab:{:.4f}'.format(
-        epoch + 1, cfg.max_epoch, loss1, loss2, cfg.metrics,auc,top1acc,top5acc,mauc,mauc_WOnorm))
+        logger.info('[Epoch:{}/{}]: loss1:{:.4f} loss2:{:.4f} pseloss:{:.4f}| {}:{:.4f} \n top1ACC:{:.4f} top5ACC:{:.4f} mauc:{:.4f} mauc_ab:{:.4f}'.format(
+        epoch + 1, cfg.max_epoch, loss1, loss2, loss3, cfg.metrics,auc,top1acc,top5acc,mauc,mauc_WOnorm))
+        # write a txt, show best auc
+        auc_str = str(round(best_auc, 4))
+        txt_name = auc_str + ".txt"
+        txt_path = os.path.join(save_dir, txt_name)
+
+        for file in os.listdir(save_dir):
+            if file.endswith(".txt"):
+                os.remove(os.path.join(save_dir, file))
+
+        with open(txt_path, "w") as f: pass
 
 
     time_elapsed = time.time() - st
-    torch.save(model.state_dict(), cfg.save_dir + cfg.model_name + '_final.pkl')
-    logger.info('save model {}'.format(cfg.save_dir + cfg.model_name + '_final.pkl'))
+    # torch.save(model.state_dict(), save_dir + cfg.model_name + '_final.pkl')
+    # logger.info('save model {}'.format(save_dir + cfg.model_name + '_final.pkl'))
     model.load_state_dict(best_model_wts)
-    torch.save(model.state_dict(), cfg.save_dir + cfg.model_name + '_' + str(round(best_auc, 4)).split('.')[1] + '.pkl')
-    logger.info('save model {}'.format(cfg.save_dir + cfg.model_name + '_' + str(round(best_auc, 4)).split('.')[1] + '.pkl'))
+    # torch.save(model.state_dict(), save_dir + cfg.model_name + '_' + str(round(best_auc, 4)).split('.')[1] + '.pkl')
+    # logger.info('save model {}'.format(save_dir + cfg.model_name + '_' + str(round(best_auc, 4)).split('.')[1] + '.pkl'))
     logger.info('Training completes in {:.0f}m {:.0f}s | best {}:{:.4f}\n'.
                 format(time_elapsed // 60, time_elapsed % 60, cfg.metrics, best_auc))
     if WANDB:
         wandb.finish()
 
 def main(cfg):
+    save_dir = cfg.save_dir + args.test + '/'
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
     # torch.backends.cuda.flash_sdp_enabled()
     device = cfg.device if torch.cuda.is_available() else 'cpu'
-    logger = get_logger(cfg.logs_dir)
+    logger = get_logger(save_dir + cfg.logs_dir)
     setup_seed(cfg.seed)
     logger.info('Config:{}'.format(cfg.__dict__))
 
@@ -123,8 +140,10 @@ def main(cfg):
     print("loading cls info and encoder the text of cls...")
     print(cls_dict)
     if cfg.dataset == 'ucf-crime':
-        train_data = UCFDataset(cfg, cls_dict,test_mode=False)
-        test_data = UCFDataset(cfg, cls_dict,test_mode=True)
+        # train_data = UCFDataset(cfg, cls_dict,test_mode=False)
+        # test_data = UCFDataset(cfg, cls_dict,test_mode=True)
+        train_data = UCFDataset_PesLabel(cfg, cls_dict,test_mode=False)
+        test_data = UCFDataset_PesLabel(cfg, cls_dict,test_mode=True)
     elif cfg.dataset == 'shanghaitech':
         train_data = SHDataset(cfg,cls_dict, test_mode=False)
         test_data = SHDataset(cfg,cls_dict, test_mode=True)
@@ -172,7 +191,7 @@ def main(cfg):
     elif args.mode == 'infer':
         logger.info('Test Mode')
         if cfg.ckpt_path is not None:
-            load_checkpoint(model, cfg.ckpt_path, logger)
+            load_checkpoint(model, save_dir + cfg.ckpt_path, logger)
         else:
             logger.info('infer from random initialization')
         infer_func(model.to(device), test_loader, gt, logger, cfg,clslist)
@@ -183,17 +202,30 @@ def main(cfg):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='VAD')
+    # 原有参数
     parser.add_argument('--dataset', default='ucf', help='anomaly video dataset')
     parser.add_argument('--mode', default='train', help='model status: (train or infer)')
-    args = parser.parse_args()
-    cfg = build_config(args.dataset)
-   
-    config = cfg.__dict__
-    # print(config)
-    WANDB =  cfg.WANDB
+    parser.add_argument('--test', default='test', help='for file path')
 
+    # 常用参数参数
+    parser.add_argument('--lamda2', type=float, default=10, help='second lambda weight')
+    parser.add_argument('--device', type=str, default="cuda:0", help='device to use, e.g. cuda:0 or cpu')
+
+    args = parser.parse_args()
+
+    # 从 dataset 构建配置
+    cfg = build_config(args.dataset)
+
+    # 用命令行参数覆盖 cfg 中对应项
+    cfg.lamda2 = args.lamda2
+    cfg.device = args.device
+
+    # 将 cfg 转换为 dict
+    config = cfg.__dict__
+
+    WANDB = cfg.WANDB
     if WANDB:
-        wandb.init(project='OVVAD',config= config)
-        #wandb.init(project='OV_VAD',reinit=True,config= config,settings= wandb.Settings(start_method="thread"))
+        wandb.init(project='OVVAD', config=config)
+
     main(cfg)
     

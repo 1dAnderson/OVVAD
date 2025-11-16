@@ -1,9 +1,68 @@
 import torch.utils.data as data
-from utils import process_feat
+from utils import process_feat, process_feat2
 import numpy as np
 import os
 from prompt import *
 
+class UCFDataset_PesLabel(data.Dataset):
+    def __init__(self, cfg, cls_dict = None,transform=None, test_mode=False):
+        self.feat_prefix = cfg.feat_prefix
+        if test_mode:
+            self.list_file = cfg.test_list
+        else:
+            self.list_file = cfg.train_list
+        self.max_seqlen = cfg.max_seqlen
+        self.tranform = transform
+        self.test_mode = test_mode
+        self.normal_flag = 'Normal'
+        self.abnormal_dict = cls_dict
+        pseudo_label_path = "/home/dengyunhui/repo/VAD/My-Project/pseudo_label/UCF_frame_pseudo_ViT-B_16_ovvad.npy"
+        print(f"load pseudo label:{pseudo_label_path}")
+        self.pse_labels = np.load(pseudo_label_path, allow_pickle=True).item()
+        self._parse_list()
+
+    def _parse_list(self):
+        self.list = list(open(self.list_file))
+
+    def __getitem__(self, index):
+        feat_path = os.path.join(self.feat_prefix, self.list[index].strip('\n'))
+        video_idx = self.list[index].strip('\n').split('/')[-1].split('_')[0]
+        v_feat = np.array(np.load(feat_path), dtype=np.float32)
+        t,f = v_feat.shape
+        pse_name = video_idx + "_x264"
+        if self.normal_flag in self.list[index]:
+            video_ano = video_idx
+            ano_idx = self.abnormal_dict[video_ano]
+            label = 0.0
+        else:
+            video_ano = video_idx[:-3]
+            ano_idx = self.abnormal_dict[video_ano]
+            label = 1.0
+
+        if self.tranform is not None:
+            v_feat = self.tranform(v_feat)
+           
+        
+        if self.test_mode:
+            return v_feat, label,ano_idx  # ano_idx , video_name
+        else:
+            # train mode load pse_label
+            if self.normal_flag in self.list[index]:
+                pse_label = np.zeros(t)
+            else:
+                pse_label = torch.from_numpy(self.pse_labels[pse_name]).float()
+                win_size = int(len(pse_label)/t)
+                # max_pool1d输入至少为2维
+                pse_label = pse_label.unsqueeze(0)
+                pse_label = torch.max_pool1d(pse_label, win_size).squeeze().numpy()
+            if pse_label.ndim == 1:
+                pse_label = np.expand_dims(pse_label, axis=1)
+            pse_label = process_feat(pse_label, self.max_seqlen, is_random=False)
+            v_feat = process_feat(v_feat, self.max_seqlen, is_random=False)
+            return v_feat, label, ano_idx, pse_label
+
+    def __len__(self):
+        return len(self.list)
 class UCFDataset(data.Dataset):
     def __init__(self, cfg, cls_dict = None,transform=None, test_mode=False):
         self.feat_prefix = cfg.feat_prefix
@@ -16,7 +75,6 @@ class UCFDataset(data.Dataset):
         self.test_mode = test_mode
         self.normal_flag = 'Normal'
         self.abnormal_dict = cls_dict
-       
         self._parse_list()
 
     def _parse_list(self):
@@ -48,7 +106,6 @@ class UCFDataset(data.Dataset):
 
     def __len__(self):
         return len(self.list)
-
 
 class SHDataset(data.Dataset):
     def __init__(self, cfg, cls_dict = None,transform=None, test_mode=False):
