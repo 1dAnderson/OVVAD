@@ -1,4 +1,3 @@
-
 import time
 from test import *
 
@@ -27,8 +26,9 @@ def infer_func(model, dataloader, gt, logger, cfg,clslist):
             v2t_logits_le = MILAlign(v_feat,t_feat_le,logit_scale,label,seq_len,cfg.device)
             
             '''是否使用论文钟的AP'''
-            # v2t_logits = torch.where(v2t_logits_le>v2t_logits_pre,v2t_logits_le,v2t_logits_pre)
-            v2t_logits = v2t_logits_le
+            print("=======计算ap======")
+            v2t_logits = torch.where(v2t_logits_le>v2t_logits_pre,v2t_logits_le,v2t_logits_pre)
+            # v2t_logits = v2t_logits_le
 
             sim_batch = v2t_logits.softmax(dim=-1)
             target_batch = multi_label.to(cfg.device)

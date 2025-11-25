@@ -211,22 +211,285 @@ class Model(nn.Module):
                 #  text embedding from prompting: base on the input cls_dict
                 # embedding order follows the values of cls_name(to match the multi_label(id of cls))
      
-        # return logits, vFeature,t_feature_pre,t_feature_le
+        return logits, vFeature,t_feature_pre,t_feature_le
         
         ## +visual feature
-        logits_attn = logits.permute(0, 2, 1)
-        visual_attn = logits_attn @ vFeature
-        visual_attn = visual_attn / visual_attn.norm(dim=-1, keepdim=True)
-        visual_attn = visual_attn.expand(visual_attn.shape[0], t_feature_pre.shape[0], visual_attn.shape[2])
-        text_features = t_feature_pre.unsqueeze(0)
-        text_features = text_features.expand(visual_attn.shape[0], text_features.shape[1], text_features.shape[2])
+        # logits_attn = logits.permute(0, 2, 1)
+        # visual_attn = logits_attn @ vFeature
+        # visual_attn = visual_attn / visual_attn.norm(dim=-1, keepdim=True)
+        # visual_attn = visual_attn.expand(visual_attn.shape[0], t_feature_pre.shape[0], visual_attn.shape[2])
+        # text_features = t_feature_pre.unsqueeze(0)
+        # text_features = text_features.expand(visual_attn.shape[0], text_features.shape[1], text_features.shape[2])
       
-        t_feature_pre = text_features + visual_attn
+        # t_feature_pre = text_features + visual_attn
 
         
        
-        return logits, vFeature,t_feature_pre,t_feature_le
+        # return logits, vFeature,t_feature_pre,t_feature_le
+
+class SimpleAdapter(nn.Module):
+    def __init__(self, dim):
+        super().__init__()
+        self.fc1 = nn.Linear(dim, dim // 4)
+        self.relu = nn.ReLU(inplace=True)
+        self.fc2 = nn.Linear(dim // 4, dim)
+
+    def forward(self, x):
+        return self.fc2(self.relu(self.fc1(x)))
+
+class AdaptedModel(nn.Module):
+    def __init__(self, cfg, clslist=None, vector_dict=None, token_dict=None,device='cpu'):
+        super(AdaptedModel, self).__init__()
+        self.TM = TemporalModule(cfg,cfg.feat_dim,cfg.head_num, cfg.dropout_gat,cfg.gamma, cfg.bias,device)
        
+        ###########ablation experiment：transformer
+        # self.temporalModelling = TemporalModelling(width=512, layers=2, heads=4, dropout=0.6)
+        ##############################
+
+        self.device = device
+        # notice to frozen its parameters
+        self.clipmodel, _ = clip.load('ViT-B/16', device=self.device, jit=False) 
+        for paramclip in self.clipmodel.parameters():
+            paramclip.requires_grad = False
+        # detector to [b,seqlen,1]
+        self.classifier = nn.Sequential(
+                nn.Conv1d(512, cfg.cls_hidden, kernel_size=1, padding=0),
+                nn.GELU(),
+                nn.Conv1d(cfg.cls_hidden,1,kernel_size=1,padding=0)
+        ) 
+
+        self.mlp1 = nn.Sequential(OrderedDict([
+            ("c_fc", nn.Linear(512, 512 * 4)),
+            ("gelu", QuickGELU()),
+            ("c_proj", nn.Linear(512 * 4, 512))
+        ]))   
+        self.logit_scale = nn.Parameter(torch.ones([]) * np.log(1 / cfg.temp))
+       
+        # text adapter
+        self.text_adapt_until = cfg.text_adapt_until
+        self.text_adapt_weight = cfg.text_adapt_weight
+        self.text_adapter = nn.ModuleList(
+            [SimpleAdapter(self.clipmodel.transformer.width) for _ in range(self.text_adapt_until)]
+        )
+        # self.apply(weight_init)
+        self.has_feature_input = cfg.has_feature_input
+        self.temporal = cfg.temporal
+        self.preprompt = cfg.preprompt
+  
+        self.promptpath = cfg.token_feat
+        self.prefix = cfg.prefix
+        self.postfix = cfg.postfix
+        self.clslist = clslist
+        self.vector_dict = vector_dict
+        self.token_dict = token_dict
+        self.embedding = torch.nn.Embedding(77, 512)
+        self.fixed_prompt = cfg.fixed_prompt
+        self.norm = nn.LayerNorm(512)
+        self.std_init = cfg.std_init
+        self.seed = cfg.seed
+        self.initialize_parameters()
+        
+
+    def initialize_parameters(self):
+        # torch.manual_seed(self.seed)
+        nn.init.normal_(self.embedding.weight, std=self.std_init)
+        # for adapter in self.text_adapter:
+        #     nn.init.xavier_uniform_(adapter.fc1.weight)
+        #     nn.init.zeros_(adapter.fc1.bias)
+        #     nn.init.xavier_uniform_(adapter.fc2.weight)
+        #     nn.init.zeros_(adapter.fc2.bias)
+        # torch_init.xavier_uniform_(self.embedding.weight)
+
+    def encode_learnable_prompt(self, text):
+        word_tokens = clip.tokenize(text).to(self.device)
+        word_embedding = self.clipmodel.encode_token(word_tokens)
+        text_embeddings = self.embedding(torch.arange(77).to(self.device)).unsqueeze(0).repeat([len(text), 1, 1])
+        text_tokens = torch.zeros(len(text), 77).to(self.device)
+
+        for i in range(len(text)):
+            ind = torch.argmax(word_tokens[i], -1)
+            text_embeddings[i, 0] = word_embedding[i, 0]
+            text_embeddings[i, self.prefix + 1: self.prefix + ind] = word_embedding[i, 1: ind]
+            text_embeddings[i, self.prefix + ind + self.postfix] = word_embedding[i, ind]
+           ## add xct
+            text_tokens[i, 0] = word_tokens[i, 0]
+            text_tokens[i, self.prefix + 1: self.prefix + ind] = word_tokens[i, 1: ind]
+            ##
+            text_tokens[i, self.prefix + ind + self.postfix] = word_tokens[i, ind]
+
+        text_features = self.clipmodel.encode_text(text_embeddings, text_tokens)
+        # text_features = self.encode_text_with_adapter(text_embeddings)
+
+        return text_features
+
+    def fixed_learnable_prompt(self, text):
+        """
+        输入: text = ["car", "fire", "falling person", ...]
+        输出:
+            anomaly_features: 原本只基于 anomaly_text 的 CLIP embedding
+            text_features: shape = (len(text), 2, dim)   # 第2维: index 0=normal, 1=abnormal
+        """
+        
+        all_prompts = [f"a {cls_name} video from a CCTV camera" for cls_name in text]
+        all_tokens = clip.tokenize(all_prompts).to(self.device)
+        all_features = self.encode_text_with_adapter(all_tokens)
+        all_features = all_features / all_features.norm(dim=-1, keepdim=True)
+
+        pair_list = []
+
+        for cls_name in text[1:]:  # 从异常类别开始
+            abnormal_prompt = f"a {cls_name} video from a CCTV camera"
+            normal_prompt   = f"a normal video from a CCTV camera without {cls_name}"
+
+            abnormal_token = clip.tokenize([abnormal_prompt]).to(self.device)
+            abnormal_feat = self.encode_text_with_adapter(abnormal_token)
+            abnormal_feat = abnormal_feat / abnormal_feat.norm(dim=-1, keepdim=True)
+
+            normal_token = clip.tokenize([normal_prompt]).to(self.device)
+            normal_feat = self.encode_text_with_adapter(normal_token)
+            normal_feat = normal_feat / normal_feat.norm(dim=-1, keepdim=True)
+
+            # normal = index 0, abnormal = index 1 (固定顺序)
+            pair_list.append(torch.stack([normal_feat.squeeze(0), abnormal_feat.squeeze(0)], dim=0))
+
+        # shape: (num_classes-1, 2, dim)
+        pair_features = torch.stack(pair_list, dim=0)
+
+        return all_features, pair_features
+
+        # abnormal_prompts = all_prompts[1:] #去掉Normal标签
+        # anomaly_tokens = clip.tokenize(abnormal_prompts).to(self.device)
+        # anomaly_features = self.encode_text_with_adapter(anomaly_tokens)
+        # anomaly_features = anomaly_features / anomaly_features.norm(dim=-1, keepdim=True)
+        
+        # # 对应异常标签的normal prompt
+        # normal_prompts = [f"a normal video without {cls_name}" for cls_name in text[1:]]
+
+        # normal_tokens = clip.tokenize(normal_prompts).to(self.device)
+        # normal_features = self.encode_text_with_adapter(normal_tokens)
+        # normal_features = normal_features / normal_features.norm(dim=-1, keepdim=True)
+        # # 形状变成: (B, 2, D)   ==> B=类别数，2=[normal, abnormal]
+        # pair_features = torch.stack([normal_features, anomaly_features], dim=1)
+
+        # return all_features, pair_features
+
+    
+    
+    def encode_text_with_adapter(self, text, cast_dtype=None):
+        x = self.clipmodel.token_embedding(text)
+        if cast_dtype is not None:
+            x = x.to(cast_dtype)
+
+        x = x + self.clipmodel.positional_embedding.to(x.dtype)
+        x = x.permute(1, 0, 2)  # LND
+
+        # --- Transformer 3 层 ---
+        for i in range(len(self.clipmodel.transformer.resblocks)):
+            x= self.clipmodel.transformer.resblocks[i](x)
+
+            # adapter tuning ① 插入 MLP adapter
+            if i < self.text_adapt_until:
+                adapt_out = self.text_adapter[i](x)
+
+                # adapter tuning ② 特征方向归一化
+                adapt_out = (
+                    adapt_out *
+                    x.norm(dim=-1, keepdim=True) /
+                    adapt_out.norm(dim=-1, keepdim=True)
+                )
+
+                # adapter tuning ③ 加权融合
+                x = self.text_adapt_weight * adapt_out + (1 - self.text_adapt_weight) * x
+
+        # --- LN & EOT token ---
+        x = x.permute(1, 0, 2)
+        x = self.clipmodel.ln_final(x)
+        x = x[torch.arange(x.shape[0]), text.argmax(dim=-1)]
+
+        return x
+    def encode_learnable_prompt_with_adapter(self, text, text_token, cast_dtype=None):
+        x = text
+        if cast_dtype is not None:
+            x = x.to(cast_dtype)
+
+        x = x + self.clipmodel.positional_embedding.to(x.dtype)
+        x = x.permute(1, 0, 2)  # LND
+
+        # --- Transformer 3 层 ---
+        for i in range(len(self.clipmodel.transformer.resblocks)):
+            x= self.clipmodel.transformer.resblocks[i](x)
+
+            # adapter tuning ① 插入 MLP adapter
+            if i < self.text_adapt_until:
+                adapt_out = self.text_adapter[i](x)
+
+                # adapter tuning ② 特征方向归一化
+                adapt_out = (
+                    adapt_out *
+                    x.norm(dim=-1, keepdim=True) /
+                    adapt_out.norm(dim=-1, keepdim=True)
+                )
+
+                # adapter tuning ③ 加权融合
+                x = self.text_adapt_weight * adapt_out + (1 - self.text_adapt_weight) * x
+
+        # --- LN & EOT token ---
+        x = x.permute(1, 0, 2)
+        x = self.clipmodel.ln_final(x)
+
+        x = x[torch.arange(x.shape[0]), text_token.argmax(dim=-1)]
+
+        return x
+
+    def forward(self, x, seq_len=None,clslist=None):
+        
+        #video feature
+        if self.has_feature_input:
+            x_v = x
+        else: 
+            #directly from CLIP image encoder
+            pass
+        if self.temporal:
+            x_v = self.TM(x_v, seq_len) #in:[b,t,512];out:[b,512,t]
+           
+            ####ablation experiment：test transformer#####
+            # x_v = self.temporalModelling(x_v).permute(0,2,1)
+            ################################
+        else:
+            x_v = F.normalize(x_v, dim=-1)
+            x_v = x_v.permute(0,2,1)
+        logits = self.classifier(x_v)
+        logits = logits.permute(0, 2, 1)
+        logits = torch.sigmoid(logits)
+        vFeature = x_v.permute(0,2,1)
+
+        pair_features = None
+        t_feature_pre = torch.from_numpy(np.load(self.promptpath)).to(self.device)
+        if not self.fixed_prompt: #learnable prompt
+            t_feature_le = self.encode_learnable_prompt(clslist)
+        else: 
+            t_feature_le, pair_features = self.fixed_learnable_prompt(clslist)
+
+            # encode text
+           
+                #  text embedding from prompting: base on the input cls_dict
+                # embedding order follows the values of cls_name(to match the multi_label(id of cls))
+     
+        return logits, vFeature, t_feature_pre, t_feature_le, pair_features
+        
+        ## +visual feature
+        # logits_attn = logits.permute(0, 2, 1)
+        # visual_attn = logits_attn @ vFeature
+        # visual_attn = visual_attn / visual_attn.norm(dim=-1, keepdim=True)
+        # visual_attn = visual_attn.expand(visual_attn.shape[0], t_feature_pre.shape[0], visual_attn.shape[2])
+        # text_features = t_feature_pre.unsqueeze(0)
+        # text_features = text_features.expand(visual_attn.shape[0], text_features.shape[1], text_features.shape[2])
+      
+        # t_feature_pre = text_features + visual_attn
+
+        
+       
+        # return logits, vFeature,t_feature_pre,t_feature_le
     
 
 

@@ -128,6 +128,58 @@ def MILAlign(x_v,x_t,logit_scale,label,seq_len,device):
     
     return video_logits
 
+
+def Contrast_MILAlign(x_v,x_t,logit_scale,label,seq_len,device):
+    '''
+
+    Args:
+        x_v: [b,seqlen,512]
+        x_t: [cls_num,512]
+
+    Returns:similarity [b,cls_num]
+
+    '''
+    vFeature=x_v
+    tFeature=x_t
+
+    vFeature = vFeature / vFeature.norm(dim=-1, keepdim=True)
+    tFeature = tFeature / tFeature.norm(dim=-1, keepdim=True)
+    # if torch.isnan(vFeature).any(): print("v_feat has NaN")
+    # if torch.isnan(tFeature).any(): print("t_feat_le has NaN")
+    #logits = logit_scale*vFeature @ tFeature.type(vFeature.dtype).t()
+    if len(tFeature.shape) == 2:
+        logits = logit_scale*vFeature @ tFeature.type(vFeature.dtype).t()
+              #[b,seqlen,cls_num]
+        #print(logits.shape)
+        video_logits = torch.zeros(0).to(device)
+        # get top of 16 prompts
+        for i in range(logits.shape[0]):
+            if label[i] == 0:
+                #normal then top-1 ,
+                #  this k=seqlen/16+1
+                tmp, _ = torch.topk(logits[i][:seq_len[i]], k=int(seq_len[i]//16+1),dim=0, largest=False)
+                tmp = tmp.mean(dim=0).unsqueeze(0)
+                video_logits = torch.cat((video_logits, tmp))
+
+
+            # [b,cls_num]
+        #print(logits.shape)
+    elif len(tFeature.shape) == 3:
+        logits = logit_scale*vFeature @ tFeature.type(vFeature.dtype).permute(0,2,1)
+         # get top of 16 prompts
+        # logits = logits.view(logits.shape[0],logits.shape[1],-1,16)
+        # logits = logits.topk(k=1,dim=3)[0].squeeze(-1)
+        video_logits = torch.zeros(0).to(device)
+        for i in range(logits.shape[0]):
+            if label[i] == 0:
+                tmp, _ = torch.topk(logits[i, :seq_len[i]], k=int(seq_len[i]//16+1), largest=False, dim=0)
+                video_logits = torch.cat([video_logits, torch.mean(tmp, 0, keepdim=True)], dim=0)
+    else:
+        print("wrong dim!")
+        exit(-1)
+    
+    return video_logits
+
 def get_labels(multi_labels, prompt_text):
     label_vectors = torch.zeros(0)
   

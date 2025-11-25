@@ -36,7 +36,7 @@ def CLAS_not1(logits, label, seq_len, criterion,device='cpu'): #for xd
 def focal_loss(
     inputs: torch.Tensor,
     targets: torch.Tensor,
-    alpha: float = 1,
+    alpha: float = 0.25,
     gamma: float = 2,
     reduction: str = "mean",
 ):

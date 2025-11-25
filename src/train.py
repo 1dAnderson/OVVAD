@@ -60,9 +60,12 @@ def train_func(dataloader, model, optimizer, criterion, xentropy, pseloss, clsli
     B_loss = []
     M_loss = []
     P_loss = []
+    O_loss = []
+    C_loss = []
     device = cfg.device
     lamda1 = cfg.lamda1
     lamda2 = cfg.lamda2
+    lamda3 = cfg.lamda3
     with torch.set_grad_enabled(True):
         model.train()
         for i, (v_input, label, multi_label, pse_label) in enumerate(dataloader):
@@ -79,7 +82,7 @@ def train_func(dataloader, model, optimizer, criterion, xentropy, pseloss, clsli
             # video_labels = torch.unique(multi_label)
 
                     #logits:[b,seqlen,1] v_feat:[b,seqlen,512] t_feat:[cls_num,512]
-            logits, v_feat,t_feat_pre,t_feat_le = model(v_input, seq_len, clslist)
+            logits, v_feat, t_feat_pre, t_feat_le, pair_features = model(v_input, seq_len, clslist)
             # for k,v in model.named_parameters():
                 
             #     # print(v.grad)
@@ -108,9 +111,27 @@ def train_func(dataloader, model, optimizer, criterion, xentropy, pseloss, clsli
             loss1 = CLAS(logits, label, seq_len, criterion,device)
             #pseloss
             loss3 = pseloss(logits, pse_label)
-#
-            loss = loss1 + lamda1 * loss2 + lamda2 * loss3
-            # loss = loss1 + lamda1 * loss2
+
+            #orthogonal loss
+            # text_features shape: (cls_num, 2, D)
+            normal_emb = pair_features[:, 0, :]     # (cls_num, D)
+            abnormal_emb = pair_features[:, 1, :]   # (cls_num, D)
+
+            # dot product (cosine-like since already normalized)
+            orthogonal_loss = (normal_emb * abnormal_emb).sum(dim=-1).mean() ** 2
+
+            # contrast loss
+            v2t_logits_contrast = Contrast_MILAlign(v_feat,abnormal_emb,logit_scale,label,seq_len,device)
+            k = int(v2t_logits_contrast.shape[1]/3)
+            lowest_scores, _ = torch.topk(v2t_logits_contrast, k, dim=1, largest=False)
+            contrast_loss = -torch.mean(torch.log_softmax(lowest_scores, dim=0))
+
+            # all 
+            # contrast_loss = -torch.mean(torch.log_softmax(v2t_logits_contrast, dim=0))
+
+            # loss = loss1 + lamda1 * loss2 + lamda2 * loss3
+            loss = loss1 + lamda1*loss2 + lamda2*orthogonal_loss + lamda3*contrast_loss
+            # loss = loss1 + lamda1*loss2 + lamda2*orthogonal_loss
            
 
 
@@ -121,5 +142,7 @@ def train_func(dataloader, model, optimizer, criterion, xentropy, pseloss, clsli
             B_loss.append(loss1.item())
             M_loss.append(loss2.item())
             P_loss.append(loss3.item())
+            O_loss.append(orthogonal_loss.item())
+            C_loss.append(contrast_loss.item())
 
-    return sum(B_loss) / len(B_loss), sum(M_loss) / len(M_loss), sum(P_loss) / len(P_loss)
+    return sum(B_loss) / len(B_loss), sum(M_loss) / len(M_loss), sum(P_loss) / len(P_loss), sum(O_loss) / len(O_loss), sum(C_loss) / len(C_loss)

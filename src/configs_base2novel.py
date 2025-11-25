@@ -15,7 +15,7 @@ def build_config(dataset):
     cfg.load_ckpt = False
     cfg.WANDB = False
     cfg.eval_on_cpu = False
-    cfg.fixed_prompt = False
+    cfg.fixed_prompt = True
     cfg.temporal = True
     cfg.head_num = 4
     if dataset in ['ucf', 'ucf-crime']:
@@ -42,12 +42,16 @@ def build_config(dataset):
         # training settings
         cfg.temp = 0.09
         cfg.lamda1 = 1
-        cfg.lamda2 = 5
+        cfg.lamda2 = 1
+        cfg.lamda3 = 1 #2
         cfg.seed = 10 #9
         #Pseudo label loss settings
         cfg.pse_alpha = 0.25
         cfg.pse_gamma = 2.0
         cfg.pse_threshold = 0.4
+        # text adapt setting 
+        cfg.text_adapt_until = 4 #4
+        cfg.text_adapt_weight = 0.1
         # test settings
         cfg.test_bs = 1
         cfg.ckpt_path = ''

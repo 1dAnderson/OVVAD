@@ -46,8 +46,8 @@ def test_func_original(dataloader, model, gt, dataset,cls_list,device):
             #v2t_logits_vis = MILAlign(v_feat,t_feat_vis,logit_scale,label,seq_len,device)
             
             '''是否使用论文钟的AP'''
-            # v2t_logits = torch.where(v2t_logits_le>v2t_logits_pre,v2t_logits_le,v2t_logits_pre)
-            v2t_logits = v2t_logits_le
+            v2t_logits = torch.where(v2t_logits_le>v2t_logits_pre,v2t_logits_le,v2t_logits_pre)
+            # v2t_logits = v2t_logits_le
         
             sim_batch = v2t_logits.softmax(dim=-1)
             target_batch = multi_label.to(device)
@@ -110,7 +110,7 @@ def test_func(dataloader, model, gt, dataset,cls_list,device):
             v_input = v_input.float().to(device)
             seq_len = torch.sum(torch.max(torch.abs(v_input), dim=2)[0] > 0, 1)
 
-            logits,v_feat,t_feat_pre,t_feat_le = model(v_input, seq_len,cls_list)
+            logits,v_feat,t_feat_pre,t_feat_le,pair_features = model(v_input, seq_len,cls_list)
             logit_scale = model.logit_scale.exp()
             #align and get the simlarity,multilabels of each batch
             v2t_logits_pre = MILAlign(v_feat,t_feat_pre,logit_scale,label,seq_len,device)
@@ -118,8 +118,9 @@ def test_func(dataloader, model, gt, dataset,cls_list,device):
             #v2t_logits_vis = MILAlign(v_feat,t_feat_vis,logit_scale,label,seq_len,device)
             
             '''是否使用论文钟的AP'''
-            v2t_logits = torch.where(v2t_logits_le>v2t_logits_pre,v2t_logits_le,v2t_logits_pre)
-            # v2t_logits = v2t_logits_le
+            # print("=====================计算ap=================")
+            # v2t_logits = torch.where(v2t_logits_le>v2t_logits_pre,v2t_logits_le,v2t_logits_pre)
+            v2t_logits = v2t_logits_le
         
             sim_batch = v2t_logits.softmax(dim=-1)
             target_batch = multi_label.to(device)

@@ -11,7 +11,7 @@ from configs_base2novel import build_config
 #from configs_fully import build_config
 from utils import setup_seed
 from log import get_logger
-from model import Model
+from model import Model, AdaptedModel
 from dataset import *
 from loss import *
 
@@ -63,7 +63,8 @@ def train(model, train_loader, test_loader, gt, logger,clslist):
     logger.info('Optimizer:{}\n'.format(optimizer))
     if cfg.eval_on_cpu:
         torch.save(model.state_dict(), 'tmp.ckpt')
-        model_eval = Model(cfg,device='cpu')
+        # model_eval = Model(cfg,device='cpu')
+        model_eval = AdaptedModel(cfg,device='cpu')
         load_checkpoint(model_eval,'tmp.ckpt',logger)
         initial_auc,top1acc,top5acc,mauc,mauc_WOnorm = test_func(test_loader, model_eval, gt, cfg.dataset,clslist,'cpu')
     else:
@@ -77,11 +78,12 @@ def train(model, train_loader, test_loader, gt, logger,clslist):
     st = time.time()
     for epoch in range(cfg.max_epoch):
         # loss1, loss2 = train_func(train_loader, model, optimizer, criterion, xentropy, clslist,cfg.device,cfg.lamda)
-        loss1, loss2, loss3= train_func(train_loader, model, optimizer, criterion, xentropy, pseloss, clslist,cfg)
+        loss1, loss2, loss3, orthogonal_loss, contrast_loss= train_func(train_loader, model, optimizer, criterion, xentropy, pseloss, clslist,cfg)
         # scheduler.step() #for ucf
         if cfg.eval_on_cpu:
             torch.save(model.state_dict(), 'tmp.ckpt')
-            model_eval = Model(cfg,device='cpu')
+            # model_eval = Model(cfg,device='cpu')
+            model_eval = AdaptedModel(cfg,device='cpu')
             load_checkpoint(model_eval,'tmp.ckpt',logger)
             auc,top1acc,top5acc,mauc,mauc_WOnorm = test_func(test_loader, model_eval, gt, cfg.dataset,clslist,'cpu')
         else:
@@ -93,16 +95,16 @@ def train(model, train_loader, test_loader, gt, logger,clslist):
             best_auc = auc
            
             best_model_wts = copy.deepcopy(model.state_dict())
-            torch.save(model.state_dict(), save_dir + cfg.model_name + '_ckpt_best_tmp.pkl')
+            # torch.save(model.state_dict(), save_dir + cfg.model_name + '_ckpt_best_tmp.pkl')
 
-            logger.info('save model at epoch{}, {}:{:.4f}\n'.format(epoch+1, cfg.metrics,best_auc))
+            # logger.info('save model at epoch{}, {}:{:.4f}\n'.format(epoch+1, cfg.metrics,best_auc))
                 
 
         if WANDB:
             wandb.log({'auc':auc,'epoch':epoch,'loss_bin':loss1,'loss_Mul':loss2,'best_auc':best_auc,'top1acc':top1acc,'top5acc':top5acc,'mauc':mauc,'mauc_WOnorm':mauc_WOnorm})
 
-        logger.info('[Epoch:{}/{}]: loss1:{:.4f} loss2:{:.4f} pseloss:{:.4f}| {}:{:.4f} \n top1ACC:{:.4f} top5ACC:{:.4f} mauc:{:.4f} mauc_ab:{:.4f}'.format(
-        epoch + 1, cfg.max_epoch, loss1, loss2, loss3, cfg.metrics,auc,top1acc,top5acc,mauc,mauc_WOnorm))
+        logger.info('[Epoch:{}/{}]: loss1:{:.4f} loss2:{:.4f} pseloss:{:.4f} orthogonal_loss:{:.4f} contrast_loss:{:.4f}| {}:{:.4f} \n top1ACC:{:.4f} top5ACC:{:.4f} mauc:{:.4f} mauc_ab:{:.4f}'.format(
+        epoch + 1, cfg.max_epoch, loss1, loss2, loss3, orthogonal_loss, contrast_loss, cfg.metrics,auc,top1acc,top5acc,mauc,mauc_WOnorm))
         # write a txt, show best auc
         auc_str = str(round(best_auc, 4))
         txt_name = auc_str + ".txt"
@@ -164,9 +166,11 @@ def main(cfg):
 
     
     if cfg.preprompt:
-        model = Model(cfg,device=device)
+        # model = Model(cfg,device=device)
+        model = AdaptedModel(cfg,device=device)
     else:
-        model = Model(cfg,clslist,device=device)
+        # model = Model(cfg,clslist,device=device)
+        model = AdaptedModel(cfg,clslist,device=device)
 
     gt = np.load(cfg.gt)
    
@@ -208,7 +212,8 @@ if __name__ == '__main__':
     parser.add_argument('--test', default='test', help='for file path')
 
     # 常用参数参数
-    parser.add_argument('--lamda2', type=float, default=10, help='second lambda weight')
+    parser.add_argument('--lamda2', type=float, default=1, help='second lambda weight')
+    parser.add_argument('--lamda3', type=float, default=1, help='third lambda weight')
     parser.add_argument('--device', type=str, default="cuda:0", help='device to use, e.g. cuda:0 or cpu')
 
     args = parser.parse_args()
@@ -218,6 +223,7 @@ if __name__ == '__main__':
 
     # 用命令行参数覆盖 cfg 中对应项
     cfg.lamda2 = args.lamda2
+    cfg.lamda3 = args.lamda3
     cfg.device = args.device
 
     # 将 cfg 转换为 dict
